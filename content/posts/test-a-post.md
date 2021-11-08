@@ -1,7 +1,7 @@
 ---
 title: "Test a Post"
 date: 2021-11-08T09:47:26+07:00
-draft: true
+draft: false
 tags: ["foo", "bar"]
 ---
 
