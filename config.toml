@@ -1,4 +1,4 @@
-baseURL = "http://anugrah.site/"
+baseURL = "https://anugrahsite.netlify.app/"
 languageCode = "en-us"
 title = "Anugrah Ramadhan's Digital Playground"
 theme = "anugrahtheme"
