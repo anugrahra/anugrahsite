@@ -1,0 +1,19 @@
+{{ define "main" }}
+  <h1 class="title">{{ .Site.Title }}</h1>
+  <nav>
+    {{ range .Site.Menus.landing }}
+    <ul>
+      <li>
+        <a href="{{ .URL }}">
+        {{ if .Pre }}
+        {{ $icon := printf "<i data-feather=\"%s\"></i> " .Pre | safeHTML }}
+        {{ $icon }}
+        {{ end }}
+        {{ $text := print .Name | safeHTML }}
+        {{ $text }}
+        </a>
+      </li>
+    </ul>
+    {{ end }}
+</nav>
+{{ end }}
