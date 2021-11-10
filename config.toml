@@ -1,6 +1,6 @@
 baseURL = "https://anugrahsite.netlify.app/"
 languageCode = "en-us"
-title = "Anugrah Ramadhan's Digital Playground"
+title = "Anugrah Ramadhan's Digital Museum"
 theme = "anugrahtheme"
 
 [menu]
@@ -39,7 +39,7 @@ theme = "anugrahtheme"
     weight = 3
   [[menu.landing]]
     name = "Kolase"
-    url = "https://twitter.com/dekadensiotak"
+    url = "https://photos.app.goo.gl/5GWyngEEBNSvhRCD9"
     weight = 3
   [[menu.landing]]
     name = "Lukisan"

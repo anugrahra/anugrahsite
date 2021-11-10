@@ -1,19 +1,25 @@
 {{ define "main" }}
-  <h1 class="title">{{ .Site.Title }}</h1>
-  <nav>
-    {{ range .Site.Menus.landing }}
-    <ul>
-      <li>
-        <a href="{{ .URL }}">
-        {{ if .Pre }}
-        {{ $icon := printf "<i data-feather=\"%s\"></i> " .Pre | safeHTML }}
-        {{ $icon }}
-        {{ end }}
-        {{ $text := print .Name | safeHTML }}
-        {{ $text }}
-        </a>
-      </li>
-    </ul>
-    {{ end }}
-</nav>
+  <section id="introduction">
+    <h1>Halo!</h1>
+    <p>Nama saya Anugrah Ramadhan. Saya adalah tukang ledeng yang belajar koding dan menulis banyak hal. Ini adalah situs dimana kamu bisa lihat beberapa karya yang pernah/sedang saya buat. Silakan bermain-main di &quot;museum&quot; pribadi saya. Siapa tahu kamu dapat sesuatu yang menarik.</p>
+  </section>
+  <section id="links">
+    <h3>Yuk, mulai lihat-lihat 👇</h3>
+    <nav>
+      {{ range .Site.Menus.landing }}
+      <ul>
+        <li class="landing-nav">
+          <a href="{{ .URL }}">
+          {{ if .Pre }}
+          {{ $icon := printf "<i data-feather=\"%s\"></i> " .Pre | safeHTML }}
+          {{ $icon }}
+          {{ end }}
+          {{ $text := print .Name | safeHTML }}
+          {{ $text }}
+          </a>
+        </li>
+      </ul>
+      {{ end }}
+    </nav>
+  </section>
 {{ end }}

@@ -1,3 +1,13 @@
 <footer>
-  <p class="footer text-center">Copyright (c) {{ now.Format "2006"}} Anugrah Ramadhan</p>
+  <p>
+    <nav>
+      {{ range .Site.Menus.main }}
+      <a href="{{ .URL }}">
+      {{ $text := print .Name | safeHTML}}
+      {{ $text }}
+      </a> /
+      {{ end }}
+    </nav>
+  </p>
+  <p>Copyright (c) {{ now.Format "2006"}} Anugrah Ramadhan</p>
 </footer>

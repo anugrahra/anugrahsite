@@ -1,5 +1,6 @@
 ---
 title: "Test a Post"
+tagline: "This is just a test"
 date: 2021-11-08T09:47:26+07:00
 draft: false
 tags: ["foo", "bar"]
