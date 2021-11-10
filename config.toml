@@ -26,22 +26,26 @@ theme = "anugrahtheme"
     weight = 4
 
   [[menu.landing]]
-    name = "Catatan"
-    url = "/tags/"
+    name = "📝 Catatan Pribadi"
+    url = "/catatan/"
     weight = 1
   [[menu.landing]]
-    name = "Seri Tulisan"
-    url = "/tags/"
+    name = "📚 Seri Tulisan"
+    url = "/seri-tulisan/"
     weight = 2
   [[menu.landing]]
-    name = "Program"
-    url = "https://twitter.com/dekadensiotak"
+    name = "🤖 Beberapa program sederhana yang saya koding"
+    url = "https://github.com/anugrahra"
     weight = 3
   [[menu.landing]]
-    name = "Kolase"
+    name = "✂️ Seni Kolase"
     url = "https://photos.app.goo.gl/5GWyngEEBNSvhRCD9"
-    weight = 3
+    weight = 4
   [[menu.landing]]
-    name = "Lukisan"
-    url = "https://twitter.com/dekadensiotak"
-    weight = 3
+    name = "🎨 Lukisan"
+    url = ""
+    weight = 5
+  [[menu.landing]]
+    name = "🎙️ Podcast"
+    url = "https://anchor.fm/dekadensiotak"
+    weight = 6
