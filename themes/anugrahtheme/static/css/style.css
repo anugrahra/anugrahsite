@@ -7,20 +7,21 @@
 }
 
 body {
-  position: relative;
-  min-height: 100vh;
+  text-align: justify;
+}
+
+header {
+  margin: 2% 0 2% 0;
+}
+
+header h4#main-title {
+  text-align: right;
 }
 
 .container {
-  margin: 0;
-  top: 50%;
-  left: 40%;
-  -ms-transform: translate(-40%, -50%);
-  transform: translate(-40%, -50%);
-  position: absolute;
+  margin: 1% 20% 0 20%;
 }
 
-header,
 main {
   margin-bottom: 2%;
 }
@@ -35,6 +36,9 @@ section#introduction p {
   font-size: 20px;
 }
 
+section#introduction h1#halo {
+  margin-top: 1%;
+}
 
 section#links ul li {
   list-style: none;
@@ -57,3 +61,13 @@ section#links a:visited {
 li.landing-nav {
   margin-bottom: 1%;
 }
+
+@media screen and (max-width: 880px) {
+
+  .container {
+    margin: 1% 5% 0 5%;
+  }
+
+}
+
+/* END OF KALAU KECIL */

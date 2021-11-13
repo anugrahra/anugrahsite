@@ -1,7 +1,10 @@
-baseURL = "https://anugrahsite.netlify.app/"
+baseURL = "https://anugrahra.space/"
 languageCode = "en-us"
-title = "Anugrah Ramadhan's Digital Museum"
+title = "Anugrah Ramadhan's Digital Museum 🏺"
 theme = "anugrahtheme"
+
+[permalinks]
+  posts = "/catatan/:title/"
 
 [menu]
   [[menu.main]]
@@ -26,7 +29,7 @@ theme = "anugrahtheme"
     weight = 4
 
   [[menu.landing]]
-    name = "📝 Catatan Pribadi"
+    name = "📝 Catatan"
     url = "/catatan/"
     weight = 1
   [[menu.landing]]
@@ -34,18 +37,14 @@ theme = "anugrahtheme"
     url = "/seri-tulisan/"
     weight = 2
   [[menu.landing]]
-    name = "🤖 Beberapa program sederhana yang saya koding"
-    url = "https://github.com/anugrahra"
+    name = "🤖 Karya Koding"
+    url = "/karya-koding/"
     weight = 3
   [[menu.landing]]
-    name = "✂️ Seni Kolase"
-    url = "https://photos.app.goo.gl/5GWyngEEBNSvhRCD9"
+    name = "🎨 Artwork"
+    url = "/artwork/"
     weight = 4
   [[menu.landing]]
-    name = "🎨 Lukisan"
-    url = ""
-    weight = 5
-  [[menu.landing]]
     name = "🎙️ Podcast"
-    url = "https://anchor.fm/dekadensiotak"
-    weight = 6
+    url = "/podcast/"
+    weight = 5
