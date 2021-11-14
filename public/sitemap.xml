@@ -3,37 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://anugrahsite.netlify.app/</loc>
+    <loc>https://anugrahra.space/</loc>
     <lastmod>2021-11-08T09:47:26+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://anugrahsite.netlify.app/tags/bar/</loc>
+    <loc>https://anugrahra.space/tags/bar/</loc>
     <lastmod>2021-11-08T09:47:26+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://anugrahsite.netlify.app/tags/foo/</loc>
+    <loc>https://anugrahra.space/tags/foo/</loc>
     <lastmod>2021-11-08T09:47:26+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://anugrahsite.netlify.app/posts/</loc>
+    <loc>https://anugrahra.space/tags/</loc>
     <lastmod>2021-11-08T09:47:26+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://anugrahsite.netlify.app/tags/</loc>
+    <loc>https://anugrahra.space/catatan/test-a-post/</loc>
     <lastmod>2021-11-08T09:47:26+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://anugrahsite.netlify.app/posts/test-a-post/</loc>
-    <lastmod>2021-11-08T09:47:26+07:00</lastmod>
+    <loc>https://anugrahra.space/catatan/</loc>
+    <lastmod>2020-08-26T06:05:24-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://anugrahsite.netlify.app/categories/</loc>
+    <loc>https://anugrahra.space/artwork/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anugrahra.space/karya-koding/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anugrahra.space/podcast/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anugrahra.space/seri-tulisan/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anugrahra.space/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://anugrahra.space/kontak/</loc>
   </url>
   
 </urlset>
