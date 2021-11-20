@@ -1,6 +1,9 @@
 {{ define "main" }}
-<h1>{{ .Title }}</h1>
-{{ partial "metadata.html" . }}
-<br><br>
-{{ .Content }}
+  <h1>{{ .Title }}</h1>
+  <i>{{ .Params.tagline }}</i>
+  <br><br>
+  {{ .Content }}
+  <br>
+  {{ partial "metadata.html" . }}
+  {{ partial "disqus.html" . }}
 {{ end }}

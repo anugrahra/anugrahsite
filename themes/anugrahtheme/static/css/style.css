@@ -18,6 +18,21 @@ header h4#main-title {
   text-align: right;
 }
 
+header a:link {
+  text-decoration: none;
+  color: black;
+}
+
+header a:hover {
+  text-decoration: none;
+  color: black;
+}
+
+header a:visited {
+  text-decoration: none;
+  color: black;
+}
+
 .container {
   margin: 1% 20% 0 20%;
 }

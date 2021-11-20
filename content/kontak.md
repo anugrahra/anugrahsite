@@ -1,6 +1,5 @@
 ---
 title: "Kontak"
-layout: list
+layout: parts
 ---
 
-ini halaman kontak

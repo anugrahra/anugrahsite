@@ -5,12 +5,22 @@ theme = "anugrahtheme"
 rssLimit = 20
 copyright = 'This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.'
 
+disqusShortname = "anugrahra"
+
 [author]
 	name = "Anugrah Ramadhan"
-	email = "me@example.com"
+	email = ""
 
 [permalinks]
   posts = "/catatan/:title/"
+
+[taxonomies]
+  tagline = 'tagline'
+  category = 'categories'
+  tag = 'tags'
+
+[markup.goldmark.renderer]
+  unsafe = true
 
 [menu]
   [[menu.main]]
@@ -48,5 +58,5 @@ copyright = 'This work is licensed under a Creative Commons Attribution-ShareAli
     weight = 4
   [[menu.landing]]
     name = "🎙️ Podcast"
-    url = "/podcast/"
+    url = "https://anchor.fm/dekadensiotak"
     weight = 5
