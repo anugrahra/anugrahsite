@@ -1,9 +1,8 @@
 ---
 title: "Seri Tulisan"
+tagline: "Aku terkadang mengumpulkan tulisan-tulisanku dalam satu judul. Bisa dalam zine (e-zine), bundel, atau buku (e-book)."
 layout: parts
 ---
-
-Aku terkadang mengumpulkan tulisan-tulisanku dalam satu judul. Bisa dalam zine (e-zine), bundel, atau buku (e-book).  
 
 ## [Kibor Nyala](https://contoh.com)
 _Seri zine yang dibuat ketika aku baru mulai memakai keyboard yang ada lampunya_

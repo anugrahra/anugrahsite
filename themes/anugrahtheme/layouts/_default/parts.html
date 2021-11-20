@@ -1,4 +1,7 @@
 {{ define "main" }}
 <h1>{{ .Title }}</h1>
-{{ .Content }}
+<h5>{{ .Params.tagline }}</h5>
+<div id="parts">
+  {{ .Content }}
+</div>
 {{ end }}
