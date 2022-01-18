@@ -91,6 +91,11 @@ div#parts a:link {
   color: black;
 }
 
+div#catatan {
+  font-size: 20px;
+  line-height: 33px;
+}
+
 div#disqus_thread {
   margin-top: 20px;
 }

@@ -4,6 +4,9 @@ tagline: "Aku terkadang mengumpulkan tulisan-tulisanku dalam satu judul. Bisa da
 layout: parts
 ---
 
+## [Ketik Neraka](https://contoh.com)
+_Zine yang dibuat pake mesin tik merek Brother_
+
 ## [Kibor Nyala](https://contoh.com)
 _Seri zine yang dibuat ketika aku baru mulai memakai keyboard yang ada lampunya_
 
@@ -21,4 +24,3 @@ _Ulasan singkat buku-buku yang pernah kubaca_
 
 ## [Bundel Ejakulasi](https://contoh.com)
 _Kumpulan tulisan saat aku menjadi relawan suatu Rumah Belajar_
-

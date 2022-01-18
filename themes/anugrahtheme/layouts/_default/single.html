@@ -2,8 +2,12 @@
   <h1>{{ .Title }}</h1>
   <i>{{ .Params.tagline }}</i>
   <br><br>
-  {{ .Content }}
-  <br>
-  {{ partial "metadata.html" . }}
+  <div id="catatan">
+    {{ .Content }}
+    <p>---</p>
+    {{ partial "metadata.html" . }}
+    <br>
+    <a href="/catatan/">Baca catatan lainnya</a>
+  </div>
   {{ partial "disqus.html" . }}
 {{ end }}
