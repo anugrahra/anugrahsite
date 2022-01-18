@@ -20,8 +20,12 @@ Mungkin tulisan ini bisa membantumu wahai kawan. Tulisan ini tidak akan bikin hi
 
 Mari kita lihat dulu apa arti kata bosan menurut KBBI, dan anggap kita sepakat dengan itu:
 
+---
+
 **bo.san**  
-*a* sudah tidak suka lagi karena sudah terlalu sering atau banyak; jemu
+*a* sudah tidak suka lagi karena sudah terlalu sering atau banyak; jemu  
+
+---
 
 Pegel juga ngomong sok serius.. anjing lah
 
