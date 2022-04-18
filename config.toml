@@ -1,11 +1,9 @@
 baseURL = "https://anugrahra.space/"
 languageCode = "en-us"
-title = "anugrahra.space"
+title = "▲ anugrahra.space ▲"
 theme = "anugrahtheme"
 rssLimit = 20
 copyright = 'This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.'
-
-disqusShortname = "anugrahra"
 
 [author]
 	name = "Anugrah Ramadhan"
