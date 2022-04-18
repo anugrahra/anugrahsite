@@ -1,6 +1,6 @@
 baseURL = "https://anugrahra.space/"
 languageCode = "en-us"
-title = "Anugrah Ramadhan's Digital Museum 🏺"
+title = "anugrahra.space"
 theme = "anugrahtheme"
 rssLimit = 20
 copyright = 'This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.'
@@ -41,22 +41,26 @@ disqusShortname = "anugrahra"
     weight = 4
 
   [[menu.landing]]
-    name = "📝 Catatan"
+    name = "📝 Words"
     url = "/catatan/"
     weight = 1
   [[menu.landing]]
-    name = "📚 Seri Tulisan"
+    name = "📚 Zines"
     url = "/seri-tulisan/"
     weight = 2
   [[menu.landing]]
-    name = "🤖 Karya Koding"
+    name = "🤖 Codes"
     url = "/karya-koding/"
     weight = 3
   [[menu.landing]]
-    name = "🎨 Artwork"
+    name = "🎨 Artssshole"
     url = "/artwork/"
     weight = 4
   [[menu.landing]]
     name = "🎙️ Podcast"
     url = "https://anchor.fm/dekadensiotak"
     weight = 5
+  [[menu.landing]]
+    name = "▶️ Youtube"
+    url = "https://www.youtube.com/channel/UCdZ7OvSMv2ygAplHpHR_yLQ"
+    weight = 6
