@@ -10,6 +10,10 @@ name = "Anugrah Ramadhan"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.landing]]
+name = "🎨 Artwork"
+url = "/artwork/"
+weight = 4
+[[menu.landing]]
 name = "📚 Seri Tulisan"
 url = "/seri-tulisan/"
 weight = 2
@@ -25,10 +29,6 @@ weight = 6
 name = "🎙️ Podcast"
 url = "https://anchor.fm/dekadensiotak"
 weight = 5
-[[menu.landing]]
-name = "🎨 Artssshole"
-url = "/artwork/"
-weight = 4
 [[menu.landing]]
 name = "🤖 Codes"
 url = "/karya-koding/"
