@@ -8,9 +8,6 @@ fields:
 - type: datetime
   name: date
   label: date
-- type: text
-  name: url
-  label: url
 - name: isi
   type: textarea
   default: ''
