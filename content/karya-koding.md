@@ -1,7 +1,6 @@
 ---
 title: Codes
-tagline: Aku pembelajar pemrograman yang buruk, namun aku tetap mencoba membuat sesuatu
-  demi mempermudah urusanku.
+tagline: My codes for [you]
 layout: parts
 
 ---
