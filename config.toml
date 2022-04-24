@@ -1,64 +1,57 @@
 baseURL = "https://anugrahra.space/"
+copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
 languageCode = "en-us"
-title = "▲ anugrahra.space ▲"
-theme = "anugrahtheme"
 rssLimit = 20
-copyright = 'This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.'
-
+theme = "anugrahtheme"
+title = "▲ anugrahra.space ▲"
 [author]
-	name = "Anugrah Ramadhan"
-	email = ""
-
-[permalinks]
-  posts = "/catatan/:title/"
-
-[taxonomies]
-  tagline = 'tagline'
-  category = 'categories'
-  tag = 'tags'
-
+email = ""
+name = "Anugrah Ramadhan"
 [markup.goldmark.renderer]
-  unsafe = true
-
-[menu]
-  [[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
-  [[menu.main]]
-    name = "Dukung"
-    url = "https://saweria.co/AnugrahRamadhan"
-    weight = 2
-  [[menu.main]]
-    name = "Kontak"
-    url = "/kontak/"
-    weight = 3
-  [[menu.main]]
-    name = "RSS"
-    url = "/catatan/index.xml"
-    weight = 4
-
-  [[menu.landing]]
-    name = "📝 Words"
-    url = "/catatan/"
-    weight = 1
-  [[menu.landing]]
-    name = "📚 Zines"
-    url = "/seri-tulisan/"
-    weight = 2
-  [[menu.landing]]
-    name = "🤖 Codes"
-    url = "/karya-koding/"
-    weight = 3
-  [[menu.landing]]
-    name = "🎨 Artssshole"
-    url = "/artwork/"
-    weight = 4
-  [[menu.landing]]
-    name = "🎙️ Podcast"
-    url = "https://anchor.fm/dekadensiotak"
-    weight = 5
-  [[menu.landing]]
-    name = "▶️ Youtube"
-    url = "https://www.youtube.com/channel/UCdZ7OvSMv2ygAplHpHR_yLQ"
-    weight = 6
+unsafe = true
+[[menu.landing]]
+name = "📚 Seri Tulisan"
+url = "/seri-tulisan/"
+weight = 2
+[[menu.landing]]
+name = "📝 Catatan"
+url = "/catatan/"
+weight = 1
+[[menu.landing]]
+name = "▶️ Youtube"
+url = "https://www.youtube.com/channel/UCdZ7OvSMv2ygAplHpHR_yLQ"
+weight = 6
+[[menu.landing]]
+name = "🎙️ Podcast"
+url = "https://anchor.fm/dekadensiotak"
+weight = 5
+[[menu.landing]]
+name = "🎨 Artssshole"
+url = "/artwork/"
+weight = 4
+[[menu.landing]]
+name = "🤖 Codes"
+url = "/karya-koding/"
+weight = 3
+[[menu.main]]
+name = "RSS"
+url = "/catatan/index.xml"
+weight = 4
+[[menu.main]]
+name = "Kontak"
+url = "/kontak/"
+weight = 3
+[[menu.main]]
+name = "Dukung"
+url = "https://saweria.co/AnugrahRamadhan"
+weight = 2
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+[permalinks]
+posts = "/catatan/:title/"
+[taxonomies]
+category = "categories"
+tag = "tags"
+tagline = "tagline"
