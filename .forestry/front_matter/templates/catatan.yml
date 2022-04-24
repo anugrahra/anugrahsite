@@ -12,7 +12,15 @@ fields:
   name: url
   label: url
 - name: isi
-  type: text
+  type: textarea
+  default: ''
   config:
     required: false
+    wysiwyg: false
+    schema:
+      format: markdown
   label: isi
+- name: tag
+  type: tag_list
+  default: []
+  label: tag
