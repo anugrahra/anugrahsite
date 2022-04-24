@@ -21,5 +21,3 @@ fields:
   type: tag_list
   default: []
   label: tag
-pages:
-- content/posts/memulai.md
