@@ -11,3 +11,8 @@ fields:
 - type: text
   name: url
   label: url
+- name: isi
+  type: text
+  config:
+    required: false
+  label: isi
