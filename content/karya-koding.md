@@ -1,9 +1,10 @@
 ---
-title: "Karya Koding"
-tagline: "Aku pembelajar pemrograman yang buruk, namun aku tetap mencoba membuat sesuatu demi mempermudah urusanku."
+title: Codes
+tagline: Aku pembelajar pemrograman yang buruk, namun aku tetap mencoba membuat sesuatu
+  demi mempermudah urusanku.
 layout: parts
----
 
+---
 ## [Kalipa 🔗](https://anugrahra.github.io/kalipa/)
 _Kalkulator instalasi pengolahan air_  
 [[code]](https://contoh.com)
