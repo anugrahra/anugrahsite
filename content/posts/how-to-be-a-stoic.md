@@ -1,14 +1,17 @@
 +++
 date = 2022-04-24T17:00:00Z
-draft = true
 tagline = "print, simpan dalam saku"
 tags = ["stoik", "filsafat"]
 title = "How to be a stoic"
 
 +++
-Bagi yang belum tahu apa itu stoikisme, bisa nonton dulu video dari Ferry Irwandi berikut:
+Apa itu stoikisme?
 
-Dan, inilah caranya bagaimana menjadi stoik,
+Sila tengok [wikipedia](https://id.wikipedia.org/wiki/Stoikisme).
+
+[270?cb=20160424030542](http://vignette3.wikia.nocookie.net/dragonball/images/5/56/Zxzffff.jpg/revision/latest/scale-to-width-down/270?cb=20160424030542 "270?cb=20160424030542")
+
+Dan, inilah caranya bagaimana menjadi stoik:
 
  1. Fokus pada apa yang bisa kamu kontrol
 
@@ -49,3 +52,10 @@ Dan, inilah caranya bagaimana menjadi stoik,
 11. Istirahat
 
     Jangan lupa istirahat dari pengejaran cita-citamu. Istirahat pula dari rutinitas rebahanmu
+
+Referensi lain yang bagus:
+
+* [MEMAHAMI FILSAFAT STOIKISME.](https://youtu.be/15L0rNuor0Y)
+* [STOIKISME : Kenapa Rasa Bahagia Tidak Pernah Bertahan Lama?](https://youtu.be/VMGnZdcv9II)
+* [Stoikisme: Obat Resah Manusia Modern | Endgame The Take #8](https://youtu.be/TLUNjg1Er8Q)
+* [Ngaji Filsafat 147 : Yunani Kuno - Stoikisme](https://youtu.be/pTN3LGiwuHs)
