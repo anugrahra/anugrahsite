@@ -96,6 +96,11 @@ div#catatan {
   line-height: 33px;
 }
 
+div#catatan img{
+  width: 100%;
+  height: auto;
+}
+
 div#disqus_thread {
   margin-top: 20px;
 }
