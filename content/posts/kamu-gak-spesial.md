@@ -5,7 +5,7 @@ tags = ["ranting"]
 title = "Kamu gak spesial"
 
 +++
-Pernah ga kamu mikir kenapa kamu suka film-film marvel?
+Pernah ga kamu mikir kenapa kamu suka film-film Marvel?
 
 Waktu nonton film Batman kemaren kenapa kamu kagum sama Robert Pattinson?
 
