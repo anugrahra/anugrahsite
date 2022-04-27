@@ -111,6 +111,9 @@ div#disqus_thread {
     margin: 1% 5% 0 5%;
   }
 
+  div#catatan p {
+    margin-bottom: 5%;
+  }
 }
 
 /* END OF KALAU KECIL */
