@@ -27,7 +27,7 @@ Misal, ada yang bilang di Facebook kalau Jokowi itu adalah antek Zionis. Dengan 
 
 Terus gimana dong?
 
-Yaudah gapapa. Terima aja. Dunia emang udah kayak gini sekarang. Kan gak mungkin kita bawa2 molotov untuk bakar kantor Facebook.
+Yaudah gapapa. Terima aja. Dunia emang udah kayak gini sekarang. Kan gak mungkin kita bawa-bawa molotov untuk bakar kantor Facebook.
 
 Yang paling mudah dilakukan adalah, mengedukasi.
 
