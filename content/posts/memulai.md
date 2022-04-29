@@ -7,7 +7,7 @@ title = "Memulai"
 +++
 Saya memulai blog lagi.
 
-![](/uploads/jason-hogan-yyfwukzv5fm-unsplash-1.jpg)
+![](https://i.ibb.co/1dMr9rL/jason-hogan-yyfwukzv5fm-unsplash-1.jpg)
 
 Beberapa kali saya mulai dari awal.
 
