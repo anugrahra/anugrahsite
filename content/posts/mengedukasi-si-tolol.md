@@ -2,7 +2,7 @@
 date = 2022-04-26T17:00:00Z
 tagline = "wajib hukumnya bor"
 tags = ["sosmed", "ranting"]
-title = "Mengedukasi si tolol"
+title = "Mengedukasi si tolol di internet"
 
 +++
 Pernah gak kamu merasa iri setelah lihat IG Story temanmu yang liburan melulu? Padahal belum tentu temanmu itu lebih bahagia dari kamu.
