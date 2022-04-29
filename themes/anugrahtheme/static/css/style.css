@@ -88,6 +88,10 @@ section#tulisan-pilihan a:visited {
   color: black;
 }
 
+section#video-pilihan iframe {
+  width: 80%;
+}
+
 li.landing-nav {
   margin-bottom: 1%;
 }
@@ -128,6 +132,11 @@ div#disqus_thread {
 
   div#catatan p {
     margin-bottom: 5%;
+  }
+
+  section#video-pilihan iframe {
+    width: 100%;
+    height: auto;
   }
 }
 
