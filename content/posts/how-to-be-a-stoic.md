@@ -9,7 +9,7 @@ Apa itu stoikisme?
 
 Sila tengok [wikipedia](https://id.wikipedia.org/wiki/Stoikisme).
 
-![](https://ibb.co/wwx73zv)
+![](https://i.ibb.co/qWPCXrZ/Zxzffff.webp)
 
 Dan, inilah caranya bagaimana menjadi stoik:
 

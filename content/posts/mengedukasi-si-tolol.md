@@ -11,7 +11,7 @@ Waktu Pemilu kemarin, berapa banyak orang yang sebel sama Jokowi atau Prabowo ka
 
 Pernah gak kamu tersinggung kalau ada temen yang gak ngucapin selamat ultah di grup whatsapp? Padahal teman mu itu selalu bantuin kamu selama ini.
 
-![](https://ibb.co/bLjzhdk)
+![](https://i.ibb.co/J2W5Lk9/Lucid-dreaming.webp)
 
 Pernah? Menyedihkan ya
 

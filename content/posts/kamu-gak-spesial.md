@@ -11,7 +11,7 @@ Waktu nonton film Batman kemaren kenapa kamu kagum sama Robert Pattinson?
 
 Dan kamu menagis haru ketika tiga spiderman bersatu di _No Way Home_.
 
-![](https://ibb.co/q5YTTJh)
+![](https://i.ibb.co/Zmzqq2v/l-intro-1629770462.jpg)
 
 _Because_, _deep down in your heart_ yang pengecut itu, kamu ingin jadi seperti mereka. _Being a superhero under the bright spotlight._
 
