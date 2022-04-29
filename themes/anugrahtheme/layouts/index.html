@@ -22,4 +22,23 @@
       {{ end }}
     </nav>
   </section>
+  <section id="tulisan-pilihan">
+    <h2 style="margin-bottom: 1%;">Choosen notes for you</h2>
+    <nav>
+      {{ range .Site.Menus.tulisan }}
+      <ul>
+        <li class="landing-nav">
+          <a href="{{ .URL }}">
+          {{ if .Pre }}
+          {{ $icon := printf "<i data-feather=\"%s\"></i> " .Pre | safeHTML }}
+          {{ $icon }}
+          {{ end }}
+          {{ $text := print .Name | safeHTML }}
+          {{ $text }}
+          </a>
+        </li>
+      </ul>
+      {{ end }}
+    </nav>
+  </section>
 {{ end }}

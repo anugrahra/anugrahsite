@@ -1,6 +1,6 @@
 ---
-title: "Tentang Menghalau Bosan"
-tagline: "Yang kamu butuhkan"
+title: "Tentang menghalau bosan"
+tagline: "yang kamu butuhkan"
 date: 2020-08-25T20:31:54+07:00
 draft: false
 tags: ["hack"]

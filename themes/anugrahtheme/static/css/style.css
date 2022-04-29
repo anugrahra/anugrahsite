@@ -55,21 +55,29 @@ section#introduction h1#halo {
   margin-top: 1%;
 }
 
-section#links ul li {
+section#tulisan-pilihan {
+  margin-top: 5%;
+}
+
+section#links ul li,
+section#tulisan-pilihan ul li {
   list-style: none;
 }
 
-section#links a:link {
+section#links a:link,
+section#tulisan-pilihan a:link {
   font-size: 20px;
   text-decoration: none;
   color: black;
 }
 
-section#links a:hover {
+section#links a:hover,
+section#tulisan-pilihan a:hover{
   text-decoration: underline;
 }
 
-section#links a:visited {
+section#links a:visited,
+section#tulisan-pilihan a:visited {
   color: black;
 }
 

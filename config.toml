@@ -33,6 +33,7 @@ weight = 5
 name = "🤖 Codes"
 url = "/karya-koding/"
 weight = 3
+
 [[menu.main]]
 name = "RSS"
 url = "/catatan/index.xml"
@@ -49,6 +50,29 @@ weight = 2
 name = "Home"
 url = "/"
 weight = 1
+
+[[menu.tulisan]]
+name = "Tentang menghalau bosan"
+url = "/catatan/tentang-menghalau-bosan/"
+weight = 1
+[[menu.tulisan]]
+name = "How to be a stoic"
+url = "/catatan/how-to-be-a-stoic/"
+weight = 2
+[[menu.tulisan]]
+name = "Kamu gak spesial"
+url = "/catatan/kamu-gak-spesial/"
+weight = 3
+[[menu.tulisan]]
+name = "Mengedukasi si tolol di internet"
+url = "/catatan/mengedukasi-si-tolol-di-internet/"
+weight = 4
+[[menu.tulisan]]
+name = "Memulai"
+url = "/catatan/memulai/"
+weight = 5
+
+
 [permalinks]
 posts = "/catatan/:title/"
 [taxonomies]

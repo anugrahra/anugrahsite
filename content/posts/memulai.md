@@ -1,6 +1,6 @@
 +++
 date = 2022-04-23T17:00:00Z
-tagline = "Ya harus"
+tagline = "ya harus"
 tags = ["diary"]
 title = "Memulai"
 
