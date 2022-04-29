@@ -55,7 +55,14 @@ section#introduction h1#halo {
   margin-top: 1%;
 }
 
-section#tulisan-pilihan {
+section#introduction a {
+  background-color: yellow;
+  text-decoration: none;
+  color: black;
+}
+
+section#tulisan-pilihan,
+section#video-pilihan {
   margin-top: 5%;
 }
 
