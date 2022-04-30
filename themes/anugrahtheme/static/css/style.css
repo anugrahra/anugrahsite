@@ -41,6 +41,19 @@ main {
   margin-bottom: 2%;
 }
 
+a.title:link {
+  text-decoration: none;
+  color: black;
+}
+
+a.title:hover {
+  background-color: yellow;
+}
+
+a.title:visited {
+  color: black;
+}
+
 section#introduction h1,
 section#introduction p,
 section#links h3 {
