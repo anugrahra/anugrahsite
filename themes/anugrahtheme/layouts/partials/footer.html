@@ -5,9 +5,10 @@
       <a href="{{ .URL }}">
       {{ $text := print .Name | safeHTML}}
       {{ $text }}
-      </a> /
+      </a> |
       {{ end }}
+      <span id="copy-besar">&copy; {{ now.Format "2006"}} Anugrah Ramadhan.</span>
     </nav>
   </p>
-  <p>&copy; {{ now.Format "2006"}} Anugrah Ramadhan.</p>
+  <span id="copy-kecil">&copy; {{ now.Format "2006"}} Anugrah Ramadhan.</span>
 </footer>

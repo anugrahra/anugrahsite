@@ -120,8 +120,21 @@ div#catatan img{
   height: auto;
 }
 
-div#disqus_thread {
-  margin-top: 20px;
+footer a:link {
+ text-decoration: none;
+ color: black;
+}
+
+footer a:hover {
+ text-decoration: underline;
+}
+
+footer a:visited {
+  color: black;
+}
+
+footer span#copy-kecil {
+  display: none;
 }
 
 @media screen and (max-width: 880px) {
@@ -137,6 +150,14 @@ div#disqus_thread {
   section#video-pilihan iframe {
     width: 100%;
     height: auto;
+  }
+
+  footer span#copy-besar {
+    display: none;
+  }
+
+  footer span#copy-kecil {
+    display: block;
   }
 }
 
