@@ -1,7 +1,6 @@
 ---
 title: "dekadensiotak"
 tagline: "Seri zine yang merekam beberapa pemikiranku yang mentah"
-date: 2022-01-18T22:40:51+07:00
 draft: false
 ---
 

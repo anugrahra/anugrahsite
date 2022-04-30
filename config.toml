@@ -64,8 +64,8 @@ name = "Kamu gak spesial"
 url = "/catatan/kamu-gak-spesial/"
 weight = 3
 [[menu.tulisan]]
-name = "Mengedukasi si tolol di internet"
-url = "/catatan/mengedukasi-si-tolol-di-internet/"
+name = "Edukasi Internet"
+url = "/catatan/edukasi-internet/"
 weight = 4
 [[menu.tulisan]]
 name = "Memulai"

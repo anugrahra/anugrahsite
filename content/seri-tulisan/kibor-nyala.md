@@ -1,7 +1,6 @@
 ---
 title: "Kibor Nyala"
 tagline: "Seri zine yang dibuat ketika aku baru mulai memakai keyboard yang ada lampunya"
-date: 2022-01-19T22:06:36+07:00
 draft: false
 ---
 

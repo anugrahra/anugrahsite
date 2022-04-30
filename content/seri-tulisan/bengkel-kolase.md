@@ -1,7 +1,6 @@
 ---
 title: "Bengkel Kolase"
 tagline: "Seri zine yang dibuat ketika aku lagi senang membuat karya kolase"
-date: 2022-01-18T22:05:03+07:00
 draft: false
 ---
 

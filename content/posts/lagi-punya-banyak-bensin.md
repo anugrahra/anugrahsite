@@ -37,4 +37,4 @@ Beberapa ulasan buku yang pernah kubuat bisa dibaca di dua tautan berikut :
 
 **\[0\]** [Book Review on dekadensiotak Wordpress](https://dekadensiotak.wordpress.com/category/review/book-review/)
 
-**\[1\]** [\[Bundel\] Buku-buku yang terbaca secara rock n roll](https://anugrahra.space/seri-tulisan/buku-buku-yang-terbaca-secara-rock-n-roll/)
+**\[1\]** [\[Bundel\] Buku-buku yang terbaca secara rock n roll](https://drive.google.com/file/d/1K5qmSjbXZwjD5zHamTfu3JsQQPCCyDub/view?usp=sharing)
