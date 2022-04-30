@@ -1,6 +1,5 @@
 +++
 date = 2022-04-29T17:00:00Z
-draft = true
 tagline = "terima kasih"
 tags = ["diary"]
 title = "JKT48 really saved my life"
