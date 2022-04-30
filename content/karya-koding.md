@@ -2,11 +2,11 @@
 title: Codes
 tagline: My codes for [you]
 layout: parts
-
 ---
+
 ## [Kalipa 🔗](https://anugrahra.github.io/kalipa/)
 _Kalkulator instalasi pengolahan air_  
-[[code]](https://contoh.com)
+[[code]](https://github.com/anugrahra/kalipa)
 
 ## [Kaldotac 🔗](https://kaldotac.netlify.app)
 _Kalkulator dosis Tacmina_  
@@ -14,7 +14,7 @@ _Kalkulator dosis Tacmina_
 
 ## Elang For Production Affairs
 _E-Form keluar masuk barang untuk urusan produksi BLUD Air Minum Kota Cimahi_  
-[[code]](https://contoh.com)
+[[code]](https://github.com/anugrahra/elangv02)
 
 ## Chart Prodis
 _Grafik Prodis BLUD Air Minum Kota Cimahi_  
@@ -30,4 +30,4 @@ _Catatan finansial Anugrah Ramadhan_
 
 ## [do-Quran 🔗](https://anugrahra.github.io/do-quran/)
 _Website yang menyajikan data keterangan Al-Quran_  
-[[code]](https://contoh.com)
+[[code]](https://github.com/anugrahra/do-quran)
