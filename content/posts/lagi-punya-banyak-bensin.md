@@ -1,6 +1,5 @@
 +++
 date = 2022-04-29T17:00:00Z
-draft = true
 tagline = "gaspol"
 tags = ["diary"]
 title = "Lagi punya banyak bensin"
