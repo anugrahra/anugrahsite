@@ -7,7 +7,7 @@ title = "JKT48 really saved my life"
 +++
 Gak nyangka aja. Ternyata _idol group_ ini yang menyelamatkan hidup saya.
 
-![](https://jkt48.com/images/logo.svg)![](https://jkt48.com/images/logo.svg)![](https://i.ibb.co/Lnxdskf/jkt-48-welogo-blogspot-com.jpg)
+![](https://jkt48.com/images/logo.svg)
 
 Satu tahun kebelakang adalah tahun yang cukup melelahkan untuk saya. Lelah fisik dan mental. Berujung harus konsultasi ke psikolog.
 
