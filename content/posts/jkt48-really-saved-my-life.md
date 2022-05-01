@@ -19,7 +19,7 @@ Mungkin karena member-member JKT48 itu cantik-cantik ya. Berkarakter juga. Jadi 
 
 Karena baru kenal JKT48, saya nontonnya dari _reuploader_. Maaf ya.
 
-Kemarin aku baru beli salah satu _official_ _merchandise_-nya, _T-Shirt_ untuk merayakan 10 tahun JKT48. Sebenarnya saya ingin beli album terbarunya, eh tapi di _e-commerce_-nya belum tersedia lagi. Soalnya, menurut saya, hal terbaik dalam mengapresiasi musisi itu ada tiga: beli album fisiknya, datang ke konsernya, dan beli _official_ _merchandise_-nya.
+Kemarin aku baru beli salah satu _official_ _merchandise_-nya, _T-Shirt_ untuk merayakan 10 tahun JKT48. Sebenarnya saya ingin beli single _Rapsodi_, eh tapi di _e-commerce_-nya belum tersedia lagi. Soalnya, menurut saya, hal terbaik dalam mengapresiasi musisi itu ada tiga: beli album fisiknya, datang ke konsernya, dan beli _official_ _merchandise_-nya.
 
 Oiya, sekarang aku punya _oshi_.
 
