@@ -6,7 +6,7 @@ tags = ["internet", "sosmed"]
 title = "Membangun platform"
 
 +++
-Aku mengenal internet di tahun 1999. Aku ingat harga warnet waktu itu Rp. 4000 per jam. Di tahun itu pula aku pertama kali belajar membuat email, dengan Yahoo! sebagai _provider-_nya.
+Aku mengenal internet di tahun 1999. Aku ingat harga warnet waktu itu Rp. 4000 per jam. Di tahun itu pula aku pertama kali belajar membuat email, dengan Yahoo! sebagai _provider_-nya.
 
 Saat itu juga, aku mulai menyukai internet. Aku sungguh terpesona karena apa yang aku tahu di dunia nyata ternyata ada semua informasinya di dunia maya. Aku senang berselancar acak. Mengunjungi situs-situs perusahaan, entertainment, forum, dan juga situs personal.
 
