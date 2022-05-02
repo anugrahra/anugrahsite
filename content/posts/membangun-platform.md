@@ -23,7 +23,7 @@ Kebebasan itu yang aku rindukan di era internet zaman sekarang.
 
 Hari ini, internet sudah sangat didominasi perusahaan raksasa. Siapa yang tidak memakai sosmed di hari ini? Aku yakin kalian pasti punya salah satu akun sosmed dari perusahaan populer. Entah itu dari Facebook, atau Twitter yang baru dibeli tukang roket bernama Elon Musk.
 
-Penyedia layanan blog pun punya aturan rigid yang bakal bikin semua tampilannya mirip.
+Penyedia layanan blog pun punya aturan _rigid_ yang bakal bikin semua tampilannya mirip.
 
 _Emang masih ada orang yang baca blog?  
 Ada, gue!_
