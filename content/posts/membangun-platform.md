@@ -36,7 +36,7 @@ Kebebasannya itu kawan. _The motherfucker_ "_Terms and Conditions_". Aturan yang
 
 _... perilakumu diatur ..._
 
-Opinimu terbatas jumlah karakter. _Post-_mu dipaksa berdasarkan _timeline_. _Feed_-mu dipaksa berbaris. Caramu mengapresiasi pun harus mengikuti aturan. Konten porno? Jangan harap lolos, masalah moral katanya. _Fuck moral! Do you think the internet is an absolute reality?_
+Opinimu terbatas jumlah karakter. _Post_-mu dipaksa berdasarkan _timeline_. _Feed_-mu dipaksa berbaris. Caramu mengapresiasi pun harus mengikuti aturan. Konten porno? Jangan harap lolos, masalah moral katanya. _Fuck moral! Do you think the internet is an absolute reality?_
 
 _Belum lagi kalau platformnya tutup. Ya lo ikutan tutup_. _Lha wong itu platform bukan punyamu. Gratisan lagi._
 
