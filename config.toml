@@ -54,11 +54,11 @@ weight = 1
 [[menu.tulisan]]
 name = "Tentang menghalau bosan"
 url = "/catatan/tentang-menghalau-bosan/"
-weight = 1
+weight = 5
 [[menu.tulisan]]
 name = "How to be a stoic"
 url = "/catatan/how-to-be-a-stoic/"
-weight = 2
+weight = 4
 [[menu.tulisan]]
 name = "Kamu gak spesial"
 url = "/catatan/kamu-gak-spesial/"
@@ -66,11 +66,11 @@ weight = 3
 [[menu.tulisan]]
 name = "Edukasi Internet"
 url = "/catatan/edukasi-internet/"
-weight = 4
+weight = 2
 [[menu.tulisan]]
-name = "Memulai"
-url = "/catatan/memulai/"
-weight = 5
+name = "Membangun platform"
+url = "/catatan/membangun-platform/"
+weight = 1
 
 
 [permalinks]
