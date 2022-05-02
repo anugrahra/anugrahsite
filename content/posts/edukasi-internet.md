@@ -1,7 +1,7 @@
 +++
 date = 2022-04-26T17:00:00Z
 tagline = "wajib hukumnya bor"
-tags = ["sosmed", "ranting"]
+tags = ["sosmed", "ranting", "internet"]
 title = "Edukasi internet"
 
 +++
