@@ -2,7 +2,7 @@
 date = 2022-05-01T17:00:00Z
 tagline = "Alasan aku membuat situs web sendiri"
 tags = ["internet", "sosmed"]
-title = "Membangun platform"
+title = "Bermain di internet"
 
 +++
 Aku mengenal internet di tahun 1999. Aku ingat harga warnet waktu itu Rp. 4000 per jam. Di tahun itu pula aku pertama kali belajar membuat email, dengan Yahoo! sebagai _provider_-nya.
