@@ -1,6 +1,5 @@
 +++
 date = 2022-05-01T17:00:00Z
-draft = true
 tagline = "Alasan aku membuat situs web sendiri"
 tags = ["internet", "sosmed"]
 title = "Membangun platform"
@@ -35,7 +34,7 @@ Terus kenapa?
 
 Kebebasannya itu kawan. _The motherfucker_ "_Terms and Conditions_". Aturan yang memaksa untuk diikuti bagi para pengguna layanan. Perilakumu diatur.
 
-Aku ulangi: PERILAKUMU DIATUR!
+_... perilakumu diatur ..._
 
 Opinimu terbatas jumlah karakter. _Post-_mu dipaksa berdasarkan _timeline_. _Feed_-mu dipaksa berbaris. Caramu mengapresiasi pun harus mengikuti aturan. Konten porno? Jangan harap lolos, masalah moral katanya. _Fuck moral! Do you think the internet is an absolute reality?_
 
