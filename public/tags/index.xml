@@ -1,31 +1,64 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Anugrah Ramadhan&#39;s Digital Museum 🏺</title>
+    <title>Tags on ▲ anugrahra.space ▲</title>
     <link>https://anugrahra.space/tags/</link>
-    <description>Recent content in Tags on Anugrah Ramadhan&#39;s Digital Museum 🏺</description>
+    <description>Recent content in Tags on ▲ anugrahra.space ▲</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Nov 2021 09:47:26 +0700</lastBuildDate>
-    
-	<atom:link href="https://anugrahra.space/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
+    <lastBuildDate>Fri, 29 Apr 2022 17:00:00 +0000</lastBuildDate><atom:link href="https://anugrahra.space/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>bar</title>
-      <link>https://anugrahra.space/tags/bar/</link>
-      <pubDate>Mon, 08 Nov 2021 09:47:26 +0700</pubDate>
+      <title>diary</title>
+      <link>https://anugrahra.space/tags/diary/</link>
+      <pubDate>Fri, 29 Apr 2022 17:00:00 +0000</pubDate>
       
-      <guid>https://anugrahra.space/tags/bar/</guid>
+      <guid>https://anugrahra.space/tags/diary/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>foo</title>
-      <link>https://anugrahra.space/tags/foo/</link>
-      <pubDate>Mon, 08 Nov 2021 09:47:26 +0700</pubDate>
+      <title>ranting</title>
+      <link>https://anugrahra.space/tags/ranting/</link>
+      <pubDate>Tue, 26 Apr 2022 17:00:00 +0000</pubDate>
       
-      <guid>https://anugrahra.space/tags/foo/</guid>
+      <guid>https://anugrahra.space/tags/ranting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sosmed</title>
+      <link>https://anugrahra.space/tags/sosmed/</link>
+      <pubDate>Tue, 26 Apr 2022 17:00:00 +0000</pubDate>
+      
+      <guid>https://anugrahra.space/tags/sosmed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>filsafat</title>
+      <link>https://anugrahra.space/tags/filsafat/</link>
+      <pubDate>Sun, 24 Apr 2022 17:00:00 +0000</pubDate>
+      
+      <guid>https://anugrahra.space/tags/filsafat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stoik</title>
+      <link>https://anugrahra.space/tags/stoik/</link>
+      <pubDate>Sun, 24 Apr 2022 17:00:00 +0000</pubDate>
+      
+      <guid>https://anugrahra.space/tags/stoik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hack</title>
+      <link>https://anugrahra.space/tags/hack/</link>
+      <pubDate>Tue, 25 Aug 2020 20:31:54 +0700</pubDate>
+      
+      <guid>https://anugrahra.space/tags/hack/</guid>
       <description></description>
     </item>
     

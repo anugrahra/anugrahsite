@@ -41,6 +41,22 @@ main {
   margin-bottom: 2%;
 }
 
+a.title:link,
+div#parts a:link {
+  text-decoration: none;
+  color: black;
+}
+
+a.title:hover,
+div#parts a:hover {
+  background-color: yellow;
+}
+
+a.title:visited,
+div#parts a {
+  color: black;
+}
+
 section#introduction h1,
 section#introduction p,
 section#links h3 {
@@ -55,22 +71,41 @@ section#introduction h1#halo {
   margin-top: 1%;
 }
 
-section#links ul li {
+section#introduction a {
+  background-color: yellow;
+  text-decoration: none;
+  color: black;
+}
+
+section#tulisan-pilihan,
+section#video-pilihan {
+  margin-top: 5%;
+}
+
+section#links ul li,
+section#tulisan-pilihan ul li {
   list-style: none;
 }
 
-section#links a:link {
+section#links a:link,
+section#tulisan-pilihan a:link {
   font-size: 20px;
   text-decoration: none;
   color: black;
 }
 
-section#links a:hover {
+section#links a:hover,
+section#tulisan-pilihan a:hover{
   text-decoration: underline;
 }
 
-section#links a:visited {
+section#links a:visited,
+section#tulisan-pilihan a:visited {
   color: black;
+}
+
+section#video-pilihan iframe {
+  width: 80%;
 }
 
 li.landing-nav {
@@ -101,8 +136,21 @@ div#catatan img{
   height: auto;
 }
 
-div#disqus_thread {
-  margin-top: 20px;
+footer a:link {
+ text-decoration: none;
+ color: black;
+}
+
+footer a:hover {
+ text-decoration: underline;
+}
+
+footer a:visited {
+  color: black;
+}
+
+footer span#copy-kecil {
+  display: none;
 }
 
 @media screen and (max-width: 880px) {
@@ -113,6 +161,19 @@ div#disqus_thread {
 
   div#catatan p {
     margin-bottom: 5%;
+  }
+
+  section#video-pilihan iframe {
+    width: 100%;
+    height: auto;
+  }
+
+  footer span#copy-besar {
+    display: none;
+  }
+
+  footer span#copy-kecil {
+    display: block;
   }
 }
 
