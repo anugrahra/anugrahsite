@@ -5,10 +5,15 @@
       <a href="{{ .URL }}">
       {{ $text := print .Name | safeHTML}}
       {{ $text }}
-      </a> |
+      </a> &#183;
       {{ end }}
-      <span id="copy-besar">&copy; {{ now.Format "2006"}} Anugrah Ramadhan.</span>
+      
+      <span id="copy-besar">
+        <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
+      </span>
+      <span id="copy-kecil">
+        <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
+      </span>
     </nav>
   </p>
-  <span id="copy-kecil">&copy; {{ now.Format "2006"}} Anugrah Ramadhan.</span>
 </footer>
