@@ -68,8 +68,8 @@ name = "Edukasi Internet"
 url = "/catatan/edukasi-internet/"
 weight = 2
 [[menu.tulisan]]
-name = "Membangun platform"
-url = "/catatan/membangun-platform/"
+name = "Bermain di internet"
+url = "/catatan/bermain-di-internet/"
 weight = 1
 
 
