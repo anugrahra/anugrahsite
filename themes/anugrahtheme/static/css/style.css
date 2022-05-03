@@ -129,6 +129,7 @@ div#parts a:link {
 div#catatan {
   font-size: 20px;
   line-height: 33px;
+  text-align: left;
 }
 
 div#catatan img{
