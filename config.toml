@@ -4,11 +4,14 @@ languageCode = "en-us"
 rssLimit = 20
 theme = "anugrahtheme"
 title = "▲ anugrahra.space ▲"
+googleAnalytics = "UA-227767430-1"
+
 [author]
 email = ""
 name = "Anugrah Ramadhan"
 [markup.goldmark.renderer]
 unsafe = true
+
 [[menu.landing]]
 name = "🎨 Artwork"
 url = "/artwork/"
@@ -71,7 +74,6 @@ weight = 2
 name = "Bermain di internet"
 url = "/catatan/bermain-di-internet/"
 weight = 1
-
 
 [permalinks]
 posts = "/catatan/:title/"
