@@ -126,6 +126,10 @@ div#parts a:link {
   color: black;
 }
 
+h1#title-catatan {
+  text-align: left;
+}
+
 div#catatan {
   font-size: 20px;
   line-height: 33px;
