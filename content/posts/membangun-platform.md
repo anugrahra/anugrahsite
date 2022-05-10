@@ -1,7 +1,7 @@
 +++
 date = 2022-05-01T17:00:00Z
 tagline = "alasan aku membuat situs web sendiri"
-tags = ["internet", "sosmed"]
+tags = ["media sosial", "internet"]
 title = "Bermain di internet"
 
 +++
