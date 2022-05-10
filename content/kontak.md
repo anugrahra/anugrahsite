@@ -15,14 +15,14 @@ layout: parts
       <td>twitter</td>
       <td>&nbsp;:&nbsp;</td>
       <td>
-        <a href="https://twitter.com/dekansiotak">@dekadensiotak 🔗</a>
+        <a href="https://twitter.com/anugrahra_space">@anugrahra_space 🔗</a>
       </td>
     </tr>
     <tr>
       <td>instagram</td>
       <td>&nbsp;:&nbsp;</td>
       <td>
-        <a href="https://instagram.com/dekanart">@dekadenart 🔗</a>
+        <a href="https://instagram.com/anugrahra_space">@anugrahra_space 🔗</a>
       </td>
     </tr>
 	</tbody>
