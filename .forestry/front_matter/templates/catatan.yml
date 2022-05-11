@@ -15,6 +15,7 @@ fields:
   name: tags
   label: tags
 pages:
+- content/posts/belajar-memilih-dengan-seni.md
 - content/posts/how-to-be-a-stoic.md
 - content/posts/jkt48-really-saved-my-life.md
 - content/posts/kamu-gak-spesial.md
