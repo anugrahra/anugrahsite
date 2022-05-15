@@ -13,25 +13,13 @@ name = "Anugrah Ramadhan"
 unsafe = true
 
 [[menu.landing]]
-name = "🎨 Artwork"
-url = "/artwork/"
-weight = 4
-[[menu.landing]]
-name = "📚 Seri Tulisan"
-url = "/seri-tulisan/"
-weight = 2
-[[menu.landing]]
 name = "📝 Catatan"
 url = "/catatan/"
 weight = 1
 [[menu.landing]]
-name = "▶️ Youtube"
-url = "https://www.youtube.com/channel/UCdZ7OvSMv2ygAplHpHR_yLQ"
-weight = 6
-[[menu.landing]]
-name = "🎙️ Podcast"
-url = "https://anchor.fm/dekadensiotak"
-weight = 5
+name = "📚 Seri Tulisan"
+url = "/seri-tulisan/"
+weight = 2
 [[menu.landing]]
 name = "🤖 Codes"
 url = "/karya-koding/"
