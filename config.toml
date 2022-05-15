@@ -1,5 +1,5 @@
 baseURL = "https://anugrahra.space/"
-copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License."
 languageCode = "en-us"
 rssLimit = 20
 theme = "anugrahtheme"
@@ -7,7 +7,7 @@ title = "▲ anugrahra.space ▲"
 googleAnalytics = "UA-227767430-1"
 
 [author]
-email = ""
+email = "anugrahra.space@gmail.com"
 name = "Anugrah Ramadhan"
 [markup.goldmark.renderer]
 unsafe = true
