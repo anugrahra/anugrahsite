@@ -1,8 +1,7 @@
 +++
 date = 2022-05-14T17:00:00Z
-draft = true
 tagline = "yang lain ga usah"
-tags = []
+tags = ["hack"]
 title = "Ubah yang bisa diukur"
 
 +++
@@ -34,6 +33,8 @@ Kalau kata ibu saya: “Berbuat baik aja ke semua orang.”
 
 Ga usah pamrih ke manusia. Biar Tuhan aja yang bales perbuatan baik kita. Soalnya saya masih percaya kalau kita menanam yang baik maka kita akan menuai yang baik juga.
 
+***
+
 Nih ada artikel yang bagus untuk kamu yang ngeyel ingin mengubah sifat manusia:
 
-[https://www.idntimes.com/life/inspiration/louisa-gabe/mengubah-sifat-seseorang-c1c2/5](https://www.idntimes.com/life/inspiration/louisa-gabe/mengubah-sifat-seseorang-c1c2/5 "https://www.idntimes.com/life/inspiration/louisa-gabe/mengubah-sifat-seseorang-c1c2/5")
+[5 Alasan Kenapa Mengubah Sifat Seseorang Itu Sia-sia, Jangan Dilanjut!](https://www.idntimes.com/life/inspiration/louisa-gabe/mengubah-sifat-seseorang-c1c2/5)
