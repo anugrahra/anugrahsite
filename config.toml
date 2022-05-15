@@ -55,16 +55,16 @@ url = "/"
 weight = 1
 
 [[menu.tulisan]]
-name = "How to be a stoic"
-url = "/catatan/how-to-be-a-stoic/"
+name = "Belajar memilih dengan seni"
+url = "/catatan/belajar-memilih-dengan-seni/"
 weight = 5
 [[menu.tulisan]]
 name = "Kamu gak spesial"
 url = "/catatan/kamu-gak-spesial/"
 weight = 4
 [[menu.tulisan]]
-name = "Edukasi Internet"
-url = "/catatan/edukasi-internet/"
+name = "Ubah yang bisa diukur"
+url = "/catatan/ubah-yang-bisa-diukur/"
 weight = 3
 [[menu.tulisan]]
 name = "Bermain di internet"
