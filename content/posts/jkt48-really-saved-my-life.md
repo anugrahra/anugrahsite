@@ -3,6 +3,7 @@ date = 2022-04-29T17:00:00Z
 tagline = "terima kasih"
 tags = ["diary"]
 title = "JKT48 really saved my life"
+image = "https://jkt48.com/images/logo.svg"
 
 +++
 Gak nyangka aja. Ternyata _idol group_ ini yang menyelamatkan hidup saya.
