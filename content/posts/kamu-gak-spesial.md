@@ -3,6 +3,7 @@ date = 2022-04-25T17:00:00Z
 tagline = "akuin aja"
 tags = ["ranting"]
 title = "Kamu gak spesial"
+image = "https://i.ibb.co/Zmzqq2v/l-intro-1629770462.jpg"
 
 +++
 Pernah ga kamu mikir kenapa kamu suka film-film Marvel?
