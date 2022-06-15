@@ -6,7 +6,7 @@
   <meta name="twitter:creator" content="@dekadensiotak">
   <meta property="og:url" content="{{ .Permalink }}" />
   <meta property="og:title" content="{{ if eq .Kind "taxonomy" }}{{ .Title }} | ▲ anugrahra.space ▲ {{ else }}{{ .Title }}{{ end }}" />
-  <!-- <meta property="og:description" content="{{ if .Description }} {{ .Description }} {{ else }} {{ .Site.Params.Description }} - {{ .Title }} {{ end }}" /> -->
+  <meta property="og:description" content="{{ if .Description }} {{ .Description }} {{ else }} {{ .Site.Params.Description }} - {{ .Title }} {{ end }}" />
   <meta property="og:image" content="{{if .Params.image}}{{.Params.image}}{{else}}https://anugrahra.space/catatan/kamu-gak-spesial/{{end}}" />
 
 
