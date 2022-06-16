@@ -3,6 +3,7 @@ date = 2022-05-01T17:00:00Z
 tagline = "alasan aku membuat situs web sendiri"
 tags = ["media sosial", "internet"]
 title = "Bermain di internet"
+image = "https://i.ibb.co/mbkkYbH/original-4114-1439490615-4.png"
 
 +++
 Aku mengenal internet di tahun 1999. Aku ingat harga warnet waktu itu Rp. 4000 per jam. Di tahun itu pula aku pertama kali belajar membuat email, dengan Yahoo! sebagai _provider_-nya.
