@@ -1,18 +1,14 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="@anugrahra_space">
   <meta name="twitter:creator" content="@anugrahra_space">
+
   <meta property="og:url" content="{{ .Permalink }}" />
-  <meta property="og:title" content="{{ if eq .Kind "taxonomy" }}{{ .Title }} | ▲ anugrahra.space ▲ {{ else }}{{ .Title }}{{ end }}" />
-  
-  <!-- <meta property="og:description" content="{{ if eq .Kind "taxonomy" }}{{ .Tagline }} | ▲ anugrahra.space ▲ {{ else }}{{ .Title }}{{ end }}" /> -->
-
-  <meta property="og:description" content="{{ if .Description }} {{ .Description }} {{ else }} bangsaaat {{ .Site.Params.Description }}{{ end }}" />
-  
-  <!-- <meta property="og:image" content="{{if .Params.image}}{{.Params.image}}{{else}}https://anugrahra.space/catatan/kamu-gak-spesial/{{end}}" /> -->
-
+  <meta property="og:title" content="{{ .Title }}" />
+  <meta property="og:description" content="{{ .Params.tagline }}" />
 
   <link rel="stylesheet" type="text/css" href="/css/style.css">
   {{ if ne .IsHome true}}
