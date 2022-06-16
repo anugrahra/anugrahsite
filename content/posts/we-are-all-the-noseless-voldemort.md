@@ -1,5 +1,6 @@
 +++
 date = 2022-05-07T17:00:00Z
+image = "https://i.ibb.co/cCVf9dX/volde.jpg"
 tagline = "an asshole"
 tags = ["ranting"]
 title = "We are all the noseless Voldemort"
