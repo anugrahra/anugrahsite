@@ -11,6 +11,11 @@ fields:
 - type: datetime
   name: date
   label: date
+- name: image
+  type: text
+  config:
+    required: false
+  label: image
 - type: list
   name: tags
   label: tags
@@ -18,6 +23,7 @@ pages:
 - content/posts/aku-mengenal-das-kapital-di-jalanan.md
 - content/posts/belajar-memilih-dengan-seni.md
 - content/posts/ekspektasimu-ketinggian.md
+- content/posts/gak-perlu-buru-buru-bales.md
 - content/posts/how-to-be-a-stoic.md
 - content/posts/jkt48-really-saved-my-life.md
 - content/posts/kamu-gak-spesial.md
