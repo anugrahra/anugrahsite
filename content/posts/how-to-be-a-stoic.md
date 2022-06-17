@@ -3,6 +3,7 @@ date = 2022-04-24T17:00:00Z
 tagline = "print, simpan dalam saku"
 tags = ["stoik", "filsafat"]
 title = "How to be a stoic"
+image = "https://i.ibb.co/qWPCXrZ/Zxzffff.webp"
 
 +++
 Apa itu stoikisme?
