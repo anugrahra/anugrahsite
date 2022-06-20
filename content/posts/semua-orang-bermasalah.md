@@ -7,19 +7,14 @@ title = "Semua orang bermasalah"
 +++
 Setiap orang punya masalah. Ga kamu doang.
 
-  
 Ga usah banding-bandingin masalah. Setiap orang punya porsinya masing-masing.
 
-  
 Ga usah berprasangka. Itu hanya terjadi di kepalamu, belum tentu benar di dunia nyata.
 
-  
 Ga usah baper kalau ga dihargai. Kamu bukan siapa-siapa.
 
-  
 Masalah itu dicari solusinya, bukan dicari siapa yang salah.
 
-  
 Manusia berevolusi jadi sempurna karena masalah.
 
 Adaptasi itu penting kalau gak mau mati. Manusia terdahulu yang gengsi karena menolak api mati lebih dulu.

@@ -1,6 +1,6 @@
 +++
 date = 2022-06-19T17:00:00Z
-draft = true
+draft = false
 image = ""
 tagline = "kata Jerry Seinfeld"
 tags = ["diary", "ranting"]
@@ -18,3 +18,5 @@ Kini aku ingin membuat beberapa rantaiku kembali. Saat ini juga aku yakin rantai
 —
 
 Dengar episode yang kumaksud [di sini](https://anchor.fm/dekadensiotak/episodes/4--Jangan-putusin-rantainya-e2e43t)
+
+<iframe src="https://anchor.fm/dekadensiotak/embed/episodes/4--Jangan-putusin-rantainya-e2e43t"  width="80%" frameborder="0" scrolling="no"></iframe>

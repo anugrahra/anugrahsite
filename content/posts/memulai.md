@@ -3,8 +3,9 @@ date = 2022-04-23T17:00:00Z
 tagline = "ya harus"
 tags = ["diary"]
 title = "Memulai"
-
+image = "https://i.ibb.co/1dMr9rL/jason-hogan-yyfwukzv5fm-unsplash-1.jpg"
 +++
+
 Saya memulai blog lagi.
 
 ![](https://i.ibb.co/1dMr9rL/jason-hogan-yyfwukzv5fm-unsplash-1.jpg)
