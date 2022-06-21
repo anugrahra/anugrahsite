@@ -4,6 +4,7 @@ languageCode = "en-us"
 rssLimit = 20
 theme = "anugrahtheme"
 title = "▲ anugrahra.space ▲"
+description = "Website Anugrah Ramadhan"
 googleAnalytics = "UA-227767430-1"
 
 [author]
