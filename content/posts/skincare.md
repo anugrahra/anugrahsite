@@ -22,6 +22,6 @@ Edan. Harus kuakui James Clear benar tentang _stacking habit_-nya itu.
 
 Aku rela tulus ikhlas sekali melakukan ini demi menjaga kewarasan. Psikolog menyarankanku untuk mandi setidaknya dua kali sehari, jangan sampai tidak merawat diri.
 
-Okay. Dia minta aku mandi, kutambah dengan _skincare_-an.
+_Okay_. Dia minta aku mandi, kutambah dengan _skincare_-an.
 
 Luar biasa memang aku - si calon pengguling tahta ketampanan Jimin - ini.
