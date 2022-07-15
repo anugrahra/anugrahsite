@@ -8,9 +8,9 @@ title = "Skincare"
 weight = 1
 
 +++
-Aku adalah narsistik. Aku sangat mendamba diriku sendiri, apalagi terhadap kecerdasanku yang superior.
+Aku narsistik. Aku sangat mendamba diriku sendiri, apalagi terhadap kecerdasanku yang superior.
 
-Aku pun tampan. Sialnya, hanya aku yang mengerti akan hal itu. Ketampananku makin menjadi-jadi ketika program diet dan olahraga yang kujalani berhasil membuat berat badanku turun 10 kg.
+Aku pun tampan. Sialnya, hanya aku yang mengerti akan hal itu. Ketampananku makin menjadi ketika program _diet_ dan olahraga yang kujalani berhasil membuat berat badanku turun 10 kg.
 
 Kini aku mulai fokus merawat kulit. _Skincare_. Tujuanku adalah mengalahkan pendar cahaya wajah Jimin BTS.
 
