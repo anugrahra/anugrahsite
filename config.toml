@@ -1,31 +1,32 @@
 baseURL = "https://anugrahra.space/"
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License."
+description = "Website Anugrah Ramadhan"
+googleAnalytics = "UA-227767430-1"
 languageCode = "en-us"
 rssLimit = 20
 theme = "anugrahtheme"
 title = "▲ anugrahra.space ▲"
-description = "Website Anugrah Ramadhan"
-googleAnalytics = "UA-227767430-1"
-
 [author]
 email = "anugrahra.space@gmail.com"
 name = "Anugrah Ramadhan"
 [markup.goldmark.renderer]
 unsafe = true
-
 [[menu.landing]]
-name = "📝 Catatan"
-url = "/catatan/"
-weight = 1
+name = "▲ Podcast"
+url = "https://anchor.fm/dekadensiotak"
+weight = 4
 [[menu.landing]]
-name = "📚 Seri Tulisan"
+name = "▲ Seri Tulisan"
 url = "/seri-tulisan/"
 weight = 2
 [[menu.landing]]
-name = "🤖 Codes"
+name = "▲ Catatan"
+url = "/catatan/"
+weight = 1
+[[menu.landing]]
+name = "▲ Kode"
 url = "/karya-koding/"
 weight = 3
-
 [[menu.main]]
 name = "RSS"
 url = "/catatan/index.xml"
@@ -42,33 +43,31 @@ weight = 2
 name = "Home"
 url = "/"
 weight = 1
-
 [[menu.tulisan]]
+img = "/icon/favicon.ico"
 name = "Belajar memilih dengan seni"
 url = "/catatan/belajar-memilih-dengan-seni/"
 weight = 5
-img = "/icon/favicon.ico"
-[[menu.tulisan]]
-name = "Kamu gak spesial"
-url = "/catatan/kamu-gak-spesial/"
-weight = 4
 [[menu.tulisan]]
 name = "Ubah yang bisa diukur"
 url = "/catatan/ubah-yang-bisa-diukur/"
 weight = 3
 [[menu.tulisan]]
+name = "Semua orang bermasalah"
+url = "/catatan/semua-orang-bermasalah/"
+weight = 1
+[[menu.tulisan]]
 name = "Bermain di internet"
 url = "/catatan/bermain-di-internet/"
 weight = 2
 [[menu.tulisan]]
-name = "Semua orang bermasalah"
-url = "/catatan/semua-orang-bermasalah/"
-weight = 1
-
+name = "Kamu gak spesial"
+url = "/catatan/kamu-gak-spesial/"
+weight = 4
 [permalinks]
 posts = "/catatan/:title/"
 [taxonomies]
 category = "categories"
+image = "image"
 tag = "tags"
 tagline = "tagline"
-image = "image"
