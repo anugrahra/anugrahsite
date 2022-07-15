@@ -2,7 +2,7 @@
 date = 2022-07-14T17:00:00Z
 image = "https://i.ibb.co/dQdkVyW/0fcaa629a23c2db56566395f0a4f4459-1000x1000x1.jpg"
 tagline = "untuk mengalahkan ketampanan Jimin BTS"
-tags = []
+tags = ["hack"]
 title = "Skincare"
 
 +++
