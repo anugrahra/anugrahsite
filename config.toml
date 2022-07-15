@@ -51,19 +51,15 @@ weight = 5
 [[menu.tulisan]]
 name = "Ubah yang bisa diukur"
 url = "/catatan/ubah-yang-bisa-diukur/"
-weight = 3
+weight = 4
 [[menu.tulisan]]
 name = "Semua orang bermasalah"
 url = "/catatan/semua-orang-bermasalah/"
-weight = 1
+weight = 2
 [[menu.tulisan]]
 name = "Bermain di internet"
 url = "/catatan/bermain-di-internet/"
-weight = 2
-[[menu.tulisan]]
-name = "Kamu gak spesial"
-url = "/catatan/kamu-gak-spesial/"
-weight = 4
+weight = 3
 [permalinks]
 posts = "/catatan/:title/"
 [taxonomies]
