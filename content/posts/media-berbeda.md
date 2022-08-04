@@ -3,7 +3,7 @@ date = 2022-08-03T17:00:00Z
 image = ""
 tagline = "untuk rasa berjuta"
 tags = ["diary"]
-title = "Media Berbeda"
+title = "Media berbeda"
 
 +++
 Aku memilah media mana yang tepat untuk meluapkan isi kepalaku.
