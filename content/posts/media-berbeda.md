@@ -10,7 +10,7 @@ Aku memilah media mana yang tepat untuk meluapkan isi kepalaku.
 
 Aku merunut isi kepala yang ruwet di [Catatan](https://anugrahra.space/catatan/) ini, berbeda dengan [podcast](https://anchor.fm/dekadensiotak) yang kupakai untuk beropini santai.
 
-Media hiphop kupakai untuk marah-marah dalam [balutan rima rap](https://youtube.com/playlist?list=PLFZrqHARIzl5VPHeg_751Zu9ibidC3cKa). Melankolis lebih mantap jika dihamparkan pada karya bernama puisi.
+Media hiphop kupakai untuk marah-marah dalam [balutan rima rap](https://youtube.com/playlist?list=PLFZrqHARIzl5VPHeg_751Zu9ibidC3cKa). Melankolis lebih mantap jika dihamparkan pada karya bernama [puisi](https://anugrahra.space/seri-tulisan/sepah/).
 
 Oh! Aku sedang jatuh cinta, maka kubuat lagu bergaya pop supaya hatiku lapang.
 
