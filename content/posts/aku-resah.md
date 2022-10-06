@@ -1,12 +1,13 @@
 +++
 date = 2022-10-06T14:00:00Z
-draft = true
 image = "https://i.ibb.co/chkN9Ny/d663ddbecca5d35a06de150598e68bf9.jpg"
 tagline = "kamu juga"
 tags = ["diary"]
 title = "Aku resah"
 
 +++
+![](https://i.ibb.co/chkN9Ny/d663ddbecca5d35a06de150598e68bf9.jpg)
+
 Komika nulis materi dari keresahan. Musisi juga gitu, pelukis juga gitu. Nah, sekarang aku juga gitu.
 
 Dari dulu sih sebenarnya.
