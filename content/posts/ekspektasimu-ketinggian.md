@@ -3,6 +3,8 @@ date = 2022-06-06T17:00:00Z
 tagline = "ga usah kayak gitu"
 tags = ["hack"]
 title = "Ekspektasimu ketinggian"
+[menu.tulisan]
+weight = 4
 
 +++
 “Ekspektasi adalah akar dari sakit hati”

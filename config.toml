@@ -11,10 +11,6 @@ email = "anugrahra.space@gmail.com"
 name = "Anugrah Ramadhan"
 [markup.goldmark.renderer]
 unsafe = true
-[[menu.landing]]
-name = "Baca catatan terbaru"
-url = "/catatan/"
-weight = 1
 [[menu.main]]
 name = "RSS"
 url = "/catatan/index.xml"
@@ -31,23 +27,6 @@ weight = 2
 name = "Home"
 url = "/"
 weight = 1
-
-[[menu.tulisan]]
-name = "Semua orang bermasalah"
-url = "/catatan/semua-orang-bermasalah/"
-weight = 2
-[[menu.tulisan]]
-name = "Bermain di internet"
-url = "/catatan/bermain-di-internet/"
-weight = 3
-[[menu.tulisan]]
-name = "Ubah yang bisa diukur"
-url = "/catatan/ubah-yang-bisa-diukur/"
-weight = 4
-[[menu.tulisan]]
-name = "Belajar memilih dengan seni"
-url = "/catatan/belajar-memilih-dengan-seni/"
-weight = 5
 [permalinks]
 posts = "/catatan/:title/"
 [taxonomies]
