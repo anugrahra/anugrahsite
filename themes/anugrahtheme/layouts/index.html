@@ -1,16 +1,14 @@
 {{ define "main" }}
-  <section id="introduction">
-    <h1 id="halo">Anugrah Ramadhan</h1>
-    <p id="underhalo">32 year old plumber based in Cimahi 🇮🇩</p>
-    <p><a href="/kontak/">Interested in working together? Contact me!🔗</a></p>
-  </section>
-  <br>
-  <section id="tulisan-pilihan">
-    <h2 style="margin-bottom: 1%;">Choosen notes for you</h2>
-    <nav>
-      {{ range .Site.Menus.tulisan }}
-      <ul>
-        <li class="landing-nav">
+<section id="introduction">
+  <p id="halo">"Hidup adalah rangkaian masalah yang diselingi kebahagiaan. <i>Get used to it</i>."</p>
+</section>
+<br>
+<section id="links">
+  <nav>
+    {{ range .Site.Menus.landing }}
+    <ul>
+      <li class="landing-nav">
+        <mark>📝&nbsp;
           <a href="{{ .URL }}">
             {{ if .Pre }}
             {{ $icon := printf "<i data-feather=\"%s\"></i> " .Pre | safeHTML }}
@@ -19,31 +17,32 @@
             {{ $text := print .Name | safeHTML }}
             {{ $text }}
           </a>
-        </li>
-      </ul>
-      {{ end }}
-    </nav>
-  </section>
-  <section id="links">
-    <h2 style="margin-bottom: 1%;">Works</h2>
-    <nav>
-      {{ range .Site.Menus.landing }}
-      <ul>
-        <li class="landing-nav">
-          <a href="{{ .URL }}">
+        </mark>
+      </li>
+    </ul>
+    {{ end }}
+  </nav>
+</section>
+<section id="tulisan-pilihan">
+  <h2 style="margin-bottom: 1%;">Catatan pilihan, <i>for you</i></h2>
+  <nav>
+    {{ range .Site.Menus.tulisan }}
+    <ul>
+      <li class="landing-nav">
+        <a href="{{ .URL }}">
           {{ if .Pre }}
           {{ $icon := printf "<i data-feather=\"%s\"></i> " .Pre | safeHTML }}
           {{ $icon }}
           {{ end }}
           {{ $text := print .Name | safeHTML }}
           {{ $text }}
-          </a>
-        </li>
-      </ul>
-      {{ end }}
-    </nav>
-  </section>
-  <!-- <section id="video-pilihan">
+        </a>
+      </li>
+    </ul>
+    {{ end }}
+  </nav>
+</section>
+<!-- <section id="video-pilihan">
     <h2 style="margin-bottom: 1%;">May my rap song moves you</h2>
     <iframe height="315" src="https://www.youtube.com/embed/MV-jziWnQaQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </section> -->

@@ -1,10 +1,10 @@
 {{ define "main" }}
-    <h1>{{ .Title }}</h1>
-    <h5>{{ .Params.tagline }}</h5>
-        {{ range .Pages.ByPublishDate.Reverse }}
-        <p>
-            <h3><a class="title" href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-            <i>{{ .Params.tagline }}</i>
-        </p>
-    {{ end }}
+<h1>{{ .Title }}</h1>
+<h5>{{ .Params.tagline }}</h5>
+{{ range .Pages.ByPublishDate.Reverse }}
+<p>
+<h3><a class="title" href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+<i>{{ .Params.tagline }}</i>
+</p>
+{{ end }}
 {{ end }}
