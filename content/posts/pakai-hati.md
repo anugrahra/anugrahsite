@@ -6,7 +6,7 @@ tags = []
 title = "Pakai hati"
 
 +++
-_Man_, aku ini orang yang melankolis. Going Merry dilepas aja aku nangis. Seiring berjalannya waktu, aku berpendapat kalau itu gak perlu.
+_Man_, aku ini orang yang melankolis. [Going Merry](https://onepiece.fandom.com/wiki/Going_Merry) dilepas aja aku nangis. Seiring berjalannya waktu, aku berpendapat kalau itu gak perlu.
 
 Hati. Perasaan. Memainkan semuanya.
 
