@@ -1,12 +1,12 @@
 {{ define "main" }}
-  <h1 id="title-catatan">{{ .Title }}</h1>
-  <i>{{ .Params.tagline }}</i>
-  <br><br>
-  <div id="catatan">
-    {{ .Content }}
-    <p>---</p>
-    {{ partial "metadata.html" . }}
-    <br>
-    <a href="/catatan/">Baca catatan lainnya</a>
-  </div>
+<h1 id="title-catatan">{{ .Title }}</h1>
+<i>{{ .Params.tagline }}</i>
+<br><br>
+<div id="catatan">
+  {{ .Content }}
+  <p>---</p>
+  {{ partial "metadata.html" . }}
+  <br>
+  <mark><a href="/catatan/">Baca catatan lainnya</a></mark>
+</div>
 {{ end }}
