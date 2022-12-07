@@ -31,6 +31,7 @@ weight = 2
 name = "Home"
 url = "/"
 weight = 1
+
 [[menu.tulisan]]
 name = "Semua orang bermasalah"
 url = "/catatan/semua-orang-bermasalah/"
