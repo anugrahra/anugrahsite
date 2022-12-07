@@ -63,14 +63,17 @@ section#introduction p {
   font-size: 20px;
 }
 
-section#introduction p#halo {
+section#introduction {
   margin-top: 1%;
 }
 
-section#introduction a {
-  background-color: yellow;
-  text-decoration: none;
-  color: black;
+section#introduction h1 {
+  text-align: left;
+}
+
+section#introduction p#halo {
+  margin-top: 1%;
+  text-align: left;
 }
 
 section#links {
