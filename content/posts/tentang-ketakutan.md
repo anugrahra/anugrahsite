@@ -3,7 +3,7 @@ date = 2022-12-07T17:00:00Z
 draft = true
 image = ""
 tagline = "akibat ketololan masa lalu"
-tags = ["ranting", ""]
+tags = ["ranting"]
 title = "Tentang ketakutan"
 
 +++
