@@ -37,6 +37,6 @@ Aku pernah edan-edanan kerja sampe lupa akan traumaku. Tapi tiba-tiba hantu itu 
 
 Sialnya, aku (dan mungkin juga kamu) tidak sanggup menyalahkan orang lain. Pada akhirnya, aku selalu menyalahkan diri sendiri. Selalu bertanya, kurang apa lagi?
 
-Buku-buku self-improvement banyak dibaca. Adakah perubahan dalam diri? Iya. Ada. Tapi sedikit. Sial.
+Buku-buku self-improvement banyak dibaca. Adakah perubahan dalam diri? Iya. Ada. Tapi yang terasa itu sedikit. Sial.
 
 Sampai pada akhirnya, aku (mungkin, kamu juga) mengejar dan menjaga sesuatu yang riil - yang bisa disentuh - yang bisa diukur: materi.
