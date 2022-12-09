@@ -1,7 +1,6 @@
 +++
 date = 2022-12-07T17:00:00Z
-draft = true
-image = ""
+image = "https://i.ibb.co/Pm3rXxG/4fa60b10fad60bbc86ad1ea93e3af73e.jpg"
 tagline = "akibat ketololan masa lalu"
 tags = ["ranting"]
 title = "Tentang ketakutan"
@@ -13,9 +12,20 @@ Aku sedang takut banyak hal.
 
 Asumsiku berkata ini akibat kejadian masa lalu. Trauma.
 
+***
+
+KBBI bilang,
+
+**trau.ma**
+
+1. _n_ keadaan jiwa atau tingkah laku yang tidak normal sebagai akibat dari tekanan jiwa atau cedera jasmani
+2. _n_ luka pada tubuh atau fisik
+
+***
+
 Bangsat.
 
-Pengalaman mengajarkan untuk terus berusaha menjadi lebih baik. Tapi, mau sampai kapan?
+![](https://i.ibb.co/Pm3rXxG/4fa60b10fad60bbc86ad1ea93e3af73e.jpg)Pengalaman mengajarkan untuk terus berusaha menjadi lebih baik. Tapi, mau sampai kapan?
 
 Pernahkah kamu merasa cukup akan perkembangan dirimu?
 
