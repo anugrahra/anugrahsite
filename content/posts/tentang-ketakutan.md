@@ -14,9 +14,9 @@ Aku sedang takut banyak hal.
 
 Asumsiku berkata ini akibat kejadian masa lalu. Trauma.
 
-***
+Menurut KBBI, trauma itu:
 
-KBBI bilang,
+***
 
 **trau.ma**
 
