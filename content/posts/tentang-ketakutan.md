@@ -20,8 +20,7 @@ KBBI bilang,
 
 **trau.ma**
 
-1. _n_ keadaan jiwa atau tingkah laku yang tidak normal sebagai akibat dari tekanan jiwa atau cedera jasmani
-2. _n_ luka pada tubuh atau fisik
+_n_ keadaan jiwa atau tingkah laku yang tidak normal sebagai akibat dari tekanan jiwa atau cedera jasmani
 
 ***
 
