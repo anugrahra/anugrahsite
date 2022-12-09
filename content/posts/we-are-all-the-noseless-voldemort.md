@@ -4,8 +4,6 @@ image = "https://i.ibb.co/cCVf9dX/volde.jpg"
 tagline = "an asshole"
 tags = ["ranting"]
 title = "We are all the noseless Voldemort"
-[menu.tulisan]
-weight = 5
 
 +++
 Kamu selalu membagi jiwamu untuk tetap hidup.
