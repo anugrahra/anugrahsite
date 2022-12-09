@@ -24,11 +24,11 @@ _n_ keadaan jiwa atau tingkah laku yang tidak normal sebagai akibat dari tekanan
 
 ***
 
-.
+![](https://i.ibb.co/Pm3rXxG/4fa60b10fad60bbc86ad1ea93e3af73e.jpg)
 
 Bangsat.
 
-![](https://i.ibb.co/Pm3rXxG/4fa60b10fad60bbc86ad1ea93e3af73e.jpg)Pengalaman mengajarkan untuk terus berusaha menjadi lebih baik. Tapi, mau sampai kapan?
+Pengalaman mengajarkan untuk terus berusaha menjadi lebih baik. Tapi, mau sampai kapan?
 
 Pernahkah kamu merasa cukup akan perkembangan dirimu?
 
