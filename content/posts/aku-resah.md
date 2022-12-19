@@ -4,8 +4,6 @@ image = "https://i.ibb.co/chkN9Ny/d663ddbecca5d35a06de150598e68bf9.jpg"
 tagline = "kamu juga"
 tags = ["diary"]
 title = "Aku resah"
-[menu.tulisan]
-weight = 2
 
 +++
 ![](https://i.ibb.co/chkN9Ny/d663ddbecca5d35a06de150598e68bf9.jpg)

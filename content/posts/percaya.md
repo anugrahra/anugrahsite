@@ -4,6 +4,8 @@ image = "https://i.ibb.co/pR1fVQz/cfc8c5d82185cb90c06e14cd528a2c6e.jpg"
 tagline = "hanya pada fakta saat ini"
 tags = ["hack"]
 title = "Percaya"
+[menu.tulisan]
+weight = 2
 
 +++
 Haha.. anjing. Berapa kali kamu dikasih harapan?
