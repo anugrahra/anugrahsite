@@ -8,7 +8,7 @@ title = "Orang aneh"
 weight = 1
 
 +++
-Halo, kalian yang dibenci orang-orang.  
+Halo, kamu yang dibenci orang-orang.  
 Sama, aku juga begitu.  
 Kita ini memang beda dan nyebelin. Akuin aja.  
 Kita ini dilabeli pecundang.
