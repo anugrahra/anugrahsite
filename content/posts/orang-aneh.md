@@ -1,8 +1,8 @@
 +++
 date = 2022-12-21T17:00:00Z
-image = ""
+image = "https://i.ibb.co/M8cJ5VL/e97efaa93d310da67659488407019ec4.jpg"
 tagline = "yang berusaha tulus dan jujur"
-tags = []
+tags = ["ranting"]
 title = "Orang aneh"
 
 +++
