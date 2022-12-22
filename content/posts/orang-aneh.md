@@ -4,6 +4,8 @@ image = "https://i.ibb.co/M8cJ5VL/e97efaa93d310da67659488407019ec4.jpg"
 tagline = "yang berusaha tulus dan jujur"
 tags = ["ranting"]
 title = "Orang aneh"
+[menu.tulisan]
+weight = 1
 
 +++
 Halo, kalian yang dibenci orang-orang.  

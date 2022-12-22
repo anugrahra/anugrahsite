@@ -5,7 +5,7 @@ tagline = "yang menyebalkan"
 tags = []
 title = "Hidup"
 [menu.tulisan]
-weight = 1
+weight = 4
 
 +++
 Kamu gak akan ngerti tentang masalah orang ketika lagi bahagia. Kamu hanya akan mengerti ketika kamu lagi ada di kondisi yang bermasalah juga.
