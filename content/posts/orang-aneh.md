@@ -1,6 +1,5 @@
 +++
 date = 2022-12-21T17:00:00Z
-draft = true
 image = ""
 tagline = "yang berusaha tulus dan jujur"
 tags = []
