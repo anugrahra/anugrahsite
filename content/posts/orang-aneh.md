@@ -9,7 +9,8 @@ title = "Orang aneh"
 +++
 Halo, kalian yang dibenci orang-orang.  
 Sama, aku juga begitu.  
-Kita ini memang beda dan nyebelin. Akuin aja. Kita ini pecundang.
+Kita ini memang beda dan nyebelin. Akuin aja.  
+Kita ini dilabeli pecundang.
 
 Dada sesak ya?  
 Iya, sama, aku juga.  
@@ -26,7 +27,7 @@ Aku dan kamu berusaha jujur.
 Sialnya, dunia ini gak terbiasa nerima ketulusan dan kejujuran kita.  
 Kita harus belajar.  
 Harus belajar memahami dunia ini.  
-Kompromi…  
+Kompromi.  
 Susah? Emang.
 
 Kita adalah manusia-manusia egois.  
@@ -51,9 +52,9 @@ Langka banget orang yang ngerti kita tuh. Mangkanya kita harus jaga kepercayaan 
 
 Seperti [dr. Hiriluk](https://onepiece.fandom.com/wiki/Hiriluk) kepada [Tony Tony Chopper](https://onepiece.fandom.com/wiki/Tony_Tony_Chopper).
 
-Yuk kawan, tetap jalanin hidup dengan tulus. Tetep sebar kebaikan walau dianggap aneh, walau dianggap nyebelin, walau dianggap bodoh, walau orang-orang makin benci kita.
+Yuk kawan, tetap jalanin hidup dengan tulus. Tetep berusaha jadi orang baik walau dianggap aneh, walau dianggap nyebelin, walau dianggap bodoh, walau orang-orang makin benci kita.
 
-Kita berusaha berniat baik aja. Aku yakin kok niat kamu itu baik.
+Aku yakin kok niat kamu itu baik.
 
 Terimakasih yang udah baca sampai akhir,  
 Dari aku, yang juga sering dianggap aneh, nyebelin, dan bodoh.
