@@ -57,3 +57,5 @@ Kita berusaha berniat baik aja. Aku yakin kok niat kamu itu baik.
 
 Terimakasih yang udah baca sampai akhir,  
 Dari aku, yang juga sering dianggap aneh, nyebelin, dan bodoh.
+
+![dr. Hiriluk dan Chopper](https://i.ibb.co/M8cJ5VL/e97efaa93d310da67659488407019ec4.jpg "dr. Hiriluk dan Chopper")
