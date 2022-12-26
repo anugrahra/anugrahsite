@@ -6,7 +6,7 @@ tags = ["diary"]
 title = "Jolly Roger"
 
 +++
-![](https://i.ibb.co/SXjk62c/H-1.png)Ketika Hiriluk si dokter aneh berkata pada Chopper tentang makna dibalik Jolly Roger-nya, aku pun jadi ingin membuat Jolly Roger-ku sendiri.
+![](https://i.ibb.co/HpMC1Cz/ha-jollyroger.png)Ketika Hiriluk si dokter aneh berkata pada Chopper tentang makna dibalik Jolly Roger-nya, aku pun jadi ingin membuat Jolly Roger-ku sendiri.
 
 Diluar dugaanku, bukan Luffy yang menjadi inspirator, bukan pula Usopp yang adalah karakter kesukaanku, tapi Hiriluk - karakter yang hanya hidup dalam satu ark.
 
