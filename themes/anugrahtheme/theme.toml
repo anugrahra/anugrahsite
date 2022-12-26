@@ -5,14 +5,14 @@ name = "Anugrahtheme"
 license = "MIT"
 licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE"
 description = ""
-homepage = "https://example.com/"
+homepage = "https://heyanugrah.com/"
 tags = []
 features = []
 min_version = "0.41"
 
 [author]
   name = "Anugrah Ramadhan"
-  homepage = ""
+  homepage = "https://heyanugrah.com/"
 
 # If porting an existing theme
 [original]

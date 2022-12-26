@@ -1,64 +1,75 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on ▲ anugrahra.space ▲</title>
-    <link>https://anugrahra.space/tags/</link>
-    <description>Recent content in Tags on ▲ anugrahra.space ▲</description>
+    <title>Tags on hey anugrah!</title>
+    <link>https://heyanugrah.com/tags/</link>
+    <description>Recent content in Tags on hey anugrah!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
-    <lastBuildDate>Fri, 29 Apr 2022 17:00:00 +0000</lastBuildDate><atom:link href="https://anugrahra.space/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>diary</title>
-      <link>https://anugrahra.space/tags/diary/</link>
-      <pubDate>Fri, 29 Apr 2022 17:00:00 +0000</pubDate>
-      
-      <guid>https://anugrahra.space/tags/diary/</guid>
-      <description></description>
-    </item>
-    
+    <managingEditor>anugrahra.space@gmail.com (Anugrah Ramadhan)</managingEditor>
+    <webMaster>anugrahra.space@gmail.com (Anugrah Ramadhan)</webMaster>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</copyright>
+    <lastBuildDate>Wed, 21 Dec 2022 17:00:00 +0000</lastBuildDate><atom:link href="https://heyanugrah.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ranting</title>
-      <link>https://anugrahra.space/tags/ranting/</link>
-      <pubDate>Tue, 26 Apr 2022 17:00:00 +0000</pubDate>
-      
-      <guid>https://anugrahra.space/tags/ranting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sosmed</title>
-      <link>https://anugrahra.space/tags/sosmed/</link>
-      <pubDate>Tue, 26 Apr 2022 17:00:00 +0000</pubDate>
-      
-      <guid>https://anugrahra.space/tags/sosmed/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>filsafat</title>
-      <link>https://anugrahra.space/tags/filsafat/</link>
-      <pubDate>Sun, 24 Apr 2022 17:00:00 +0000</pubDate>
-      
-      <guid>https://anugrahra.space/tags/filsafat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>stoik</title>
-      <link>https://anugrahra.space/tags/stoik/</link>
-      <pubDate>Sun, 24 Apr 2022 17:00:00 +0000</pubDate>
-      
-      <guid>https://anugrahra.space/tags/stoik/</guid>
+      <link>https://heyanugrah.com/tags/ranting/</link>
+      <pubDate>Wed, 21 Dec 2022 17:00:00 +0000</pubDate>
+      <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
+      <guid>https://heyanugrah.com/tags/ranting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hack</title>
-      <link>https://anugrahra.space/tags/hack/</link>
-      <pubDate>Tue, 25 Aug 2020 20:31:54 +0700</pubDate>
-      
-      <guid>https://anugrahra.space/tags/hack/</guid>
+      <link>https://heyanugrah.com/tags/hack/</link>
+      <pubDate>Sun, 18 Dec 2022 17:00:00 +0000</pubDate>
+      <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
+      <guid>https://heyanugrah.com/tags/hack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diary</title>
+      <link>https://heyanugrah.com/tags/diary/</link>
+      <pubDate>Wed, 02 Nov 2022 17:00:00 +0000</pubDate>
+      <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
+      <guid>https://heyanugrah.com/tags/diary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>internet</title>
+      <link>https://heyanugrah.com/tags/internet/</link>
+      <pubDate>Sun, 01 May 2022 17:00:00 +0000</pubDate>
+      <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
+      <guid>https://heyanugrah.com/tags/internet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>media sosial</title>
+      <link>https://heyanugrah.com/tags/media-sosial/</link>
+      <pubDate>Sun, 01 May 2022 17:00:00 +0000</pubDate>
+      <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
+      <guid>https://heyanugrah.com/tags/media-sosial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>filsafat</title>
+      <link>https://heyanugrah.com/tags/filsafat/</link>
+      <pubDate>Sun, 24 Apr 2022 17:00:00 +0000</pubDate>
+      <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
+      <guid>https://heyanugrah.com/tags/filsafat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stoik</title>
+      <link>https://heyanugrah.com/tags/stoik/</link>
+      <pubDate>Sun, 24 Apr 2022 17:00:00 +0000</pubDate>
+      <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
+      <guid>https://heyanugrah.com/tags/stoik/</guid>
       <description></description>
     </item>
     

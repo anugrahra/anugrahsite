@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Aku terkadang mengumpulkan tulisan-tulisanku dalam satu judul. Bisa dalam zine (e-zine), bundel, atau buku (e-book). on ▲ anugrahra.space ▲</title>
-    <link>https://anugrahra.space/tagline/aku-terkadang-mengumpulkan-tulisan-tulisanku-dalam-satu-judul.-bisa-dalam-zine-e-zine-bundel-atau-buku-e-book./</link>
-    <description>Recent content in Aku terkadang mengumpulkan tulisan-tulisanku dalam satu judul. Bisa dalam zine (e-zine), bundel, atau buku (e-book). on ▲ anugrahra.space ▲</description>
+    <title>Aku terkadang mengumpulkan tulisan-tulisanku dalam satu judul. Bisa dalam zine (e-zine), bundel, atau buku (e-book). on hey anugrah!</title>
+    <link>https://heyanugrah.com/tagline/aku-terkadang-mengumpulkan-tulisan-tulisanku-dalam-satu-judul.-bisa-dalam-zine-e-zine-bundel-atau-buku-e-book./</link>
+    <description>Recent content in Aku terkadang mengumpulkan tulisan-tulisanku dalam satu judul. Bisa dalam zine (e-zine), bundel, atau buku (e-book). on hey anugrah!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright><atom:link href="https://anugrahra.space/tagline/aku-terkadang-mengumpulkan-tulisan-tulisanku-dalam-satu-judul.-bisa-dalam-zine-e-zine-bundel-atau-buku-e-book./index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>anugrahra.space@gmail.com (Anugrah Ramadhan)</managingEditor>
+    <webMaster>anugrahra.space@gmail.com (Anugrah Ramadhan)</webMaster>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</copyright><atom:link href="https://heyanugrah.com/tagline/aku-terkadang-mengumpulkan-tulisan-tulisanku-dalam-satu-judul.-bisa-dalam-zine-e-zine-bundel-atau-buku-e-book./index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Seri Tulisan</title>
-      <link>https://anugrahra.space/seri-tulisan-d/</link>
+      <link>https://heyanugrah.com/seri-tulisan-d/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://anugrahra.space/seri-tulisan-d/</guid>
+      <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
+      <guid>https://heyanugrah.com/seri-tulisan-d/</guid>
       <description>Ketik Neraka Zine yang dibuat pake mesin tik merek Brother
 Kibor Nyala Seri zine yang dibuat ketika aku baru mulai memakai keyboard yang ada lampunya
 Bundel Ejakulasi Kumpulan tulisan saat aku menjadi relawan suatu Rumah Belajar</description>
