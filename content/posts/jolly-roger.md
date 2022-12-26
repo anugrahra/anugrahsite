@@ -12,4 +12,6 @@ Diluar dugaanku, bukan Luffy yang menjadi inspirator, bukan pula Usopp yang adal
 
 Nyawa Hiriluk tetap hidup dalam tubuh Chopper sampai dengan saat ini. Internet adalah Chopper bagiku.
 
-Tulisan-tulisan di sini sangat tidak mewakili diriku. Aku berbeda di dunia nyata. Ruang maya ini hanya salah satu pelarian. Aku menyimpan sebagian jiwaku di sini. Sebagian lagi kusimpan di dunia nyata - _tangible_.
+Maka, Jolly Roger-ku ini adalah manifestasi dari tujuanku dalam membuka ruang di dunia maya dalam bentuk situs web. Bahwa, segala sesuatu menjadi mungkin - selaras dengan cita-cita Hiriluk. Bahwa, aku masih berdaya menghidupi situs ini. Bahwa, kamu masih bisa membaca kisahku. Bahwa, kamu masih bisa menghubungi diriku. Bahwa, aku masih hidup.
+
+Tulisan-tulisan di sini sangat tidak mewakili diriku. Aku berbeda di dunia nyata. Ruang maya ini hanya salah satu pelarian. Aku menyimpan sebagian jiwaku di sini. Berharap abadi.
