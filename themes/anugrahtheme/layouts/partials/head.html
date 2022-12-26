@@ -1,11 +1,11 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  
+
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="@anugrahra_space">
   <meta name="twitter:creator" content="@anugrahra_space">
-  
+
   <meta name="description" content="Website Anugrah Ramadhan" />
   <meta property="og:description" content="{{ .Params.tagline }}" />
   <meta property="og:url" content="{{ .Permalink }}" />
@@ -13,14 +13,13 @@
   <meta property="og:image" content="{{ .Params.image }}" />
 
   <link rel="stylesheet" type="text/css" href="/css/style.css">
-  {{ if ne .IsHome true}}
   <link rel="icon" type="image/x-icon" href="/icon/favicon.ico">
-  {{ end }}
   {{ $title := print .Title " | " .Site.Title }}
   {{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}
   <title>{{ $title }}</title>
   {{ range .AlternativeOutputFormats -}}
-    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+  {{ printf `
+  <link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
   {{ end -}}
   {{ template "_internal/google_analytics.html" . }}
 </head>
