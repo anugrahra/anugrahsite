@@ -10,7 +10,7 @@ Hari ini cuti Imlek, aku memutuskan untuk datang ke kantor. Aku ingin membantu P
 
 Pagi sekitar jam 8 aku sudah di kantor. Pak Asep sedang asyik ngelas pipa besi 2". Lalu aku bikin kopi, merokok sejenak sambil liatin Pak Asep kerja. Bantu angkat-angkat dikit. Lalu menyapa Rangga dan menagih laporan mingguan. Dilanjut ngecek data-data, tak lupa koordinasi dengan Bu Nia perihal bahan kimia yang harus dibeli.
 
-Fahrezi mengirim gambar yang dia buat dengan [Midjourney](https://www.midjourney.com). Ah aku iseng buat juga. Kuterjemahkan lirik lagu _Flying High_ dari JKT48 menjadi gambar-gambar yang _digitally artistic_. Anjir, sungguh menyenangkan.
+Fahrezi mengirim gambar yang dia buat dengan [Midjourney](https://www.midjourney.com), di group WhatsApp teman-teman kuliah. Ah aku jadi ingin iseng buat juga. Kuterjemahkan lirik lagu _Flying High_ dari JKT48 menjadi gambar-gambar yang _digitally artistic_. Anjir, sungguh menyenangkan.
 
 Lalu aku shalat dzuhur. Berterimakasih pada Allah atas indahnya hari ini. Yang aku tahu pasti tentang guna dari shalat adalah untuk berterima kasih. Bentuk rasa syukur selain kalimat _Alhamdulillah_.
 
