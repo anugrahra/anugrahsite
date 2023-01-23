@@ -4,8 +4,6 @@ image = "https://i.ibb.co/Pm3rXxG/4fa60b10fad60bbc86ad1ea93e3af73e.jpg"
 tagline = "akibat ketololan masa lalu"
 tags = ["ranting"]
 title = "Tentang ketakutan"
-[menu.tulisan]
-weight = 5
 
 +++
 Kamu pernah takut? Atau malah sedang takut.

@@ -4,6 +4,8 @@ image = ""
 tagline = "Halo Konfusius!"
 tags = ["diary"]
 title = "Hidup di sekarang"
+[menu.tulisan]
+weight = 2
 
 +++
 Hari ini cuti Imlek, aku memutuskan untuk datang ke kantor. Aku ingin membantu Pak Asep _upgrade safety bar_ di Unit Intake.

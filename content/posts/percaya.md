@@ -5,7 +5,7 @@ tagline = "hanya pada fakta saat ini"
 tags = ["hack"]
 title = "Percaya"
 [menu.tulisan]
-weight = 2
+weight = 3
 
 +++
 Haha.. anjing. Berapa kali kamu dikasih harapan?
