@@ -12,7 +12,7 @@ Pagi sekitar jam 8 aku sudah di kantor. Pak Asep sedang asyik ngelas pipa besi 2
 
 Fahrezi mengirim gambar yang dia buat dengan [Midjourney](https://www.midjourney.com), di group WhatsApp teman-teman kuliah. Ah aku jadi ingin iseng buat juga. Kuterjemahkan lirik lagu _Flying High_ dari JKT48 menjadi gambar-gambar yang _digitally artistic_. Anjir, sungguh menyenangkan.
 
-Lalu aku shalat dzuhur. Berterimakasih pada Allah atas indahnya hari ini. Yang aku tahu pasti tentang guna dari shalat adalah untuk berterima kasih. Bentuk rasa syukur selain kalimat _Alhamdulillah_.
+Lalu aku shalat dzuhur. Berterima kasih pada Allah atas indahnya hari ini. Yang aku tahu pasti tentang guna dari shalat adalah untuk berterima kasih. Bentuk rasa syukur selain kalimat _Alhamdulillah_.
 
 Sebelum pulang aku ngobrol dulu sama Pak Asep, tentang kerjaan dan tipis-tipis gosip kantor.
 
