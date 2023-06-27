@@ -1,5 +1,6 @@
 ---
 title: "Perjuangan Dangkal"
+tagline : "gak usah susah-susah"
 date: 2023-06-27T08:42:30+07:00
 draft: false
 ---
