@@ -4,7 +4,8 @@ image = "https://dekadensiotak.files.wordpress.com/2020/08/20200809_112534-1.jpg
 tagline = "novel punk pertama di dunia"
 tags = ["review"]
 title = "[Book Review] The Punk"
-
+[menu.review]
+weight = 1
 +++
 ![](https://dekadensiotak.files.wordpress.com/2020/08/20200809_112534-1.jpg?w=1536)
 Kayaknya kalau saya nemu buku ini waktu jaman STM dulu, pasti saya sangat bahagia sekali. Pada waktu itu saya memang sedang suka-sukanya sama skena dan kultur punk.

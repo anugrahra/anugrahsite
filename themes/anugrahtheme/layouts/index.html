@@ -1,7 +1,7 @@
 {{ define "main" }}
 <section id="introduction">
   <h1>Halo, Saya Anugrah.</h1>
-  <p id="halo">"Bikin-bikin sesuatu, biar ga bosen aja"</p>
+  <p id="halo">Seorang karyawan yang senang menulis</p>
 </section>
 <section id="links">
   <nav>
@@ -27,6 +27,26 @@
   <h2 style="margin-bottom: 1%;">Catatan pilihan, <i>for you</i></h2>
   <nav>
     {{ range .Site.Menus.tulisan }}
+    <ul>
+      <li class="landing-nav">
+        <a href="{{ .URL }}">
+          {{ if .Pre }}
+          {{ $icon := printf "<i data-feather=\"%s\"></i> " .Pre | safeHTML }}
+          {{ $icon }}
+          {{ end }}
+          {{ $text := print .Name | safeHTML }}
+          {{ $text }}
+        </a>
+      </li>
+    </ul>
+    {{ end }}
+  </nav>
+</section>
+<br>
+<section id="tulisan-review">
+  <h2 style="margin-bottom: 1%;">Ulasan, <i>buku atau film</i></h2>
+  <nav>
+    {{ range .Site.Menus.review }}
     <ul>
       <li class="landing-nav">
         <a href="{{ .URL }}">

@@ -4,7 +4,8 @@ image = "https://i.ibb.co/dQdkVyW/0fcaa629a23c2db56566395f0a4f4459-1000x1000x1.j
 tagline = "untuk mengalahkan ketampanan Jimin BTS"
 tags = ["hack"]
 title = "Skincare"
-
+[menu.tulisan]
+weight = 2
 +++
 Aku narsistik. Aku sangat mendamba diriku sendiri, apalagi terhadap kecerdasanku yang superior.
 

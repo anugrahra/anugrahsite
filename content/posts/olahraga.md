@@ -4,7 +4,8 @@ tagline = "biar kepalamu gak ruwet"
 tags = ["hack"]
 title = "Olahraga"
 image = "https://i.ibb.co/WcrfFGw/56ccfce1170af7ac8926de5ede595601.jpg"
-
+[menu.tulisan]
+weight = 3
 +++
 Semua orang tahu olahraga bikin badan sehat. Yang kurang disadari banyak orang adalah olahraga juga bisa bikin mental mu selamat.
 
