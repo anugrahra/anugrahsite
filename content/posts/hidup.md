@@ -4,9 +4,6 @@ image = "https://i.ibb.co/GV5BKgg/tumblr-c083f506c98cfa16c3b1e01f2ccdb3d7-df6570
 tagline = "yang menyebalkan"
 tags = []
 title = "Hidup"
-[menu.tulisan]
-weight = 5
-
 +++
 Kamu gak akan ngerti tentang masalah orang ketika lagi bahagia. Kamu hanya akan mengerti ketika kamu lagi ada di kondisi yang bermasalah juga.
 

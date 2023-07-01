@@ -3,9 +3,6 @@ date = 2022-05-14T17:00:00Z
 tagline = "yang lain ga usah"
 tags = ["hack"]
 title = "Ubah yang bisa diukur"
-[menu.tulisan]
-weight = 4
-
 +++
 Hidup gak peduli sama apa yang kamu mau. Tinggal kamu yang harus bisa menyiasatinya. Paling mudah adalah mengontrol apa yang benar-benar dalam kuasamu: pikiranmu, tindakanmu. Itu bisa kamu ubah sesukamu.
 

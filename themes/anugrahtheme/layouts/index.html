@@ -1,15 +1,14 @@
 {{ define "main" }}
 <section id="introduction">
-  <h1>Halo, Saya Anugrah. Mau bilang,</h1>
-  <p id="halo">"Hidup adalah rangkaian masalah yang diselingi kebahagiaan. <i>Get used to it</i>."</p>
+  <h1>Halo, Saya Anugrah.</h1>
+  <p id="halo">"Bikin-bikin sesuatu, biar ga bosen aja"</p>
 </section>
-<br>
 <section id="links">
   <nav>
     {{ range .Site.Menus.landing }}
     <ul>
       <li class="landing-nav">
-        <mark>📝&nbsp;
+        <mark>
           <a href="{{ .URL }}">
             {{ if .Pre }}
             {{ $icon := printf "<i data-feather=\"%s\"></i> " .Pre | safeHTML }}

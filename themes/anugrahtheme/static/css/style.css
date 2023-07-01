@@ -11,6 +11,11 @@ body {
   text-align: justify;
 }
 
+body #podcastlogo {
+  width: 50%;
+  height: auto;
+}
+
 header {
   margin: 2% 0 2% 0;
 }
@@ -178,6 +183,11 @@ footer span#copy-kecil {
 
   footer span#copy-kecil {
     display: block;
+  }
+
+  body #podcastlogo {
+    width: 80%;
+    height: auto;
   }
 }
 
