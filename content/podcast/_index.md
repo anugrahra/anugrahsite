@@ -1,10 +1,10 @@
 +++
 tagline = "Monolog tentang koding, dan apapun yang ingin aku ungkap dengan lisan"
-title = "Podcast dekadensiotak"
+title = "🎙️ Podcast dekadensiotak"
 url = "/podcast"
 layout = "parts"
 [menu.landing]
-name = "🎙️&nbsp;Dengar podcast"
+name = "🎙️ Dengar podcast"
 weight = 3
 +++
 <br>

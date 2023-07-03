@@ -1,10 +1,10 @@
 +++
 tagline = "Gunting-tempel manual"
-title = "Kolase"
+title = "✂️ Kolase"
 url = "/kolase"
 layout = "parts"
 [menu.landing]
-name = "✂️&nbsp;Lihat kolase"
+name = "✂️ Lihat kolase"
 weight = 4
 +++
 <br>

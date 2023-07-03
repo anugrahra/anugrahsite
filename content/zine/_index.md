@@ -1,9 +1,9 @@
 +++
 tagline = "Pengarsipan sederhana, supaya tidak tercecer"
-title = "Zine"
+title = "📒 Zine"
 url = "/zine"
 [menu.landing]
-name = "📒&nbsp;Zine dan bundel tulisan"
+name = "📒 Zine dan bundel tulisan"
 weight = 2
 +++
 

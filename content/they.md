@@ -1,13 +1,9 @@
-+++
-tagline = "Halaman untuk mereka yang menginspirasi saya dalam melawan kebosanan"
-title = "Influences"
-url = "/influence"
-layout = "parts"
-[menu.landing]
-name = "🧑&nbsp;Mereka yang mempengaruhi saya"
-weight = 5
-+++
+---
+title: They
+tagline: Halaman untuk mereka yang menginspirasi saya
+layout: parts
 
+---
 ## [Hilman Ramadhan](https://hilman.space)
 _Founder Sekolah Koding_  
 

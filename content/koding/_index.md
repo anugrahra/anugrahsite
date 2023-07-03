@@ -1,10 +1,10 @@
 +++
 tagline = "Pernah belajar rekayasa perangkat lunak. Masih ada keinginan untuk jadi programmer."
-title = "Belajar ngoding"
+title = "💻 Belajar ngoding"
 url = "/koding"
 layout = "parts"
 [menu.landing]
-name = "💻&nbsp;Belajar ngoding"
+name = "💻 Belajar ngoding"
 weight = 5
 +++
 
