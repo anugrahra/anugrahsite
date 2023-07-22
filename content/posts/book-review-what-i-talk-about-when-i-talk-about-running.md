@@ -10,9 +10,6 @@ weight = 4
 +++
 
 <p style="text-align:center;"><img src="https://dekadensiotak.files.wordpress.com/2018/07/20180716_140944.jpg" alt="20180716_140944" width="100"/></p>
-<p style="text-align:center;">Diterjemahkan dari <em>Hashiru Koto ni Tsuite Kataru Toki ni Boku no Kataru Koto</em>. Terbitan Bungeishunju Ltd., Japan, 2007</em></p>
-<p style="text-align:center;">Penulis: Haruki Murakami<br />Penerjemah: Ellnovianty Nine Syarif &amp; A. Fitriyani<br />Penerbit: PT. Bentang Pustaka<br />Bahasa: Indonesia<br />Halaman: vi + 198 halaman<br />Cetakan Pertama, April 2016<br />Cetakan Kedua, Mei 2016<br />Harga: Rp. 49.000,-<br /></p>
-<hr /><br>
 <p style="text-align: justify;">Ini kali kedua aku membaca buku ini, sebelumnya aku pernah membacanya di tahun 2016. Tahun di mana aku membeli buku ini. Berhubung bulan sekarang aku belum sempat membeli buku (karena gak ada duit), aku memutuskan untuk membaca kembali buku-buku yang sudah kupunya. Niatya sih biar aku lebih ngerti lagi isi bukunya. Karena mungkin, sekarang aku udah lebih pintar dan dewasa daripada aku yang dulu. Mungkin ya.. karena aku selalu gak yakin dengan isi kepalaku.</p>
 <p style="text-align: justify;">Buku ini adalah memoar tentang kebiasaan lari si penulis yang seorang novelis. Iya! Ini buku tentang lari. Bukan tentang bagaimana menimbulkan motivasi agar bisa lari pagi supaya sehat, bukan juga tentang teknik-teknik berlari untuk ikut lomba lari. Ini hanya tentang lari. Tentang berlari yang dilakukan rutin setiap hari. Yang membuat Haruki menemukan arti mendalam dari aktivitas yang namanya lari.</p>
 <p style="text-align: justify;">Karena ini hanya buku tentang pengalaman Haruki berlari maka sebagian besar isi buku ini adalah hal-hal yang terbesit di kepala Haruki saat dia berlari, apa dan siapa yang dia temui pada saat berlari, dan bagaimana rasanya ikut lari maraton dan triatlon yang (kata aku mah) sungguh menyiksa itu.</p>
@@ -22,3 +19,6 @@ weight = 4
 <blockquote>
 <p style="text-align: justify;">"Aku selalu melakukan apa pun yang kuinginkan dalam hidup ini ... Siapa orang yang bisa berhadapan dan menuntut sesuatu kepada manusia seperti itu?"</p>
 </blockquote>
+<br><hr><br>
+<p>Diterjemahkan dari <em>Hashiru Koto ni Tsuite Kataru Toki ni Boku no Kataru Koto</em>. Terbitan Bungeishunju Ltd., Japan, 2007</em></p>
+<p>Penulis: Haruki Murakami<br />Penerjemah: Ellnovianty Nine Syarif &amp; A. Fitriyani<br />Penerbit: PT. Bentang Pustaka<br />Bahasa: Indonesia<br />Halaman: vi + 198 halaman<br />Cetakan Pertama, April 2016<br />Cetakan Kedua, Mei 2016<br />Harga: Rp. 49.000,-<br /></p>
