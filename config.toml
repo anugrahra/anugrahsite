@@ -16,10 +16,6 @@ name = "RSS"
 url = "/catatan/index.xml"
 weight = 5
 [[menu.main]]
-name = "They"
-url = "/they/"
-weight = 4
-[[menu.main]]
 name = "Kontak"
 url = "/kontak/"
 weight = 3
