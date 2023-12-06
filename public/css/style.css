@@ -4,11 +4,17 @@
 * {
   margin: 0;
   padding: 0;
+  text-align: left;
 }
 
 body {
   font-family: 'Nunito', sans-serif;
   text-align: justify;
+}
+
+body #podcastlogo {
+  width: 50%;
+  height: auto;
 }
 
 header {
@@ -82,24 +88,28 @@ section#links {
 }
 
 section#links ul li,
-section#tulisan-pilihan ul li {
+section#tulisan-pilihan ul li,
+section#tulisan-review ul li {
   list-style: none;
 }
 
 section#links a:link,
-section#tulisan-pilihan a:link {
+section#tulisan-pilihan a:link,
+section#tulisan-review a:link {
   font-size: 20px;
   text-decoration: none;
   color: black;
 }
 
 section#links a:hover,
-section#tulisan-pilihan a:hover {
+section#tulisan-pilihan a:hover,
+section#tulisan-review a:hover {
   text-decoration: underline;
 }
 
 section#links a:visited,
-section#tulisan-pilihan a:visited {
+section#tulisan-pilihan a:visited,
+section#tulisan-review a:visited {
   color: black;
 }
 
@@ -178,6 +188,11 @@ footer span#copy-kecil {
 
   footer span#copy-kecil {
     display: block;
+  }
+
+  body #podcastlogo {
+    width: 80%;
+    height: auto;
   }
 }
 
