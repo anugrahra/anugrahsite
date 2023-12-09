@@ -1,11 +1,13 @@
----
-title: "Punk Programming Roadmap"
-tagline: "bagaimana mengisi waktu nganggurmu dengan ngoding, supaya terlihat keren"
-date: 2023-12-06T16:06:07+07:00
-image: "https://i.ibb.co/m8ZGCjF/Screenshot-2023-12-03-at-22-26-01-Roadmaps.png"
-tags: ["diary"]
-draft: false
----
++++
+title = "Punk Programming Roadmap"
+tagline = "bagaimana mengisi waktu nganggurmu dengan ngoding, supaya terlihat keren"
+date = 2023-12-06T16:06:07+07:00
+image = "https://i.ibb.co/m8ZGCjF/Screenshot-2023-12-03-at-22-26-01-Roadmaps.png"
+tags = ["diary"]
+draft = false
+[menu.tulisan]
+weight = 1
++++
 
 Aku selalu iri pada programmer. Aku ingin jago ngoding. Seriusan deh.
 
@@ -31,7 +33,7 @@ Akhirnya, aku iseng bikin roadmap belajar ngoding a la aku si amatir ini.
 
 Semoga kalian dapat inspirasi menarik dari apa yang pernah saya jalani dan pelajari.
 
-Roadmap ini akan saya update terus seiring dengan pembelajaran koding saya saya lakukan.
+Roadmap ini akan aku update terus seiring dengan pembelajaran koding yang aku lakukan.
 
 Lihat rodampanya di sini : [bit.ly/punkprogramming](https://roadmap.sh/r?id=6565fc3a5145316d25870435)
 

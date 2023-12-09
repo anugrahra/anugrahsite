@@ -4,9 +4,8 @@ image = "https://i.ibb.co/cCVf9dX/volde.jpg"
 tagline = "an asshole"
 tags = ["ranting"]
 title = "We are all the noseless Voldemort"
-[menu.tulisan]
-weight = 1
 +++
+
 Kamu selalu membagi jiwamu untuk tetap hidup.
 
 Membuat banyak [horcrux](https://harrypotter.fandom.com/wiki/Horcrux) di setiap perjalanan hidup. Akuilah kawan. Kamu menaruh sebagian jiwamu pada keluargamu, lalu pada setiap temanmu, lalu pada pekerjaanmu, lalu pada hobimu, lalu pada pasanganmu, juga pada sampah-sampah yang kamu buang.
