@@ -3,9 +3,8 @@ date = 2022-05-10T17:00:00Z
 tagline = "Salah satu langkah mudah"
 tags = ["hack"]
 title = "Belajar memilih dengan seni"
-[menu.tulisan]
-weight = 4
 +++
+
 Dalam buku _How to Respect Myself_ karya Yoon Hong Gyun. Ada bagian menarik yang membahas latihan pengambilan keputusan.
 
 Salah satu metodenya adalah dengan berkesenian.
