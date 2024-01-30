@@ -56,3 +56,10 @@ Misal:
    Yang paling penting dari itu semua sih, selain mengejar mimpi saya yang ingin punya satu novel, tulis menulis ini juga jadi semacam terapi gitu sih. Ngasih makanan ke jiwa saya. Saya suka banget mengkhayal. Enak gitu loh. Saya ngasih makan itu aja ya. Supaya bahagia.
 
    Nah, itu! Bahagia.
+
+   ***
+
+   Yang lagi saya baca sekarang :
+
+   1. Supernova : Petir - Dee Lestari
+   2. Keep Going : 10 Ways to Stay Creative in Good Times and Bad - Austin Kleon
