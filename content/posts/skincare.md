@@ -4,9 +4,8 @@ image = "https://i.ibb.co/dQdkVyW/0fcaa629a23c2db56566395f0a4f4459-1000x1000x1.j
 tagline = "untuk mengalahkan ketampanan Jimin BTS"
 tags = ["hack"]
 title = "Skincare"
-[menu.tulisan]
-weight = 2
 +++
+
 Aku narsistik. Aku sangat mendamba diriku sendiri, apalagi terhadap kecerdasanku yang superior.
 
 Aku pun tampan. Sialnya, hanya aku yang mengerti akan hal itu. Ketampananku makin menjadi ketika program _diet_ dan olahraga yang kujalani berhasil membuat berat badanku turun 10 kg.
@@ -27,7 +26,7 @@ _Okay_. Dia minta aku mandi, kutambah dengan _skincare_-an.
 
 Luar biasa memang aku - si calon pengguling tahta ketampanan Jimin - ini.
 
-***
+---
 
 _Read more about habit stacking :_
 
