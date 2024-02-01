@@ -1,6 +1,6 @@
 +++
 title = "Ingin Menyelesaikan Sesuatu"
-tagline  = "Seenggaknya satu seumur hidup"
+tagline  = "seenggaknya satu seumur hidup"
 date = 2024-01-29T10:54:53+07:00
 draft = false
 tags = ["diary"]
