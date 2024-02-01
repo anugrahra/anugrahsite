@@ -1,6 +1,6 @@
 +++
 title = "[Cerpen] Pohon Rokok"
-tagline  = "Hanya untuk kamu"
+tagline  = "Untuk perokok sejati"
 date = 2024-02-01T10:40:57+07:00
 draft = false
 tags = ["cerpen"]
