@@ -1,6 +1,6 @@
 +++
 title = "Dewasa Menulis"
-tagline = "seenggaknya satu seumur hidup"
+tagline = "dengan komitmen"
 date = 2024-02-05T21:20:42+07:00
 draft = false
 tags = ["menulis"]
