@@ -18,7 +18,7 @@ Masuk ke dunia fantasi lalu main-main dengan wahana-wahana yang tersedia di dala
 
 Aku belum menjadi penulis yang baik. Hanya 100 sampai 200-an kata yang bisa kutuang tiap harinya pada novelku ini. Sesekali kalau lagi beruntung, aku bisa menulis lebih banyak dari itu.
 
-Writer's block. Frase menjijikan yang aku sering baca di kolom komentar atau forum tanya jawab antara penulis dan mereka yang ingin menulis. Maka, aku selalu mencoba menghindari itu sebagai keluhan dalam menulis. Menulis itu proses panjang. Ada block sedikit mah tenang aja. Gak perlu didramatisir.
+_Writer's block_. Frase menjijikan yang aku sering baca di kolom komentar atau forum tanya jawab antara penulis dan mereka yang ingin menulis. Maka, aku selalu mencoba menghindari itu sebagai keluhan dalam menulis. Menulis itu proses panjang. Ada _block_ sedikit mah tenang aja. Gak perlu didramatisir.
 
 Ada obrolan menarik dari seorang host yang Dee Lestari menjadi bintang tamu di podcastnya. Si host itu bilang kalau dokter harus melayani pasiennya apapun mood yang sedang dia alamai, apa iya seorang penulis atau seniman hanya bisa kerja kalau mood kerjanya lagi bagus doang?
 
