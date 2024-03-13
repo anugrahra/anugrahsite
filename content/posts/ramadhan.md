@@ -28,7 +28,7 @@ Selamat berpuasa, saudara muslim sekalian. Semoga perbaikan diri terjadi di Rama
 
 **Yang lagi aku baca sekarang:**
 
-[Zarathustra](https://www.goodreads.com/book/show/36409895-ziarah) - Friedrich Nietzsche
+[Zarathustra](https://www.goodreads.com/book/show/36409895-ziarah) - Friedrich Nietzsche  
 Guru Gembul Bicara Konspirasi - Irma Susanti I & H Aksan
 
 ---
