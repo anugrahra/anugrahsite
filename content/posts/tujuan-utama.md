@@ -8,7 +8,7 @@ tags = ["life"]
 
 ![](https://i.ibb.co/txdW6rQ/ba1e5fa14a9f174c1262cd35d2090362.jpg)
 
-Di usia paruh baya ini aku masih punya banyak mimpi. Kutulis mimpi-mimpiku di note ponselku. Biar apa? Biar inget aja kalau ternyata masih banyak hal yang ingin aku raih. Walau, apinya sudah tidak seberkobar dulu.
+Di usia kepala tiga ini aku masih punya banyak mimpi. Kutulis mimpi-mimpiku di note ponselku. Biar apa? Biar inget aja kalau ternyata masih banyak hal yang ingin aku raih. Walau, apinya sudah tidak seberkobar dulu.
 
 Tapi, apinya gak mati, men.
 
