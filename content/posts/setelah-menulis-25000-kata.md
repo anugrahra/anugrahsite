@@ -42,3 +42,7 @@ Nah itu yang saya dapet setelah bisa sampai ke 25.000 kata.
 **Yang baru aja saya beres baca:**
 
 [Seperti Dendam, Rindu Harus Dibayar Tuntas](https://www.goodreads.com/book/show/21433310-seperti-dendam-rindu-harus-dibayar-tuntas) - Eka Kurniawan
+
+---
+
+Photo by <a href="https://unsplash.com/@christinhumephoto?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Christin Hume</a> on <a href="https://unsplash.com/photos/person-using-laptop-computer-Hcfwew744z4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
