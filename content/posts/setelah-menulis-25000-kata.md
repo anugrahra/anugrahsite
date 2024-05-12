@@ -8,8 +8,6 @@ tags = ["menulis"]
 
 ![](https://i.ibb.co/YRJ33cy/christin-hume-Hcfwew744z4-unsplash.jpg)
 
-Setelah menulis 25.000 kata
-
 Alhamdulillah. Ini adalah sebuah pencapaian. Selain skripsi, novel yang sedang kugarap ini merupakan tulisan dengan jumlah kata yang panjang banget dalam sejarah tulis-menulisku.
 
 Apa yang aku dapat dalam perjalanan panjang ini? Ada beberapa. Aku akan coba beberkan di sini dengan singkat.
