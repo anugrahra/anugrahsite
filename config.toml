@@ -7,7 +7,7 @@ rssLimit = 20
 theme = "anugrahtheme"
 title = "hey anugrah!"
 [author]
-email = "anugrahra.space@gmail.com"
+email = "dialog.anugrah@gmail.com"
 name = "Anugrah Ramadhan"
 [markup.goldmark.renderer]
 unsafe = true
