@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>📒 Zine on hey anugrah!</title>
-    <link>https://heyanugrah.com/zine/</link>
+    <link>http://localhost:1313/zine/</link>
     <description>Recent content in 📒 Zine on hey anugrah!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>anugrahra.space@gmail.com (Anugrah Ramadhan)</managingEditor>
     <webMaster>anugrahra.space@gmail.com (Anugrah Ramadhan)</webMaster>
-    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</copyright><atom:link href="https://heyanugrah.com/zine/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</copyright><atom:link href="http://localhost:1313/zine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bengkel Kolase</title>
-      <link>https://heyanugrah.com/zine/bengkel-kolase/</link>
+      <link>http://localhost:1313/zine/bengkel-kolase/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/zine/bengkel-kolase/</guid>
+      <guid>http://localhost:1313/zine/bengkel-kolase/</guid>
       <description>Bengkel Kolase #1
 Bengkel Kolase #2
 Bengkel Kolase #3
@@ -25,19 +25,19 @@ Bengkel Kolase #6</description>
     
     <item>
       <title>Buku-buku yang Terbaca Secara Rock N Roll</title>
-      <link>https://heyanugrah.com/zine/buku-buku-yang-terbaca-secara-rock-n-roll/</link>
+      <link>http://localhost:1313/zine/buku-buku-yang-terbaca-secara-rock-n-roll/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/zine/buku-buku-yang-terbaca-secara-rock-n-roll/</guid>
+      <guid>http://localhost:1313/zine/buku-buku-yang-terbaca-secara-rock-n-roll/</guid>
       <description>Buku-buku yang Terbaca Secara Rock N Roll</description>
     </item>
     
     <item>
       <title>dekadensiotak</title>
-      <link>https://heyanugrah.com/zine/dekadensiotak/</link>
+      <link>http://localhost:1313/zine/dekadensiotak/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/zine/dekadensiotak/</guid>
+      <guid>http://localhost:1313/zine/dekadensiotak/</guid>
       <description>dekadensiotak #1
 dekadensiotak #2
 dekadensiotak #3</description>
@@ -45,19 +45,19 @@ dekadensiotak #3</description>
     
     <item>
       <title>Kibor Nyala</title>
-      <link>https://heyanugrah.com/zine/kibor-nyala/</link>
+      <link>http://localhost:1313/zine/kibor-nyala/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/zine/kibor-nyala/</guid>
+      <guid>http://localhost:1313/zine/kibor-nyala/</guid>
       <description>Kibor Nyala #1 Kibor Nyala #2 Kibor Nyala #3</description>
     </item>
     
     <item>
       <title>Sepah</title>
-      <link>https://heyanugrah.com/zine/sepah/</link>
+      <link>http://localhost:1313/zine/sepah/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/zine/sepah/</guid>
+      <guid>http://localhost:1313/zine/sepah/</guid>
       <description>SEPAH</description>
     </item>
     

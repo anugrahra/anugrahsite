@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on hey anugrah!</title>
-    <link>https://heyanugrah.com/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on hey anugrah!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>anugrahra.space@gmail.com (Anugrah Ramadhan)</managingEditor>
     <webMaster>anugrahra.space@gmail.com (Anugrah Ramadhan)</webMaster>
-    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</copyright><atom:link href="https://heyanugrah.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</copyright><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

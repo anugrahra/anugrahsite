@@ -2,119 +2,119 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on hey anugrah!</title>
-    <link>https://heyanugrah.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on hey anugrah!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>anugrahra.space@gmail.com (Anugrah Ramadhan)</managingEditor>
     <webMaster>anugrahra.space@gmail.com (Anugrah Ramadhan)</webMaster>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</copyright>
-    <lastBuildDate>Wed, 29 May 2024 22:00:16 +0700</lastBuildDate><atom:link href="https://heyanugrah.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Oct 2024 20:44:23 +0700</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>kesel</title>
-      <link>https://heyanugrah.com/tags/kesel/</link>
-      <pubDate>Wed, 29 May 2024 22:00:16 +0700</pubDate>
+      <title>Hack</title>
+      <link>http://localhost:1313/tags/hack/</link>
+      <pubDate>Thu, 03 Oct 2024 20:44:23 +0700</pubDate>
       <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/tags/kesel/</guid>
+      <guid>http://localhost:1313/tags/hack/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>menulis</title>
-      <link>https://heyanugrah.com/tags/menulis/</link>
+      <title>Kesel</title>
+      <link>http://localhost:1313/tags/kesel/</link>
       <pubDate>Wed, 29 May 2024 22:00:16 +0700</pubDate>
       <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/tags/menulis/</guid>
+      <guid>http://localhost:1313/tags/kesel/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>life</title>
-      <link>https://heyanugrah.com/tags/life/</link>
+      <title>Menulis</title>
+      <link>http://localhost:1313/tags/menulis/</link>
+      <pubDate>Wed, 29 May 2024 22:00:16 +0700</pubDate>
+      <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
+      <guid>http://localhost:1313/tags/menulis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life</title>
+      <link>http://localhost:1313/tags/life/</link>
       <pubDate>Tue, 02 Apr 2024 22:32:51 +0700</pubDate>
       <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/tags/life/</guid>
+      <guid>http://localhost:1313/tags/life/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>cerpen</title>
-      <link>https://heyanugrah.com/tags/cerpen/</link>
+      <title>Cerpen</title>
+      <link>http://localhost:1313/tags/cerpen/</link>
       <pubDate>Thu, 01 Feb 2024 10:40:57 +0700</pubDate>
       <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/tags/cerpen/</guid>
+      <guid>http://localhost:1313/tags/cerpen/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>diary</title>
-      <link>https://heyanugrah.com/tags/diary/</link>
+      <title>Diary</title>
+      <link>http://localhost:1313/tags/diary/</link>
       <pubDate>Mon, 29 Jan 2024 10:54:53 +0700</pubDate>
       <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/tags/diary/</guid>
+      <guid>http://localhost:1313/tags/diary/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ranting</title>
-      <link>https://heyanugrah.com/tags/ranting/</link>
+      <title>Ranting</title>
+      <link>http://localhost:1313/tags/ranting/</link>
       <pubDate>Wed, 21 Dec 2022 17:00:00 +0000</pubDate>
       <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/tags/ranting/</guid>
+      <guid>http://localhost:1313/tags/ranting/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>hack</title>
-      <link>https://heyanugrah.com/tags/hack/</link>
-      <pubDate>Sun, 18 Dec 2022 17:00:00 +0000</pubDate>
-      <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/tags/hack/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>internet</title>
-      <link>https://heyanugrah.com/tags/internet/</link>
+      <title>Internet</title>
+      <link>http://localhost:1313/tags/internet/</link>
       <pubDate>Sun, 01 May 2022 17:00:00 +0000</pubDate>
       <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/tags/internet/</guid>
+      <guid>http://localhost:1313/tags/internet/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>media sosial</title>
-      <link>https://heyanugrah.com/tags/media-sosial/</link>
+      <title>Media Sosial</title>
+      <link>http://localhost:1313/tags/media-sosial/</link>
       <pubDate>Sun, 01 May 2022 17:00:00 +0000</pubDate>
       <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/tags/media-sosial/</guid>
+      <guid>http://localhost:1313/tags/media-sosial/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>filsafat</title>
-      <link>https://heyanugrah.com/tags/filsafat/</link>
+      <title>Filsafat</title>
+      <link>http://localhost:1313/tags/filsafat/</link>
       <pubDate>Sun, 24 Apr 2022 17:00:00 +0000</pubDate>
       <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/tags/filsafat/</guid>
+      <guid>http://localhost:1313/tags/filsafat/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>stoik</title>
-      <link>https://heyanugrah.com/tags/stoik/</link>
+      <title>Stoik</title>
+      <link>http://localhost:1313/tags/stoik/</link>
       <pubDate>Sun, 24 Apr 2022 17:00:00 +0000</pubDate>
       <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/tags/stoik/</guid>
+      <guid>http://localhost:1313/tags/stoik/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>review</title>
-      <link>https://heyanugrah.com/tags/review/</link>
+      <title>Review</title>
+      <link>http://localhost:1313/tags/review/</link>
       <pubDate>Sun, 09 Aug 2020 17:00:00 +0000</pubDate>
       <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/tags/review/</guid>
+      <guid>http://localhost:1313/tags/review/</guid>
       <description></description>
     </item>
     

@@ -2,20 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>📝 Catatan on hey anugrah!</title>
-    <link>https://heyanugrah.com/catatan/</link>
+    <link>http://localhost:1313/catatan/</link>
     <description>Recent content in 📝 Catatan on hey anugrah!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>anugrahra.space@gmail.com (Anugrah Ramadhan)</managingEditor>
     <webMaster>anugrahra.space@gmail.com (Anugrah Ramadhan)</webMaster>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</copyright>
-    <lastBuildDate>Wed, 29 May 2024 22:00:16 +0700</lastBuildDate><atom:link href="https://heyanugrah.com/catatan/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Oct 2024 20:44:23 +0700</lastBuildDate><atom:link href="http://localhost:1313/catatan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mencari Berkah</title>
+      <link>http://localhost:1313/catatan/mencari-berkah/</link>
+      <pubDate>Thu, 03 Oct 2024 20:44:23 +0700</pubDate>
+      <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
+      <guid>http://localhost:1313/catatan/mencari-berkah/</guid>
+      <description>Setelah punya anak (ya akhirnya saya punya anak!), pola pikir jadi berubah lagi.
+Aku mau ngomongin tentang rezeki.
+Ini bukan tentang rezeki bertambah karena hadirnya buah hati.
+Aku sekarang percaya bahwa rezeki itu bukan perkara nominal, melainkan perkara berkah.
+Aku percaya keberkahan.
+Sebanyak apapun nominal uang yang aku dapat, kalau gak berkah, gak akan jadi apa-apa.
+Sebaliknya, walau nominal tidak banyak, tapi kalau berkah, Inysa Allah bikin nyaman.
+Gimana cara menghitung berkah?</description>
+    </item>
+    
+    <item>
+      <title>Bersama Kesulitan</title>
+      <link>http://localhost:1313/catatan/bersama-kesulitan/</link>
+      <pubDate>Thu, 13 Jun 2024 20:10:32 +0700</pubDate>
+      <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
+      <guid>http://localhost:1313/catatan/bersama-kesulitan/</guid>
+      <description>Bismillah,
+فَاِنَّ مَعَ الْعُسْرِ يُسْرًاۙ . اِنَّ مَعَ الْعُسْرِ يُسْرًاۗ
+&amp;ldquo;Maka, sesungguhnya beserta kesulitan ada kemudahan. Sesungguhnya beserta kesulitan ada kemudahan.&amp;rdquo; (QS As-Syarh : 5-6)
+Kedua ayat itu jadi ayat favorit saya sekarang ini. Bermula dari konten di media sosial, aku menonton Indra Frimawan membicarakan ini. Mulanya hanya angin lalu, tapi ketika aku ditimpa masalah duniawi, aku langsung ingat dua ayat itu. Sekarang, aku selalu membaca ayat-ayat itu ketika pikiran lagi kalut atau ketika ada problem yang rasanya sulit diselesaikan.</description>
+    </item>
+    
     <item>
       <title>Karyamu Jelek!</title>
-      <link>https://heyanugrah.com/catatan/karyamu-jelek/</link>
+      <link>http://localhost:1313/catatan/karyamu-jelek/</link>
       <pubDate>Wed, 29 May 2024 22:00:16 +0700</pubDate>
       <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/catatan/karyamu-jelek/</guid>
+      <guid>http://localhost:1313/catatan/karyamu-jelek/</guid>
       <description>Salah satu cara supaya dirimu tetap berkarya adalah mengakui bahwa karyamu itu jelek dan gak akan jadi apa-apa.
 Hilangkan itu harapan bahwa kamu bakal jadi penulis best seller, bakal jadi pelukis selevel Jeihan, atau podcaster sekelas Adriano Qalbi. Hilangkan itu semua, blas!
 Jadi kalau ga ada yang lihat karyamu ya sudah, kalau ga ada yang suka ya sudah. Ya wong karyamu jelek toh!
@@ -24,10 +52,10 @@ Kalau ada yang suka, jadi Alhamdulillah, jadi bersyukur.</description>
     
     <item>
       <title>Cukup</title>
-      <link>https://heyanugrah.com/catatan/cukup/</link>
+      <link>http://localhost:1313/catatan/cukup/</link>
       <pubDate>Thu, 23 May 2024 09:56:54 +0700</pubDate>
       <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/catatan/cukup/</guid>
+      <guid>http://localhost:1313/catatan/cukup/</guid>
       <description>&amp;ldquo;Dari Jabir radhiyallaahu &amp;lsquo;anhu berkata: Rasulullah SAW bersabda: “Tetaplah kalian semua dengan sikap qanaah, karena sesungguhnya qanaah adalah harta yang tidak pernah habis&amp;rdquo; (HR. At- Thabarani dalam Mu&amp;rsquo;jam al-Awsath).
 Dalam KBBI &amp;ldquo;cukup&amp;rdquo; adalah sebuah kata sifat yang berarti : dapat memenuhi kebutuhan atau memuaskan keinginan dan sebagainya; tidak kurang
 Aku selalu mencukupkan diri ketika menulis. Di awal aku menulis novel, 100 kata per hari sudah aku anggap cukup. Kini 250 sampai 300 kata per hari yang aku anggap cukup.</description>
@@ -35,10 +63,10 @@ Aku selalu mencukupkan diri ketika menulis. Di awal aku menulis novel, 100 kata 
     
     <item>
       <title>Setelah Menulis 25.000 Kata</title>
-      <link>https://heyanugrah.com/catatan/setelah-menulis-25.000-kata/</link>
+      <link>http://localhost:1313/catatan/setelah-menulis-25.000-kata/</link>
       <pubDate>Sat, 11 May 2024 21:46:52 +0700</pubDate>
       <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/catatan/setelah-menulis-25.000-kata/</guid>
+      <guid>http://localhost:1313/catatan/setelah-menulis-25.000-kata/</guid>
       <description>Alhamdulillah. Ini adalah sebuah pencapaian. Selain skripsi, novel yang sedang kugarap ini merupakan tulisan dengan jumlah kata yang panjang banget dalam sejarah tulis-menulisku.
 Apa yang aku dapat dalam perjalanan panjang ini? Ada beberapa. Aku akan coba beberkan di sini dengan singkat.
 Belajar terus-terusan bikin endurance bertambah
@@ -47,10 +75,10 @@ Di awal tahun, aku hanya bisa menulis 100 kata per hari. Sekarang sudah bisa nul
     
     <item>
       <title>Tujuan Utama</title>
-      <link>https://heyanugrah.com/catatan/tujuan-utama/</link>
+      <link>http://localhost:1313/catatan/tujuan-utama/</link>
       <pubDate>Tue, 02 Apr 2024 22:32:51 +0700</pubDate>
       <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/catatan/tujuan-utama/</guid>
+      <guid>http://localhost:1313/catatan/tujuan-utama/</guid>
       <description>Di usia kepala tiga ini aku masih punya banyak mimpi. Kutulis mimpi-mimpiku di note ponselku. Biar apa? Biar inget aja kalau ternyata masih banyak hal yang ingin aku raih. Walau, apinya sudah tidak seberkobar dulu.
 Tapi, apinya gak mati, men.
 Melangkah dikit-dikit aja. Yang penting kan gerak aja ya. Supaya gak diam di satu titik. Berproses. Klise banget ya. Tapi memang itu yang harus dilakukan.
@@ -59,10 +87,10 @@ Setidaknya aku punya landasan teori dari James Clear.</description>
     
     <item>
       <title>Ramadhan</title>
-      <link>https://heyanugrah.com/catatan/ramadhan/</link>
+      <link>http://localhost:1313/catatan/ramadhan/</link>
       <pubDate>Wed, 13 Mar 2024 22:42:18 +0700</pubDate>
       <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/catatan/ramadhan/</guid>
+      <guid>http://localhost:1313/catatan/ramadhan/</guid>
       <description>Aku insya Allah ingin berpuasa penuh di bulan Ramadhan tahun ini. Dengan harapan perbaikan diri juga.
 Menengok ke belakang, banyak banget dosa yang aku buat. Solat taubat terasa susah banget dijalaninnya. Padahal tinggal solat doang. Memang spesial perkara diri ini dengan Tuhan.
 Berusaha untuk selalu ceria di siang hari tanpa bantuan nikotin dan kafein itu adalah hal yang menantang banget.
@@ -71,10 +99,10 @@ Tidak terganggu makan dan minum membuat diri ini mencari kesibukan lain, seperti
     
     <item>
       <title>Kaizen Nulis</title>
-      <link>https://heyanugrah.com/catatan/kaizen-nulis/</link>
+      <link>http://localhost:1313/catatan/kaizen-nulis/</link>
       <pubDate>Wed, 14 Feb 2024 23:42:02 +0700</pubDate>
       <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/catatan/kaizen-nulis/</guid>
+      <guid>http://localhost:1313/catatan/kaizen-nulis/</guid>
       <description>Setelah dipikir-pikir, gila, novel yang lagi saya tulis ini ceritanya absurd banget. Absurd norak sih sebenernya.
 Ini kayak anak SD lagi mengkhayal aja. Berantem-beranteman, ketemu monster, ke dunia antah-berantah.
 Anehnya, apa yang aku tulis itu jadi semacam rekreasi gitu. Rekreasi dari kebosanan rutinitas sehari-hari.
@@ -84,10 +112,10 @@ Aku belum menjadi penulis yang baik. Hanya 100 sampai 200-an kata yang bisa kutu
     
     <item>
       <title>Dewasa Membaca</title>
-      <link>https://heyanugrah.com/catatan/dewasa-membaca/</link>
+      <link>http://localhost:1313/catatan/dewasa-membaca/</link>
       <pubDate>Sun, 11 Feb 2024 22:29:25 +0700</pubDate>
       <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/catatan/dewasa-membaca/</guid>
+      <guid>http://localhost:1313/catatan/dewasa-membaca/</guid>
       <description>Kini, ketimbang beli buku baru, aku lebih sering baca buku yang sudah ada. Dibaca ulang.
 Rasanya beda. Pahamnya beda.
 Lagi pula, sekarang aku lebih pintar.
@@ -98,10 +126,10 @@ Oh aku ingin kreatif, maka aku baca Austin Kleon. Oh aku gak mau pusing gak pent
     
     <item>
       <title>Dewasa Menulis</title>
-      <link>https://heyanugrah.com/catatan/dewasa-menulis/</link>
+      <link>http://localhost:1313/catatan/dewasa-menulis/</link>
       <pubDate>Mon, 05 Feb 2024 21:20:42 +0700</pubDate>
       <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/catatan/dewasa-menulis/</guid>
+      <guid>http://localhost:1313/catatan/dewasa-menulis/</guid>
       <description>Sepertinya menulis novel itu membutuhkan kedewasaan. Ini saya rasakan sekarang. Tulisan novel yang lagi saya garap sudah masuk 7000an kata. Ini adalah rekor untuk saya menulis fiksi sepanjang itu.
 Sulit.
 Waktu saya masih muda dan belum dewasa, idealisme saya dalam menulis itu tertuang dalam tema bombastis dan kata-kata sastrawi langitan.
@@ -111,20 +139,20 @@ Komitmen itu akan melahirkan konsistensi menulis tiap hari dan belajar teknik-te
     
     <item>
       <title>[Cerpen] Pohon Rokok</title>
-      <link>https://heyanugrah.com/catatan/cerpen-pohon-rokok/</link>
+      <link>http://localhost:1313/catatan/cerpen-pohon-rokok/</link>
       <pubDate>Thu, 01 Feb 2024 10:40:57 +0700</pubDate>
       <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/catatan/cerpen-pohon-rokok/</guid>
+      <guid>http://localhost:1313/catatan/cerpen-pohon-rokok/</guid>
       <description>Entah sudah berapa lama Anto hidup di hutan belantara ini. Dia tidak pernah punya jam tangan. Dia juga tidak sempat menghitung berapa kali matahari terbit, terlalu sibuk bertahan hidup. Rambutnya yang dulu cepak kini sudah sebahu acak-acakan. Perutnya sudah tidak buncit, digantikan otot-otot kering bak kuli bangunan.
 Anto sampai di hutan ini ketika dia sengaja masuk ke sebuah terowongan kereta dengan plang yang bertuliskan “Menuju Hutan Rimba”. Biasanya tidak ada tulisan apapun, hanya pakis liar dan lumut yang setia menempel di mulut dinding terowongan, maklum saja, sudah lama terbengkalai.</description>
     </item>
     
     <item>
       <title>Ingin Menyelesaikan Sesuatu</title>
-      <link>https://heyanugrah.com/catatan/ingin-menyelesaikan-sesuatu/</link>
+      <link>http://localhost:1313/catatan/ingin-menyelesaikan-sesuatu/</link>
       <pubDate>Mon, 29 Jan 2024 10:54:53 +0700</pubDate>
       <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/catatan/ingin-menyelesaikan-sesuatu/</guid>
+      <guid>http://localhost:1313/catatan/ingin-menyelesaikan-sesuatu/</guid>
       <description>Saya sedang menulis novel. Ini serius. Sebenarnya saya masih percaya kalau rencana yang dibeberkan di internet (apalagi demi mendapat atensi) itu ada jinx-nya. Tapi da saya pengen nulis di sini. Yaudah lah ya.
 Penulisan novel ini bukan tanpa alasan. Saya mengidentifikasi diri saya sendiri. Apa yang saya suka? Apa yang saya selalu rela tenggelam di dalamnya?
 Jawabannya adalah saya suka mengkhayal.
@@ -133,10 +161,10 @@ Khayalan saya itu bisa ditumpahkan ke banyak hal.</description>
     
     <item>
       <title>Punk Programming Roadmap</title>
-      <link>https://heyanugrah.com/catatan/punk-programming-roadmap/</link>
+      <link>http://localhost:1313/catatan/punk-programming-roadmap/</link>
       <pubDate>Wed, 06 Dec 2023 16:06:07 +0700</pubDate>
       <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/catatan/punk-programming-roadmap/</guid>
+      <guid>http://localhost:1313/catatan/punk-programming-roadmap/</guid>
       <description>Aku selalu iri pada programmer. Aku ingin jago ngoding. Seriusan deh.
 Di sela-sela rutinitas harian, aku menyempatkan diri untuk ngoding. Apapun.
 Dari mulai website sederhana yang scroll-scroll doang, sampai ngikut tutorial Laravel 10.
@@ -149,20 +177,20 @@ Kalau capek atau lelah atau putus asa sama koding-kodingan, ya istirahat dulu aj
     
     <item>
       <title>Perjuangan Dangkal</title>
-      <link>https://heyanugrah.com/catatan/perjuangan-dangkal/</link>
+      <link>http://localhost:1313/catatan/perjuangan-dangkal/</link>
       <pubDate>Tue, 27 Jun 2023 08:42:30 +0700</pubDate>
       <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/catatan/perjuangan-dangkal/</guid>
+      <guid>http://localhost:1313/catatan/perjuangan-dangkal/</guid>
       <description>Seharusnya aku membawa buku catatanku. Lebih enak menulis di situ daripada di smartphone ini. Ah aku memang bukan gen z yang apa-apa cocok dengan gadget, walau screen time akhir-akhir ini meningkat.
 Di FYP TikTok-ku sedang ramai trend parodi abang-abangan mahasiswa kiri. Aku jadi inget masa kuliah dulu. Kok berasa keren ya dulu gitu-gituan teh? Kiri-kirian. Merasa kenal Tan Malaka padahal baca Madilog aja males. Ngutip Karl Marx padahal megang Kapital aja gak pernah.</description>
     </item>
     
     <item>
       <title>19 Maret 2023</title>
-      <link>https://heyanugrah.com/catatan/19-maret-2023/</link>
+      <link>http://localhost:1313/catatan/19-maret-2023/</link>
       <pubDate>Fri, 05 May 2023 20:31:44 +0700</pubDate>
       <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/catatan/19-maret-2023/</guid>
+      <guid>http://localhost:1313/catatan/19-maret-2023/</guid>
       <description>Sebersyukurnya itu. Aku sampai ga tau mau nulisin apa kali ini. Masa kesepianku sudah berkahir.
 Di tanggal yang menjadi judul tulisan ini. Aku mengucapkan akad. Aku menikah.
 Aku menikahi seorang guru SD. Tujuh tahun lebih muda dari umurku. Namun kedewasaannya melebihi umurnya.
@@ -172,20 +200,20 @@ Aku dan istri sudah berjanji untuk mengarungi kehidupan berdua. Tidak akan mudah
     
     <item>
       <title>Hidup di sekarang</title>
-      <link>https://heyanugrah.com/catatan/hidup-di-sekarang/</link>
+      <link>http://localhost:1313/catatan/hidup-di-sekarang/</link>
       <pubDate>Mon, 23 Jan 2023 09:21:00 +0000</pubDate>
       <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/catatan/hidup-di-sekarang/</guid>
+      <guid>http://localhost:1313/catatan/hidup-di-sekarang/</guid>
       <description>Hari ini cuti Imlek, aku memutuskan untuk datang ke kantor. Aku ingin membantu Pak Asep upgrade safety bar di Unit Intake.
 Pagi sekitar jam 8 aku sudah di kantor. Pak Asep sedang asyik ngelas pipa besi 2&amp;quot;. Lalu aku bikin kopi, merokok sejenak sambil liatin Pak Asep kerja. Bantu angkat-angkat dikit. Lalu menyapa Rangga dan menagih laporan mingguan. Dilanjut ngecek data-data, tak lupa koordinasi dengan Bu Nia perihal bahan kimia yang harus dibeli.</description>
     </item>
     
     <item>
       <title>Jolly Roger</title>
-      <link>https://heyanugrah.com/catatan/jolly-roger/</link>
+      <link>http://localhost:1313/catatan/jolly-roger/</link>
       <pubDate>Sun, 25 Dec 2022 17:00:00 +0000</pubDate>
       <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/catatan/jolly-roger/</guid>
+      <guid>http://localhost:1313/catatan/jolly-roger/</guid>
       <description>Ketika Hiriluk si dokter aneh berkata pada Chopper tentang makna dibalik Jolly Roger-nya, aku pun jadi ingin membuat Jolly Roger-ku sendiri.
 Diluar dugaanku, bukan Luffy yang menjadi inspirator, bukan pula Usopp yang adalah karakter kesukaanku, tapi Hiriluk - karakter yang hanya hidup dalam satu ark.
 Nyawa Hiriluk tetap hidup dalam tubuh Chopper sampai dengan saat ini. Internet adalah Chopper bagiku.
@@ -194,10 +222,10 @@ Maka, Jolly Roger-ku ini adalah manifestasi dari tujuanku dalam membuka ruang di
     
     <item>
       <title>Orang aneh</title>
-      <link>https://heyanugrah.com/catatan/orang-aneh/</link>
+      <link>http://localhost:1313/catatan/orang-aneh/</link>
       <pubDate>Wed, 21 Dec 2022 17:00:00 +0000</pubDate>
       <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/catatan/orang-aneh/</guid>
+      <guid>http://localhost:1313/catatan/orang-aneh/</guid>
       <description>Halo, kamu yang dibenci orang-orang.
 Sama, aku juga begitu.
 Kita ini memang beda dan nyebelin. Akuin aja.
@@ -215,10 +243,10 @@ Mereka nganggap kita aneh, nyebelin, dan bodoh.</description>
     
     <item>
       <title>Percaya</title>
-      <link>https://heyanugrah.com/catatan/percaya/</link>
+      <link>http://localhost:1313/catatan/percaya/</link>
       <pubDate>Sun, 18 Dec 2022 17:00:00 +0000</pubDate>
       <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/catatan/percaya/</guid>
+      <guid>http://localhost:1313/catatan/percaya/</guid>
       <description>Haha.. anjing. Berapa kali kamu dikasih harapan?
 Berapa kali kamu percaya omongan orang?
 Berapa kali?
@@ -233,10 +261,10 @@ We never know the future.</description>
     
     <item>
       <title>Relapse</title>
-      <link>https://heyanugrah.com/catatan/relapse/</link>
+      <link>http://localhost:1313/catatan/relapse/</link>
       <pubDate>Sat, 17 Dec 2022 17:00:00 +0000</pubDate>
       <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/catatan/relapse/</guid>
+      <guid>http://localhost:1313/catatan/relapse/</guid>
       <description>Anjing! Ketika kulakukan satu kesalahan lagi. Ketika aku tersungkur pada jurang kehinaan lagi.
 Merasa kalah.
 Sampai kapan? Sampai kapan aku dimakan ketakutan? Sampai kapan aku dihantam pikirian negatif.
@@ -246,37 +274,6 @@ Ah babi.
 Inhale, man.
 then, exhale.
 Get back to reality.</description>
-    </item>
-    
-    <item>
-      <title>Sekarang</title>
-      <link>https://heyanugrah.com/catatan/sekarang/</link>
-      <pubDate>Wed, 07 Dec 2022 17:00:00 +0000</pubDate>
-      <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/catatan/sekarang/</guid>
-      <description>Apa-apa yang membuatmu kecewa selalu ada di masa lalu. Apa-apa yang membuatmu khawatir selalu ada di masa depan.
-Yang satu telah terjadi, yang lainnya belum tentu terjadi.
-Familiar dengan kalimat-kalimat tadi? Konfusius pernah ngomongin itu.
-Kita hidup di saat ini. Momen ini. Jadi, kenapa harus mikirin yang lalu dan masa depan?
-Rasakan yang terjadi sekarang aja. Udara yang kamu hirup. Pakaian yang kamu pakai. Tempat yang kamu diami. Suhu yang terasa di kulit.</description>
-    </item>
-    
-    <item>
-      <title>Tentang ketakutan</title>
-      <link>https://heyanugrah.com/catatan/tentang-ketakutan/</link>
-      <pubDate>Wed, 07 Dec 2022 17:00:00 +0000</pubDate>
-      <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/catatan/tentang-ketakutan/</guid>
-      <description>Kamu pernah takut? Atau malah sedang takut.
-Aku sedang takut banyak hal.
-Asumsiku berkata ini akibat kejadian masa lalu. Trauma.
-Menurut KBBI, trauma itu:
-trau.ma
-n keadaan jiwa atau tingkah laku yang tidak normal sebagai akibat dari tekanan jiwa atau cedera jasmani
-Bangsat.
-Pengalaman mengajarkan untuk terus berusaha menjadi lebih baik. Tapi, mau sampai kapan?
-Pernahkah kamu merasa cukup akan perkembangan dirimu?
-Pernahkah kamu bilang, nah ini nih diriku yang ku mau?</description>
     </item>
     
   </channel>

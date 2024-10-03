@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sedang terjadi on hey anugrah!</title>
-    <link>https://heyanugrah.com/tagline/sedang-terjadi/</link>
-    <description>Recent content in sedang terjadi on hey anugrah!</description>
+    <title>Sedang Terjadi on hey anugrah!</title>
+    <link>http://localhost:1313/tagline/sedang-terjadi/</link>
+    <description>Recent content in Sedang Terjadi on hey anugrah!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>anugrahra.space@gmail.com (Anugrah Ramadhan)</managingEditor>
     <webMaster>anugrahra.space@gmail.com (Anugrah Ramadhan)</webMaster>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</copyright>
-    <lastBuildDate>Wed, 07 Dec 2022 17:00:00 +0000</lastBuildDate><atom:link href="https://heyanugrah.com/tagline/sedang-terjadi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Dec 2022 17:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tagline/sedang-terjadi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sekarang</title>
-      <link>https://heyanugrah.com/catatan/sekarang/</link>
+      <link>http://localhost:1313/catatan/sekarang/</link>
       <pubDate>Wed, 07 Dec 2022 17:00:00 +0000</pubDate>
       <author>anugrahra.space@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/catatan/sekarang/</guid>
+      <guid>http://localhost:1313/catatan/sekarang/</guid>
       <description>Apa-apa yang membuatmu kecewa selalu ada di masa lalu. Apa-apa yang membuatmu khawatir selalu ada di masa depan.
 Yang satu telah terjadi, yang lainnya belum tentu terjadi.
 Familiar dengan kalimat-kalimat tadi? Konfusius pernah ngomongin itu.
