@@ -58,11 +58,6 @@ _Catatan finansial Anugrah Ramadhan_
 _Website yang menyajikan data keterangan Al-Quran_  
 [[code]](https://github.com/anugrahra/do-quran)
 
-## [do-Quran 🔗](https://anugrahra.github.io/do-quran/)
-
-_Website yang menyajikan data keterangan Al-Quran_  
-[[code]](https://github.com/anugrahra/do-quran)
-
 ## [do-Movie 🔗](https://anugrahra.github.io/do-movie/)
 
 _Website yang menyajikan data keterangan Film_  
