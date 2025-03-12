@@ -3,15 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/catatan/</loc>
-    <lastmod>2024-10-03T20:44:23+07:00</lastmod>
+    <lastmod>2024-12-11T10:25:19+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/diary/</loc>
+    <lastmod>2024-12-11T10:25:19+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tagline/for-me.-its-ok-if-you-wanna-read/</loc>
-    <lastmod>2024-10-03T20:44:23+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/hack/</loc>
-    <lastmod>2024-10-03T20:44:23+07:00</lastmod>
+    <lastmod>2024-12-11T10:25:19+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2024-12-11T10:25:19+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/catatan/perpanjang/</loc>
+    <lastmod>2024-12-11T10:25:19+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tagline/supaya-tetap-hidup/</loc>
+    <lastmod>2024-12-11T10:25:19+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tagline/</loc>
+    <lastmod>2024-12-11T10:25:19+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-12-11T10:25:19+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hack/</loc>
     <lastmod>2024-10-03T20:44:23+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/image/https/i.ibb.co.com/pmcxyf0/3b3997f5-588b-41c2-a030-27f3222f77a4.jpg/</loc>
@@ -24,12 +39,6 @@
     <lastmod>2024-10-03T20:44:23+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tagline/supaya-gak-panik/</loc>
-    <lastmod>2024-10-03T20:44:23+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tagline/</loc>
-    <lastmod>2024-10-03T20:44:23+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-10-03T20:44:23+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tagline/ada-kemudahan/</loc>
@@ -103,9 +112,6 @@
   </url><url>
     <loc>http://localhost:1313/tagline/untuk-perokok-sejati/</loc>
     <lastmod>2024-02-01T10:40:57+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/diary/</loc>
-    <lastmod>2024-01-29T10:54:53+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/catatan/ingin-menyelesaikan-sesuatu/</loc>
     <lastmod>2024-01-29T10:54:53+07:00</lastmod>
