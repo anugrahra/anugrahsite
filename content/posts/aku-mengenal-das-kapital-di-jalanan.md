@@ -4,8 +4,9 @@ tagline = "gak seperti yang kamu harapkan"
 tags = ["diary"]
 title = "Aku mengenal Das Kapital di jalanan"
 [menu.tulisan]
-weight = 5
+weight = 3
 +++
+
 Aku mengenal _Das Kapital_ di jalanan. Sekarang buku itu sudah banyak yang bahas di YouTube, Ferry Irwandi salah satu orang yang fasih membahasnya.
 
 Aku tidak pernah membaca itu, sepertinya kawan-kawanku pun tidak pernah membacanya. Tapi kami tahu supaya keren.

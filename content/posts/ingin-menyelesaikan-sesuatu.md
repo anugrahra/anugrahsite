@@ -4,8 +4,6 @@ tagline  = "seenggaknya satu seumur hidup"
 date = 2024-01-29T10:54:53+07:00
 draft = false
 tags = ["diary"]
-[menu.tulisan]
-weight = 2
 +++
 
 ![](https://i.ibb.co/j6G0Pr8/etienne-girardet-EP6-VZhz-XM8-unsplash.jpg)

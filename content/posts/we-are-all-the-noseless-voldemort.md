@@ -5,7 +5,7 @@ tagline = "an asshole"
 tags = ["ranting"]
 title = "We are all the noseless Voldemort"
 [menu.tulisan]
-weight = 4
+weight = 2
 +++
 
 Kamu selalu membagi jiwamu untuk tetap hidup.

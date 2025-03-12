@@ -5,8 +5,6 @@ date = 2023-12-06T16:06:07+07:00
 image = "https://i.ibb.co/m8ZGCjF/Screenshot-2023-12-03-at-22-26-01-Roadmaps.png"
 tags = ["diary"]
 draft = false
-[menu.tulisan]
-weight = 1
 +++
 
 Aku selalu iri pada programmer. Aku ingin jago ngoding. Seriusan deh.

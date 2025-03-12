@@ -29,7 +29,6 @@ url = "/"
 weight = 1
 [permalinks]
 posts = "/catatan/:title/"
-zine = "/zine/:title/"
 [taxonomies]
 category = "categories"
 image = "image"
