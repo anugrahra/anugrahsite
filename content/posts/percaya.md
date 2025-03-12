@@ -5,6 +5,7 @@ tagline = "hanya pada fakta saat ini"
 tags = ["hack"]
 title = "Percaya"
 +++
+
 Haha.. anjing. Berapa kali kamu dikasih harapan?
 
 Berapa kali kamu percaya omongan orang?
