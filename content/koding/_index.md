@@ -1,5 +1,5 @@
 +++
-tagline = "Pernah belajar rekayasa perangkat lunak. Masih ada keinginan untuk jadi programmer."
+tagline = "Pernah belajar rekayasa perangkat lunak."
 title = "💻 Belajar ngoding"
 url = "/koding"
 layout = "parts"
@@ -23,12 +23,17 @@ _Kalibrasi Pompa Dosing Pulsafeeder_
 _Kalkulator instalasi pengolahan air_  
 [[code]](https://github.com/anugrahra/kalipa)
 
+## [Virtualogi 🔗](https://anugrahra.github.io/virtualogi/)
+
+_Cyberpunk mengalir dalam alunan malam_  
+[[code]](https://github.com/anugrahra/virtualogi)
+
 ## [Kaldotac 🔗](https://kaldotac.netlify.app)
 
 _Kalkulator dosis Tacmina_  
 [[code]](https://github.com/anugrahra/kalibrasi-dosis-tacmina)
 
-## Elang For Production Affairs
+## Elang For Urusan Produksi
 
 _E-Form keluar masuk barang untuk urusan produksi BLUD Air Minum Kota Cimahi_  
 [[code]](https://github.com/anugrahra/elangv02)
@@ -52,3 +57,13 @@ _Catatan finansial Anugrah Ramadhan_
 
 _Website yang menyajikan data keterangan Al-Quran_  
 [[code]](https://github.com/anugrahra/do-quran)
+
+## [do-Quran 🔗](https://anugrahra.github.io/do-quran/)
+
+_Website yang menyajikan data keterangan Al-Quran_  
+[[code]](https://github.com/anugrahra/do-quran)
+
+## [do-Movie 🔗](https://anugrahra.github.io/do-movie/)
+
+_Website yang menyajikan data keterangan Film_  
+[[code]](https://github.com/anugrahra/do-movie)
