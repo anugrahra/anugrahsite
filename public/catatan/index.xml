@@ -9,7 +9,29 @@
     <managingEditor>dialog.anugrah@gmail.com (Anugrah Ramadhan)</managingEditor>
     <webMaster>dialog.anugrah@gmail.com (Anugrah Ramadhan)</webMaster>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</copyright>
-    <lastBuildDate>Wed, 11 Dec 2024 10:25:19 +0700</lastBuildDate><atom:link href="http://localhost:1313/catatan/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Jun 2025 23:01:49 +0700</lastBuildDate><atom:link href="http://localhost:1313/catatan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bengkel Siasat</title>
+      <link>http://localhost:1313/catatan/bengkel-siasat/</link>
+      <pubDate>Sun, 29 Jun 2025 23:01:49 +0700</pubDate>
+      <author>dialog.anugrah@gmail.com (Anugrah Ramadhan)</author>
+      <guid>http://localhost:1313/catatan/bengkel-siasat/</guid>
+      <description>Daftar isi:
+Episode #0 : Kenapa ga nulis aja?
+Episode #1 : Siasat-siasat
+Episode #2 : Pasca-kebenaran
+Episode #3 : Sepatu yang sama (👍 recomended)
+Episode #4 : Percaya Tuhan
+Episode #5 : Gak Nyaman
+Episode #6 : Baca Buku
+Episode #7 : Opini Imposter
+Episode #8 : Khawatir Masa Depan
+Episode #9 : Terlalu Malam
+Episode #10 : Seimbang
+Episode #11 : Ide-ide Gabut
+Episode #12 : Karena Gampang</description>
+    </item>
+    
     <item>
       <title>Perpanjang</title>
       <link>http://localhost:1313/catatan/perpanjang/</link>
@@ -251,24 +273,6 @@ Aku yakin kamu juga cinta orang-orang di sekitar kamu.
 Hanya saja, kita mengekspresikan itu dengan cara yang berbeda.
 Kita ini manusia-manusia canggung.
 Mereka nganggap kita aneh, nyebelin, dan bodoh.</description>
-    </item>
-    
-    <item>
-      <title>Percaya</title>
-      <link>http://localhost:1313/catatan/percaya/</link>
-      <pubDate>Sun, 18 Dec 2022 17:00:00 +0000</pubDate>
-      <author>dialog.anugrah@gmail.com (Anugrah Ramadhan)</author>
-      <guid>http://localhost:1313/catatan/percaya/</guid>
-      <description>Haha.. anjing. Berapa kali kamu dikasih harapan?
-Berapa kali kamu percaya omongan orang?
-Berapa kali?
-Sering?
-Berapa kali kamu kecewa?
-Banyak?
-Percaya pada fakta yang terjadi saat ini aja udah.
-Ga usah dipercaya yang lain-lain mah.
-Diusahakan untuk terjadi itu boleh, tapi jangan investasikan kepercayaanmu terlalu banyak. Kasih ruang untuk kegagalan.
-We never know the future.</description>
     </item>
     
   </channel>

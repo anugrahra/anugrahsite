@@ -13,7 +13,7 @@ weight = 5
 _One Stop Urusan Produksi_  
 [[code]](https://github.com/anugrahra/1up)
 
-## [Kaldopus 🔗](https://kaldpus.netlify.app/)
+## [Kaldopus 🔗](https://kaldopus.netlify.app/)
 
 _Kalibrasi Pompa Dosing Pulsafeeder_  
 [[code]](https://github.com/anugrahra/kaldopus)
