@@ -1,7 +1,7 @@
 ---
 title: "Setelah Dead Poets Society"
 date: 2025-10-29T19:32:48+07:00
-draft: true
+draft: false
 tagline: "apa lagi?"
 ---
 
