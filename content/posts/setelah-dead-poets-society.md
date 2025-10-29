@@ -9,7 +9,7 @@ tagline: "apa lagi?"
 
 Aku baru saja menonton _Dead Poets Society_ lagi setelah beberapa tahun. Sebelum kemarin malam, mungkin terakhir aku menontonnya saat aku masih mahasiswa.
 
-Tololnya, aku waktu ga ngerti bener. Kayaknya, semalam aku nonton itu malah lebih ngerti. Lebih paham. Lebih menyentuh.
+Tololnya, pada saat mahasiswa itu aku ga ngerti bener. Kayaknya, semalam aku nonton itu malah lebih ngerti. Lebih paham. Lebih menyentuh.
 
 Aku jadi ingin berpuisi lagi. Nyastra. Ingin menghidupi jiwa lagi. Supaya _Carpe Diem_. Supaya _Seize the Day_.
 
