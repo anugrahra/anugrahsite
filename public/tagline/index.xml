@@ -9,22 +9,40 @@
     <managingEditor>dialog.anugrah@gmail.com (Anugrah Ramadhan)</managingEditor>
     <webMaster>dialog.anugrah@gmail.com (Anugrah Ramadhan)</webMaster>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</copyright>
-    <lastBuildDate>Wed, 29 Oct 2025 19:32:48 +0700</lastBuildDate><atom:link href="http://localhost:1313/tagline/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Nov 2025 14:24:53 +0700</lastBuildDate><atom:link href="http://localhost:1313/tagline/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Apa Lagi?</title>
-      <link>http://localhost:1313/tagline/apa-lagi/</link>
-      <pubDate>Wed, 29 Oct 2025 19:32:48 +0700</pubDate>
+      <title>Falsafah Hidup</title>
+      <link>http://localhost:1313/tagline/falsafah-hidup/</link>
+      <pubDate>Tue, 04 Nov 2025 14:24:53 +0700</pubDate>
       <author>dialog.anugrah@gmail.com (Anugrah Ramadhan)</author>
-      <guid>http://localhost:1313/tagline/apa-lagi/</guid>
+      <guid>http://localhost:1313/tagline/falsafah-hidup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>For Me. It&#39;s Ok if You Wanna Read</title>
       <link>http://localhost:1313/tagline/for-me.-its-ok-if-you-wanna-read/</link>
-      <pubDate>Wed, 29 Oct 2025 19:32:48 +0700</pubDate>
+      <pubDate>Tue, 04 Nov 2025 14:24:53 +0700</pubDate>
       <author>dialog.anugrah@gmail.com (Anugrah Ramadhan)</author>
       <guid>http://localhost:1313/tagline/for-me.-its-ok-if-you-wanna-read/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Di Kantor Pos</title>
+      <link>http://localhost:1313/tagline/di-kantor-pos/</link>
+      <pubDate>Mon, 03 Nov 2025 14:22:21 +0700</pubDate>
+      <author>dialog.anugrah@gmail.com (Anugrah Ramadhan)</author>
+      <guid>http://localhost:1313/tagline/di-kantor-pos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apa Lagi?</title>
+      <link>http://localhost:1313/tagline/apa-lagi/</link>
+      <pubDate>Wed, 29 Oct 2025 19:32:48 +0700</pubDate>
+      <author>dialog.anugrah@gmail.com (Anugrah Ramadhan)</author>
+      <guid>http://localhost:1313/tagline/apa-lagi/</guid>
       <description></description>
     </item>
     
@@ -169,24 +187,6 @@
       <pubDate>Tue, 27 Jun 2023 08:42:30 +0700</pubDate>
       <author>dialog.anugrah@gmail.com (Anugrah Ramadhan)</author>
       <guid>http://localhost:1313/tagline/gak-usah-susah-susah/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Aku Menikah</title>
-      <link>http://localhost:1313/tagline/aku-menikah/</link>
-      <pubDate>Fri, 05 May 2023 20:31:44 +0700</pubDate>
-      <author>dialog.anugrah@gmail.com (Anugrah Ramadhan)</author>
-      <guid>http://localhost:1313/tagline/aku-menikah/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Halo Konfusius!</title>
-      <link>http://localhost:1313/tagline/halo-konfusius/</link>
-      <pubDate>Mon, 23 Jan 2023 09:21:00 +0000</pubDate>
-      <author>dialog.anugrah@gmail.com (Anugrah Ramadhan)</author>
-      <guid>http://localhost:1313/tagline/halo-konfusius/</guid>
       <description></description>
     </item>
     
