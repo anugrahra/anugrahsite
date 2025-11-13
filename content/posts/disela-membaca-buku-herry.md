@@ -1,6 +1,6 @@
 ---
 title: "Disela Membaca Buku Herry"
-date: 2025-11-13T21:09:16+07:00
+date: 2025-11-13T14:24:53+07:00
 draft: false
 tagline: "Setelah Boombox Usai Menyalak"
 ---
@@ -16,3 +16,5 @@ Terkadang aku suka malu sendiri dengan tulisanku yang juga seringkali personal. 
 Alhamdulillah-nya energi menulisku kini lagi banyak. Cukup banyak untuk menulis catatan pendek sembari menunggu commuter line tiba di tujuan.
 
 Energi itu yang sedang kumanfaatkan saat ini. Dengan membaca tulisan personal, energi itu seakan ada berkali lipat.
+
+![](https://kineruku.com/wp-content/uploads/2016/07/SetelahBoomboxUsaiMenyalak_Diskusi_featured.jpg)
