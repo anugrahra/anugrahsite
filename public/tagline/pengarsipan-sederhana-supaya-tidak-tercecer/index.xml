@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pengarsipan Sederhana, Supaya Tidak Tercecer on hey anugrah!</title>
-    <link>https://heyanugrah.com/tagline/pengarsipan-sederhana-supaya-tidak-tercecer/</link>
+    <link>http://localhost:1313/tagline/pengarsipan-sederhana-supaya-tidak-tercecer/</link>
     <description>Recent content in Pengarsipan Sederhana, Supaya Tidak Tercecer on hey anugrah!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>dialog.anugrah@gmail.com (Anugrah Ramadhan)</managingEditor>
     <webMaster>dialog.anugrah@gmail.com (Anugrah Ramadhan)</webMaster>
-    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</copyright><atom:link href="https://heyanugrah.com/tagline/pengarsipan-sederhana-supaya-tidak-tercecer/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</copyright><atom:link href="http://localhost:1313/tagline/pengarsipan-sederhana-supaya-tidak-tercecer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>📒 Zine</title>
-      <link>https://heyanugrah.com/zine/</link>
+      <link>http://localhost:1313/zine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>dialog.anugrah@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/zine/</guid>
+      <guid>http://localhost:1313/zine/</guid>
       <description>✂️ Bengkel Kolase Seri zine yang dibuat ketika aku lagi senang membuat karya kolase
 📖 Buku-buku yang terbaca secara rock n roll Ulasan singkat buku-buku yang pernah kubaca
 🧠 dekadensiotak Seri zine yang merekam beberapa pemikiranku yang mentah

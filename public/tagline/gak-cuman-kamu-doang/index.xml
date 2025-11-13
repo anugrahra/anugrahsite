@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gak Cuman Kamu Doang on hey anugrah!</title>
-    <link>https://heyanugrah.com/tagline/gak-cuman-kamu-doang/</link>
+    <link>http://localhost:1313/tagline/gak-cuman-kamu-doang/</link>
     <description>Recent content in Gak Cuman Kamu Doang on hey anugrah!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>dialog.anugrah@gmail.com (Anugrah Ramadhan)</managingEditor>
     <webMaster>dialog.anugrah@gmail.com (Anugrah Ramadhan)</webMaster>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</copyright>
-    <lastBuildDate>Fri, 06 May 2022 17:00:00 +0000</lastBuildDate><atom:link href="https://heyanugrah.com/tagline/gak-cuman-kamu-doang/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 May 2022 17:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tagline/gak-cuman-kamu-doang/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Semua orang bermasalah</title>
-      <link>https://heyanugrah.com/catatan/semua-orang-bermasalah/</link>
+      <link>http://localhost:1313/catatan/semua-orang-bermasalah/</link>
       <pubDate>Fri, 06 May 2022 17:00:00 +0000</pubDate>
       <author>dialog.anugrah@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/catatan/semua-orang-bermasalah/</guid>
+      <guid>http://localhost:1313/catatan/semua-orang-bermasalah/</guid>
       <description>Setiap orang punya masalah. Ga kamu doang.
 Ga usah banding-bandingin masalah. Setiap orang punya porsinya masing-masing.
 Ga usah berprasangka. Itu hanya terjadi di kepalamu, belum tentu benar di dunia nyata.

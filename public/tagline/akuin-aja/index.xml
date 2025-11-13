@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Akuin Aja on hey anugrah!</title>
-    <link>https://heyanugrah.com/tagline/akuin-aja/</link>
+    <link>http://localhost:1313/tagline/akuin-aja/</link>
     <description>Recent content in Akuin Aja on hey anugrah!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>dialog.anugrah@gmail.com (Anugrah Ramadhan)</managingEditor>
     <webMaster>dialog.anugrah@gmail.com (Anugrah Ramadhan)</webMaster>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 25 Apr 2022 17:00:00 +0000</lastBuildDate><atom:link href="https://heyanugrah.com/tagline/akuin-aja/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Apr 2022 17:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tagline/akuin-aja/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kamu gak spesial</title>
-      <link>https://heyanugrah.com/catatan/kamu-gak-spesial/</link>
+      <link>http://localhost:1313/catatan/kamu-gak-spesial/</link>
       <pubDate>Mon, 25 Apr 2022 17:00:00 +0000</pubDate>
       <author>dialog.anugrah@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/catatan/kamu-gak-spesial/</guid>
+      <guid>http://localhost:1313/catatan/kamu-gak-spesial/</guid>
       <description>Pernah ga kamu mikir kenapa kamu suka film-film Marvel?
 Waktu nonton film Batman kemaren kenapa kamu kagum sama Robert Pattinson?
 Dan kamu menagis haru ketika tiga spiderman bersatu di No Way Home.

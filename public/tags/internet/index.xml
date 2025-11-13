@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Internet on hey anugrah!</title>
-    <link>https://heyanugrah.com/tags/internet/</link>
+    <link>http://localhost:1313/tags/internet/</link>
     <description>Recent content in Internet on hey anugrah!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>dialog.anugrah@gmail.com (Anugrah Ramadhan)</managingEditor>
     <webMaster>dialog.anugrah@gmail.com (Anugrah Ramadhan)</webMaster>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 01 May 2022 17:00:00 +0000</lastBuildDate><atom:link href="https://heyanugrah.com/tags/internet/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 May 2022 17:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/internet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bermain di internet</title>
-      <link>https://heyanugrah.com/catatan/bermain-di-internet/</link>
+      <link>http://localhost:1313/catatan/bermain-di-internet/</link>
       <pubDate>Sun, 01 May 2022 17:00:00 +0000</pubDate>
       <author>dialog.anugrah@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/catatan/bermain-di-internet/</guid>
+      <guid>http://localhost:1313/catatan/bermain-di-internet/</guid>
       <description>Aku mengenal internet di tahun 1999. Aku ingat harga warnet waktu itu Rp. 4000 per jam. Di tahun itu pula aku pertama kali belajar membuat email, dengan Yahoo! sebagai provider-nya.
 Saat itu juga, aku mulai menyukai internet. Aku sungguh terpesona karena apa yang aku tahu di dunia nyata ternyata ada semua informasinya di dunia maya. Aku senang berselancar acak. Mengunjungi situs-situs perusahaan, entertainment, forum, dan juga situs personal.
 Nah, hal yang disebutkan terakhir itu yang ajaib.</description>
@@ -23,10 +23,10 @@ Nah, hal yang disebutkan terakhir itu yang ajaib.</description>
     
     <item>
       <title>Edukasi internet</title>
-      <link>https://heyanugrah.com/catatan/edukasi-internet/</link>
+      <link>http://localhost:1313/catatan/edukasi-internet/</link>
       <pubDate>Tue, 26 Apr 2022 17:00:00 +0000</pubDate>
       <author>dialog.anugrah@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/catatan/edukasi-internet/</guid>
+      <guid>http://localhost:1313/catatan/edukasi-internet/</guid>
       <description>Pernah gak kamu merasa iri setelah lihat IG Story temanmu yang liburan melulu? Padahal belum tentu temanmu itu lebih bahagia dari kamu.
 Waktu Pemilu kemarin, berapa banyak orang yang sebel sama Jokowi atau Prabowo karena lihat berita di media sosial? Padahal kenal mereka juga enggak, ketemu mereka aja gak pernah
 Pernah gak kamu tersinggung kalau ada temen yang gak ngucapin selamat ultah di grup whatsapp? Padahal teman mu itu selalu bantuin kamu selama ini.</description>

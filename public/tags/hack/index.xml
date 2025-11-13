@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hack on hey anugrah!</title>
-    <link>https://heyanugrah.com/tags/hack/</link>
+    <link>http://localhost:1313/tags/hack/</link>
     <description>Recent content in Hack on hey anugrah!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>dialog.anugrah@gmail.com (Anugrah Ramadhan)</managingEditor>
     <webMaster>dialog.anugrah@gmail.com (Anugrah Ramadhan)</webMaster>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</copyright>
-    <lastBuildDate>Thu, 03 Oct 2024 20:44:23 +0700</lastBuildDate><atom:link href="https://heyanugrah.com/tags/hack/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Oct 2024 20:44:23 +0700</lastBuildDate><atom:link href="http://localhost:1313/tags/hack/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mencari Berkah</title>
-      <link>https://heyanugrah.com/catatan/mencari-berkah/</link>
+      <link>http://localhost:1313/catatan/mencari-berkah/</link>
       <pubDate>Thu, 03 Oct 2024 20:44:23 +0700</pubDate>
       <author>dialog.anugrah@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/catatan/mencari-berkah/</guid>
+      <guid>http://localhost:1313/catatan/mencari-berkah/</guid>
       <description>Setelah punya anak (ya akhirnya saya punya anak!), pola pikir jadi berubah lagi.
 Aku mau ngomongin tentang rezeki.
 Ini bukan tentang rezeki bertambah karena hadirnya buah hati.
@@ -28,10 +28,10 @@ Gimana cara menghitung berkah?</description>
     
     <item>
       <title>Bersama Kesulitan</title>
-      <link>https://heyanugrah.com/catatan/bersama-kesulitan/</link>
+      <link>http://localhost:1313/catatan/bersama-kesulitan/</link>
       <pubDate>Thu, 13 Jun 2024 20:10:32 +0700</pubDate>
       <author>dialog.anugrah@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/catatan/bersama-kesulitan/</guid>
+      <guid>http://localhost:1313/catatan/bersama-kesulitan/</guid>
       <description>Bismillah,
 فَاِنَّ مَعَ الْعُسْرِ يُسْرًاۙ . اِنَّ مَعَ الْعُسْرِ يُسْرًاۗ
 &amp;ldquo;Maka, sesungguhnya beserta kesulitan ada kemudahan. Sesungguhnya beserta kesulitan ada kemudahan.&amp;rdquo; (QS As-Syarh : 5-6)
@@ -40,10 +40,10 @@ Kedua ayat itu jadi ayat favorit saya sekarang ini. Bermula dari konten di media
     
     <item>
       <title>Percaya</title>
-      <link>https://heyanugrah.com/catatan/percaya/</link>
+      <link>http://localhost:1313/catatan/percaya/</link>
       <pubDate>Sun, 18 Dec 2022 17:00:00 +0000</pubDate>
       <author>dialog.anugrah@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/catatan/percaya/</guid>
+      <guid>http://localhost:1313/catatan/percaya/</guid>
       <description>Haha.. anjing. Berapa kali kamu dikasih harapan?
 Berapa kali kamu percaya omongan orang?
 Berapa kali?
@@ -58,10 +58,10 @@ We never know the future.</description>
     
     <item>
       <title>Sekarang</title>
-      <link>https://heyanugrah.com/catatan/sekarang/</link>
+      <link>http://localhost:1313/catatan/sekarang/</link>
       <pubDate>Wed, 07 Dec 2022 17:00:00 +0000</pubDate>
       <author>dialog.anugrah@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/catatan/sekarang/</guid>
+      <guid>http://localhost:1313/catatan/sekarang/</guid>
       <description>Apa-apa yang membuatmu kecewa selalu ada di masa lalu. Apa-apa yang membuatmu khawatir selalu ada di masa depan.
 Yang satu telah terjadi, yang lainnya belum tentu terjadi.
 Familiar dengan kalimat-kalimat tadi? Konfusius pernah ngomongin itu.
@@ -71,10 +71,10 @@ Rasakan yang terjadi sekarang aja. Udara yang kamu hirup. Pakaian yang kamu paka
     
     <item>
       <title>Skincare</title>
-      <link>https://heyanugrah.com/catatan/skincare/</link>
+      <link>http://localhost:1313/catatan/skincare/</link>
       <pubDate>Thu, 14 Jul 2022 17:00:00 +0000</pubDate>
       <author>dialog.anugrah@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/catatan/skincare/</guid>
+      <guid>http://localhost:1313/catatan/skincare/</guid>
       <description>Aku narsistik. Aku sangat mendamba diriku sendiri, apalagi terhadap kecerdasanku yang superior.
 Aku pun tampan. Sialnya, hanya aku yang mengerti akan hal itu. Ketampananku makin menjadi ketika program diet dan olahraga yang kujalani berhasil membuat berat badanku turun 10 kg.
 Kini aku mulai fokus merawat kulit. Skincare. Tujuanku adalah mengalahkan pendar cahaya wajah Jimin BTS.
@@ -83,10 +83,10 @@ Mudah. Menurutku si Jimin itu wajahnya mirip sama tetanggaku yang namanya Sopand
     
     <item>
       <title>Gak perlu buru-buru bales</title>
-      <link>https://heyanugrah.com/catatan/gak-perlu-buru-buru-bales/</link>
+      <link>http://localhost:1313/catatan/gak-perlu-buru-buru-bales/</link>
       <pubDate>Wed, 15 Jun 2022 17:00:00 +0000</pubDate>
       <author>dialog.anugrah@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/catatan/gak-perlu-buru-buru-bales/</guid>
+      <guid>http://localhost:1313/catatan/gak-perlu-buru-buru-bales/</guid>
       <description>Semakin banyak urusan yang perlu diselesaikan, semakin aku belajar tentang skala prioritasnya.
 Termasuk dalam urusan membalas chat, DM atau e-mail.
 Balas cepat yang urgent. Seperti : your boss, perihal pekerjaan yang membutuhkan tindakan cepat.
@@ -98,10 +98,10 @@ Tidak usah dibalas yang sangat gak penting. Seperti : ghibah dan orang tolol yan
     
     <item>
       <title>Olahraga</title>
-      <link>https://heyanugrah.com/catatan/olahraga/</link>
+      <link>http://localhost:1313/catatan/olahraga/</link>
       <pubDate>Tue, 07 Jun 2022 17:00:00 +0000</pubDate>
       <author>dialog.anugrah@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/catatan/olahraga/</guid>
+      <guid>http://localhost:1313/catatan/olahraga/</guid>
       <description>Semua orang tahu olahraga bikin badan sehat. Yang kurang disadari banyak orang adalah olahraga juga bisa bikin mental mu selamat.
 Aku jadi suka olahraga setelah tahu bahwa serotonin (yang bisa bikin mood kamu bagus) dan endorfin (si pain killer mujarab) bakal muncul. Bahwa ruwet di kepala bisa terobati.
 Menurutku, keadaan jiwa setelah berolahraga lebih menyenangkan daripada setelah minum alkohol.
@@ -111,10 +111,10 @@ Setidaknya, aku merasa jiwaku enteng. Mikir jadi lancar.</description>
     
     <item>
       <title>Ekspektasimu ketinggian</title>
-      <link>https://heyanugrah.com/catatan/ekspektasimu-ketinggian/</link>
+      <link>http://localhost:1313/catatan/ekspektasimu-ketinggian/</link>
       <pubDate>Mon, 06 Jun 2022 17:00:00 +0000</pubDate>
       <author>dialog.anugrah@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/catatan/ekspektasimu-ketinggian/</guid>
+      <guid>http://localhost:1313/catatan/ekspektasimu-ketinggian/</guid>
       <description>“Ekspektasi adalah akar dari sakit hati”
 Kutipan itu katanya dari Shakespeare. Faktanya, tidak ditemukan satupun kalimat itu dalam karya-karyanya.
 Tapi, aku sekarang gak akan bahas sastrawan Inggris itu, aku mau bahas tentang kekecewaan.
@@ -124,10 +124,10 @@ Saat kamu ingin setiap hari indah berbunga-bunga kayak di surga. Saat kamu ingin
     
     <item>
       <title>Ubah yang bisa diukur</title>
-      <link>https://heyanugrah.com/catatan/ubah-yang-bisa-diukur/</link>
+      <link>http://localhost:1313/catatan/ubah-yang-bisa-diukur/</link>
       <pubDate>Sat, 14 May 2022 17:00:00 +0000</pubDate>
       <author>dialog.anugrah@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/catatan/ubah-yang-bisa-diukur/</guid>
+      <guid>http://localhost:1313/catatan/ubah-yang-bisa-diukur/</guid>
       <description>Hidup gak peduli sama apa yang kamu mau. Tinggal kamu yang harus bisa menyiasatinya. Paling mudah adalah mengontrol apa yang benar-benar dalam kuasamu: pikiranmu, tindakanmu. Itu bisa kamu ubah sesukamu.
 Yang lain, biarkanlah seperti itu.
 Pasrah? Ga juga.
@@ -137,10 +137,10 @@ Yang paling bikin males adalah mengubah sifat seseorang. Itu hampir mustahil. Ya
     
     <item>
       <title>Belajar memilih dengan seni</title>
-      <link>https://heyanugrah.com/catatan/belajar-memilih-dengan-seni/</link>
+      <link>http://localhost:1313/catatan/belajar-memilih-dengan-seni/</link>
       <pubDate>Tue, 10 May 2022 17:00:00 +0000</pubDate>
       <author>dialog.anugrah@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/catatan/belajar-memilih-dengan-seni/</guid>
+      <guid>http://localhost:1313/catatan/belajar-memilih-dengan-seni/</guid>
       <description>Dalam buku How to Respect Myself karya Yoon Hong Gyun. Ada bagian menarik yang membahas latihan pengambilan keputusan.
 Salah satu metodenya adalah dengan berkesenian.
 Dalam melukis, si pelukis harus bisa memutuskan akan menggunakan warna apa yang akan dia pakai. Begitu juga dengan penulis, dia harus memutuskan diksi mana yang cocok untuk dia rangkai agar menjadi tulisan utuh.
@@ -149,10 +149,10 @@ Itulah alasan para orangtua menyuruh anak-anaknya ikut les seni, kata Yoon Hong 
     
     <item>
       <title>Tentang menghalau bosan</title>
-      <link>https://heyanugrah.com/catatan/tentang-menghalau-bosan/</link>
+      <link>http://localhost:1313/catatan/tentang-menghalau-bosan/</link>
       <pubDate>Tue, 25 Aug 2020 20:31:54 +0700</pubDate>
       <author>dialog.anugrah@gmail.com (Anugrah Ramadhan)</author>
-      <guid>https://heyanugrah.com/catatan/tentang-menghalau-bosan/</guid>
+      <guid>http://localhost:1313/catatan/tentang-menghalau-bosan/</guid>
       <description>Aku baru bikin kanal di telegram yang kujadikan platform untuk microblogging. Aku mencontek Bang Fariz untuk hal itu, sayang dia udah nutup microbloggingnya itu.
 Tentu saja, kusebar tautannya di whatsapp story. WhatsApp story kupilih karena sudah kupastikan yang melihat adalah orang-orang yang sudah mengenalku saja, dan aku ingin kontenku menyebar dimulai dari lingkaran itu saja.
 Lalu, ada temanku yang bertanya padaku tentang apa microblogging. Dia terkesan tertarik untuk mencoba karena dia lagi bosan.</description>
