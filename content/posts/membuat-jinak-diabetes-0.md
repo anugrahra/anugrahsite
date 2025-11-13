@@ -1,7 +1,7 @@
 ---
 title: "Membuat Jinak Diabetes #0"
 date: 2025-11-06T14:33:28+07:00
-draft: true
+draft: false
 ---
 
 aku buat tulisan ini mentah. primal.
