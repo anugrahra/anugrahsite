@@ -16,5 +16,3 @@ Terkadang aku suka malu sendiri dengan tulisanku yang juga seringkali personal. 
 Alhamdulillah-nya energi menulisku kini lagi banyak. Cukup banyak untuk menulis catatan pendek sembari menunggu commuter line tiba di tujuan.
 
 Energi itu yang sedang kumanfaatkan saat ini. Dengan membaca tulisan personal, energi itu seakan ada berkali lipat.
-
-![](https://kineruku.com/wp-content/uploads/2016/07/SetelahBoomboxUsaiMenyalak_Diskusi_featured.jpg)
