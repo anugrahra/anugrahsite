@@ -1,6 +1,6 @@
 baseURL     = "https://heyanugrah.com/"
 title       = "hey anugrah!"
-description = "anugrah's digital farm"
+description = "anugrah's digital garden"
 languageCode = "id-ID"
 rssLimit    = 20
 theme       = "anugrahtheme"
