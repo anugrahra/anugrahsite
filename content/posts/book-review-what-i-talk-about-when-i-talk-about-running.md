@@ -5,8 +5,6 @@ tagline = "cara membawa kenyataan ikut berlari bersama"
 tags = ["review"]
 title = "[Book Review] What I Talk About When I Talk About Running"
 draft = false
-[menu.review]
-weight = 4
 +++
 
 <p style="text-align:center;"><img src="https://dekadensiotak.files.wordpress.com/2018/07/20180716_140944.jpg" alt="20180716_140944" width="100"/></p>

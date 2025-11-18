@@ -1,36 +1,81 @@
-baseURL = "https://heyanugrah.com/"
-copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License."
+baseURL     = "https://heyanugrah.com/"
+title       = "hey anugrah!"
 description = "Website Anugrah Ramadhan"
-googleAnalytics = "UA-227767430-1"
-languageCode = "en-us"
-rssLimit = 20
-theme = "anugrahtheme"
-title = "hey anugrah!"
+languageCode = "id-ID"
+rssLimit    = 20
+theme       = "anugrahtheme"
+
+copyright  = "This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License."
+
 [author]
-email = "dialog.anugrah@gmail.com"
-name = "Anugrah Ramadhan"
+  name  = "Anugrah Ramadhan"
+  email = "dialog.anugrah@gmail.com"
+
 [markup.goldmark.renderer]
-unsafe = true
+  unsafe = true
+
+# ===========================
+# MENUS
+# ===========================
 [[menu.main]]
-name = "RSS"
-url = "/catatan/index.xml"
-weight = 5
+  name   = "Home"
+  url    = "/"
+  weight = 1
+
 [[menu.main]]
-name = "Kontak"
-url = "/kontak/"
-weight = 3
+  name   = "Dukung"
+  url    = "https://saweria.co/AnugrahRamadhan"
+  weight = 2
+
 [[menu.main]]
-name = "Dukung"
-url = "https://saweria.co/AnugrahRamadhan"
-weight = 2
+  name   = "Kontak"
+  url    = "/kontak/"
+  weight = 3
+
 [[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
+  name   = "RSS"
+  url    = "/catatan/index.xml"
+  weight = 5
+
+# ===========================
+# URL & TAXONOMIES
+# ===========================
 [permalinks]
-posts = "/catatan/:title/"
+  posts = "/catatan/:title/"
+
 [taxonomies]
-category = "categories"
-image = "image"
-tag = "tags"
-tagline = "tagline"
+  category = "categories"
+  tag      = "tags"
+  tagline  = "tagline"
+  image    = "image"
+
+# ===============
+# MENU LANDING
+# ===============
+[menu]
+
+  [[menu.landing]]
+    name = "📝 Baca catatan terbaru"
+    url = "/catatan/"
+    weight = 1
+
+# ===============
+# MENU TULISAN FOR YOU
+# ===============
+
+  [[menu.tulisan]]
+  name = "We are all the noseless Voldemort"
+  url = "/catatan/we-are-all-the-noseless-voldemort/"
+
+  [[menu.tulisan]]
+  name = "Olahraga"
+  url = "/catatan/olahraga/"
+
+# ===============
+# MENU RESENSI
+# ===============
+
+  [[menu.review]]
+  name = "Anjing lah"
+  url = "/catatan/das-kapital/"
+  weight = 1

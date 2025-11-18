@@ -5,8 +5,6 @@ tagline = "hiphophead, bergembiralah!"
 tags = ["review"]
 title = "[Book Review] Flip Da Skrip: Kumpulan Catatan Rap Nerd Selama Satu Dekade"
 draft = false
-[menu.review]
-weight = 3
 +++
 
 <p style="text-align:center;">

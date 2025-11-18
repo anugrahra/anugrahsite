@@ -4,11 +4,10 @@ image = "https://dekadensiotak.files.wordpress.com/2018/08/20180812_124140.jpg?w
 tagline = "benar-benar novel mbajingan"
 tags = ["review"]
 title = "[Book Review] Para Bajingan Yang Menyenangkan"
-[menu.review]
-weight = 2
 +++
+
 ![](https://dekadensiotak.files.wordpress.com/2018/08/20180812_124140.jpg?w=1154&h=2048)
-    “Mbut, Jembuuuut!”
+“Mbut, Jembuuuut!”
 
 “Don’t judge a book by its cover” itu basi! Aku membeli buku ini dengan 100% menilai covernya. Sinopsis di sampul belakangnya aja gak saya baca pada waktu itu.
 
