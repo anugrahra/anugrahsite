@@ -3,7 +3,7 @@ date = 2020-08-09T17:00:00Z
 image = "https://dekadensiotak.files.wordpress.com/2020/08/20200809_112534-1.jpg?w=1536"
 tagline = "novel punk pertama di dunia"
 tags = ["review"]
-title = "[Book Review] The Punk"
+title = "[Resensi Buku] The Punk"
 +++
 
 ![](https://dekadensiotak.files.wordpress.com/2020/08/20200809_112534-1.jpg?w=1536)
