@@ -1,5 +1,5 @@
 ---
-title: "Membuat Jinak Diabetes #0"
+title: "Membuat Jinak Diabetes part 0"
 date: 2025-11-06T14:33:28+07:00
 draft: true
 ---
