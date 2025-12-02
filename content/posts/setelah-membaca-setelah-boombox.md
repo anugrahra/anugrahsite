@@ -3,6 +3,7 @@ title: "Setelah Membaca Setelah Boombox"
 tagline: "usai menyalak"
 date: 2025-12-02T21:24:01+07:00
 draft: false
+tags: ["review"]
 ---
 
 Aku kira menulis resensi buku itu akan mudah. Ada saja alasan yang membuat aku tidak jadi menulis resensi utuh. Seringnya, karena malas akibat telah melewati rutinitas sehari-hari. Namun, perlu diakui bahwa membaca _Setelah Boombox Usai Menyalak_ (seterusnya aku akan menyebut _Setelah Boombox_) itu lebih mudah daripada membaca _Falsafah Hidup_ Buya Hamka. Bukan karena bobot materinya yang lebih ringan. Tentu tidak. Tulisan Herry Sutresna alias Ucok tentu bukan perkara enteng untuk dibaca, melainkan aku lebih tertarik membaca buku musik keren-kerenan seperti hip-hop dan punk daripada belajar agama. Maafkan aku ya Allah.
