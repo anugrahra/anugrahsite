@@ -5,7 +5,7 @@ date: 2025-12-02T21:24:01+07:00
 draft: false
 ---
 
-Aku kira menulis resensi buku itu akan mudah. Ada saja alasan yang membuat aku tidak jadi menulis resensi utuh. Seringnya, karena malas akibat telah melewati rutinitas sehari-hari. Namun, perlu diakui bahwa membaca _Setelah Boombox Usai Menyalak_ (seterusnya aku akan menyebut Setelah Boombox) itu lebih mudah daripada membaca _Falsafah Hidup_ Buya Hamka. Bukan karena bobot materinya yang lebih ringan. Tentu tidak. Tulisan Herry Sutresna alias Ucok tentu bukan perkara enteng untuk dibaca, melainkan aku lebih tertarik membaca buku musik keren-kerenan seperti hip-hop dan punk daripada belajar agama. Maafkan aku ya Allah.
+Aku kira menulis resensi buku itu akan mudah. Ada saja alasan yang membuat aku tidak jadi menulis resensi utuh. Seringnya, karena malas akibat telah melewati rutinitas sehari-hari. Namun, perlu diakui bahwa membaca _Setelah Boombox Usai Menyalak_ (seterusnya aku akan menyebut _Setelah Boombox_) itu lebih mudah daripada membaca _Falsafah Hidup_ Buya Hamka. Bukan karena bobot materinya yang lebih ringan. Tentu tidak. Tulisan Herry Sutresna alias Ucok tentu bukan perkara enteng untuk dibaca, melainkan aku lebih tertarik membaca buku musik keren-kerenan seperti hip-hop dan punk daripada belajar agama. Maafkan aku ya Allah.
 
 Anyway, aku menyusuri rak buku untuk mencari apa yang enak dibaca setelah sepertiga isi _Falsafah Hidup_ kubaca. Aku sungguh ingin membaca buku lagi tapi yang membuatku bergairah. Maka, akan kumulai dari perkara duniawi dulu ketimbang ukhrowi. _Setelah Boombox_ yang sempat kubeli beberapa tahun lalu menjadi pilihan. Dengan kertas yang sudah dihiasi bercak menguning, dan bau khas buku yang disimpan lama. Aku langsung masuk ke tulisan pertama yang berjudul _Bapa_.
 

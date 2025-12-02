@@ -194,6 +194,11 @@ footer span#copy-kecil {
     width: 80%;
     height: auto;
   }
+
+  div#catatan {
+  font-size: 16px;
+  line-height: 1.5;
+  }
 }
 
 /* END OF KALAU KECIL */
