@@ -26,3 +26,5 @@ Kalau ga salah, domain ini sudah ada di tahun 2022. Berarti umurnya sekarang uda
 Selamat ulang tahun untuk domain keren ini yang namanya ngambil inspirasi dari kartun Hey Arnold!
 
 Aku suka banget kartun itu.
+
+![](https://i.ibb.co.com/b50JSkMb/photo-2025-12-10-18-23-14.jpg)
