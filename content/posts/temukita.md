@@ -1,6 +1,7 @@
 ---
 title: "Temukita"
 tagline: "adalah nama cafe yang kupakai untuk nulis tulisan ini"
+imag: "https://i.ibb.co.com/b50JSkMb/photo-2025-12-10-18-23-14.jpg"
 date: 2025-12-10T17:17:23+07:00
 draft: false
 ---
