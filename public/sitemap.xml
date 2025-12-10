@@ -3,18 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/catatan/</loc>
-    <lastmod>2025-12-02T21:24:01+07:00</lastmod>
+    <lastmod>2025-12-10T17:17:23+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tagline/adalah-nama-cafe-yang-kupakai-untuk-nulis-tulisan-ini/</loc>
+    <lastmod>2025-12-10T17:17:23+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tagline/for-me.-its-ok-if-you-wanna-read/</loc>
-    <lastmod>2025-12-02T21:24:01+07:00</lastmod>
+    <lastmod>2025-12-10T17:17:23+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-12-10T17:17:23+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tagline/</loc>
+    <lastmod>2025-12-10T17:17:23+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/catatan/temukita/</loc>
+    <lastmod>2025-12-10T17:17:23+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/review/</loc>
     <lastmod>2025-12-02T21:24:01+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/catatan/setelah-membaca-setelah-boombox/</loc>
     <lastmod>2025-12-02T21:24:01+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tagline/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-12-02T21:24:01+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tagline/usai-menyalak/</loc>
@@ -57,9 +69,6 @@
     <lastmod>2025-06-29T23:01:49+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/diary/</loc>
-    <lastmod>2025-06-29T23:01:49+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-06-29T23:01:49+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tagline/tuangan-pikiran-menunggu-kereta/</loc>
@@ -441,9 +450,6 @@
     <lastmod>2020-08-09T17:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tagline/novel-punk-pertama-di-dunia/</loc>
-    <lastmod>2020-08-09T17:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/review/</loc>
     <lastmod>2020-08-09T17:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/catatan/resensi-buku-flip-da-skrip-kumpulan-catatan-rap-nerd-selama-satu-dekade/</loc>

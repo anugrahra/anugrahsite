@@ -5,7 +5,7 @@ date: 2025-12-10T17:17:23+07:00
 draft: false
 ---
 
-man, terlalu lama diam di ruangan itu bikin gila. aku ngambil cuti, seharian tadi aku di rumah. Main PES dan nontonin YouTube alur cerita Attack on Titans. Itu bikin gue gila! Hiburan tidak semenghibur itu ternyata. Aku memutuskan untuk keluar. Mencari americano hangat sambil menyesap beberapa batang rokok. Dengan kondisi gula darah yang sedang tidak baik-baik saja, tidak banyak yang bisa kumakan. Americano dan air putih adalah sahabat terbaik.
+man, terlalu lama diam di ruangan itu bikin gila. aku ngambil cuti, seharian tadi aku di rumah. Main PES dan nontonin YouTube alur cerita Attack on Titans. Itu bikin gue gila! Hiburan tidak semenghibur itu ternyata. Aku memutuskan untuk keluar. Mencari americano hangat sambil menyesap beberapa batang rokok. Dengan kondisi kesehatan yang sedang tidak baik-baik saja, tidak banyak yang bisa kumakan. Americano dan air putih adalah sahabat terbaik.
 
 sial, aku salah ngambil buku. Harusnya aku mengambil buku Bernard Batubara yang tentang mennulis untuk menulis resensinya. Aku malah membawa bukunya Ucok. Kan bangke!
 

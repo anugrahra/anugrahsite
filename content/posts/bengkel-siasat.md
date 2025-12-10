@@ -10,7 +10,7 @@ title = "Bengkel Siasat"
 [Episode #0 : Kenapa ga nulis aja?](#episode-0--kenapa-ga-nulis-aja)  
 [Episode #1 : Siasat-siasat](#episode-1--siasat-siasat)  
 [Episode #2 : Pasca-kebenaran](#episode-2--pasca-kebenaran)  
-[Episode #3 : Sepatu yang sama](#episode-3--sepatu-yang-sama) _<sub>(👍 recomended)</sub>_  
+[Episode #3 : Sepatu yang sama](#episode-3--sepatu-yang-sama)  
 [Episode #4 : Percaya Tuhan](#episode-4--percaya-tuhan)  
 [Episode #5 : Gak Nyaman](#episode-5--gak-nyaman)  
 [Episode #6 : Baca Buku](#episode-6--baca-buku)  
@@ -24,10 +24,10 @@ title = "Bengkel Siasat"
 [Episode #14 : Menulis untuk Diri](#episode-14--menulis-untuk-diri)  
 [Episode #15 : Rap](#episode-15--rap)  
 [Episode #16 : Dewasa](#episode-16--dewasa)  
-[Episode #17 : Back to 7](#episode-17--back-to-7) _<sub>(🧩 for you)</sub>_  
+[Episode #17 : Back to 7](#episode-17--back-to-7)  
 [Episode #18 : Buku Berguna](#episode-18--buku-berguna)  
 [Episode #19 : Menyiasati Stress](#episode-19--menyiasati-stress)  
-[Episode #20 : Berutopia](#episode-20--berutopia) _<sub>(🌟 best pick)</sub>_
+[Episode #20 : Berutopia](#episode-20--berutopia)
 <br><br><br>
 
 ## **Episode #0 : Kenapa ga nulis aja?**

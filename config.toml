@@ -64,20 +64,19 @@ copyright  = "This work is licensed under a Creative Commons Attribution-NonComm
 # ===============
 
   [[menu.tulisan]]
-  name = "We are all the noseless Voldemort"
-  url = "/catatan/we-are-all-the-noseless-voldemort/"
+  name = "Setelah Membaca Setelah Boombox"
+  url = "/catatan/setelah-membaca-setelah-boombox/"
+  weight = 1
+
+  [[menu.tulisan]]
+  name = "Bengkel Siasat"
+  url = "/catatan/bengkel-siasat/"
+  weight = 2
 
   [[menu.tulisan]]
   name = "Olahraga"
   url = "/catatan/olahraga/"
 
-  [[menu.tulisan]]
-  name = "[Resensi Buku] Flip Da Skrip: Kumpulan Catatan Rap Nerd Selama Satu Dekade"
-  url = "/catatan/resensi-buku-flip-da-skrip-kumpulan-catatan-rap-nerd-selama-satu-dekade/"
-
-  [[menu.tulisan]]
-  name = "Bengkel Siasat"
-  url = "/catatan/bengkel-siasat/"
 
 # ===============
 # MENU RESENSI
