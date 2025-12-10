@@ -55,9 +55,14 @@ copyright  = "This work is licensed under a Creative Commons Attribution-NonComm
 [menu]
 
   [[menu.landing]]
-    name = "📝 Baca catatan terbaru"
-    url = "/catatan/"
+    name = "📄 Baca Catatan Terbaru"
+    url = "/catatan/temukita"
     weight = 1
+
+  [[menu.landing]]
+    name = "📝 Lihat Semua Catatan"
+    url = "/catatan/"
+    weight = 2
 
 # ===============
 # MENU TULISAN FOR YOU
