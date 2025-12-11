@@ -56,7 +56,7 @@ copyright  = "This work is licensed under a Creative Commons Attribution-NonComm
 
   [[menu.landing]]
     name = "📄 Baca Catatan Terbaru"
-    url = "/catatan/temukita"
+    url = "/catatan/dahan-backyard"
     weight = 1
 
   [[menu.landing]]
