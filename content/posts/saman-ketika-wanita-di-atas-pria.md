@@ -1,6 +1,7 @@
 ---
 title: "Saman: Ketika Wanita Di Atas Pria"
 tagline: "menjungkirbalik patriarki"
+image: "https://cdn.gramedia.com/uploads/items/ID_KPG2013MTH02SMN_B___.jpg"
 date: 2014-01-11T12:26:02+07:00
 draft: false
 tags: ["resensi"]

@@ -2,8 +2,8 @@
 date = 2018-08-12T17:00:00Z
 image = "https://dekadensiotak.files.wordpress.com/2018/08/20180812_124140.jpg?w=1154&h=2048"
 tagline = "benar-benar novel mbajingan"
-tags = ["review"]
-title = "[Resensi Buku] Para Bajingan Yang Menyenangkan"
+tags = ["resensi"]
+title = "Para Bajingan Yang Menyenangkan"
 +++
 
 ![](https://dekadensiotak.files.wordpress.com/2018/08/20180812_124140.jpg?w=1154&h=2048)

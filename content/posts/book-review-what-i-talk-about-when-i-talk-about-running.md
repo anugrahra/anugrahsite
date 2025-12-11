@@ -2,8 +2,8 @@
 date = 2018-07-16T19:55:18+07:00
 image = "https://dekadensiotak.files.wordpress.com/2018/07/20180716_140944.jpg?w=572&h=1016"
 tagline = "cara membawa kenyataan ikut berlari bersama"
-tags = ["review"]
-title = "[Resensi Buku] What I Talk About When I Talk About Running"
+tags = ["resensi"]
+title = "What I Talk About When I Talk About Running"
 draft = false
 +++
 

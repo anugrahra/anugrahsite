@@ -2,8 +2,8 @@
 date = 2019-09-09T19:55:18+07:00
 image = "https://dekadensiotak.files.wordpress.com/2019/08/20190815_234057.jpg?w=1024"
 tagline = "hiphophead, bergembiralah!"
-tags = ["review"]
-title = "[Resensi Buku] Flip Da Skrip: Kumpulan Catatan Rap Nerd Selama Satu Dekade"
+tags = ["resensi"]
+title = "Flip Da Skrip: Kumpulan Catatan Rap Nerd Selama Satu Dekade"
 draft = false
 +++
 
