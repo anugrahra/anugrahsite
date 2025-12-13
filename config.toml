@@ -87,7 +87,22 @@ copyright  = "This work is licensed under a Creative Commons Attribution-NonComm
 # MENU RESENSI
 # ===============
 
-  [[menu.review]]
-  name = "Anjing lah"
-  url = "/catatan/das-kapital/"
+  [[menu.resensi]]
+  name = "What I Talk About When I Talk About Running"
+  url = "/catatan/what-i-talk-about-when-i-talk-about-running/"
   weight = 1
+
+  [[menu.resensi]]
+  name = "Flip da Skrip: Kumpulan Catatan Rap Nerd Selama Satu Dekade"
+  url = "/catatan/flip-da-skrip-kumpulan-catatan-rap-nerd-selama-satu-dekade/"
+  weight = 2
+
+  [[menu.resensi]]
+  name = "Saman : Ketika Wanita Di Atas Pria"
+  url = "/catatan/saman-ketika-wanita-di-atas-pria/"
+  weight = 3
+
+  [[menu.resensi]]
+  name = "📋 Lihat Semua Resensi"
+  url = "/tags/resensi/"
+  weight = 4
