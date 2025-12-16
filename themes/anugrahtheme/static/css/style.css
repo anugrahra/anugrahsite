@@ -167,6 +167,21 @@ footer span#copy-kecil {
   display: none;
 }
 
+blockquote {
+  margin: 2.5rem 0;
+  padding-left: 1.5rem;
+  border-left: 4px solid #e6e6e6;
+  color: #555;
+  font-style: italic;
+  font-size: 1.1rem;
+  line-height: 1.6;
+  max-width: 90%;
+}
+
+blockquote p {
+  margin: 0;
+}
+
 @media screen and (max-width: 880px) {
 
   .container {
@@ -210,6 +225,10 @@ footer span#copy-kecil {
   div#catatan {
   font-size: 16px;
   line-height: 1.5;
+  }
+
+  blockquote {
+    font-size: 1.05rem;
   }
 }
 

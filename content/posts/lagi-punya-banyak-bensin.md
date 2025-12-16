@@ -5,13 +5,14 @@ tags = ["diary"]
 title = "Lagi punya banyak bensin"
 
 +++
+
 Sungguh, aku lagi punya banyak bensin untuk menulis.
 
 Aku pun lagi senang belajar banyak hal. Memenuhi arsenal bagi diriku untuk menghadapi hidup.
 
 Petuah dari Imam Syafi'i kupegang erat :
 
-"Ilmu adalah binatang buruan, menulis adalah tali kekangnya"
+> "Ilmu adalah binatang buruan, menulis adalah tali kekangnya"
 
 Maka, aku menulis apa yang sedang aku pelajari dan kusimpan catatannya disini. Akan banyak kekurangan pada catatan-catatanku. Maaf ya.
 
@@ -31,7 +32,7 @@ Masih ada juga project web app yang kucoba untuk diselesaikan. Ini masih nulis j
 
 Ya memang mendiang Steve Job itu benar bahwa menghubungkan titik hanya bisa dilakukan ketika kita memandang ke belakang.
 
-***
+---
 
 Beberapa ulasan buku yang pernah kubuat bisa dibaca di dua tautan berikut :
 

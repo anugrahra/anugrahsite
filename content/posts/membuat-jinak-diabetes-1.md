@@ -5,7 +5,7 @@ draft: true
 tagline: "dia tidak akan memnbunuhku"
 ---
 
-"apa yang tidak membunuhmu, bikin kamu jadi kuat"
+> "apa yang tidak membunuhmu, bikin kamu jadi kuat"
 
 gitu kata nietzsche
 

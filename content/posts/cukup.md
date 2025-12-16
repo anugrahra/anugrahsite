@@ -6,7 +6,7 @@ draft: false
 tags: ["menulis"]
 ---
 
-"Dari Jabir radhiyallaahu 'anhu berkata: Rasulullah SAW bersabda: “Tetaplah kalian semua dengan sikap qanaah, karena sesungguhnya qanaah adalah harta yang tidak pernah habis" (HR. At- Thabarani dalam Mu'jam al-Awsath).
+> "Dari Jabir radhiyallaahu 'anhu berkata: Rasulullah SAW bersabda: “Tetaplah kalian semua dengan sikap qanaah, karena sesungguhnya qanaah adalah harta yang tidak pernah habis" (HR. At- Thabarani dalam Mu'jam al-Awsath).
 
 Dalam KBBI "cukup" adalah sebuah kata sifat yang berarti : _dapat memenuhi kebutuhan atau memuaskan keinginan dan sebagainya; tidak kurang_
 

@@ -5,7 +5,8 @@ tags = ["hack"]
 title = "Ekspektasimu ketinggian"
 
 +++
-“Ekspektasi adalah akar dari sakit hati”
+
+> “Ekspektasi adalah akar dari sakit hati”
 
 Kutipan itu katanya dari Shakespeare. Faktanya, tidak ditemukan satupun kalimat itu dalam karya-karyanya.
 

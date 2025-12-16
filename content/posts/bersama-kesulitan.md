@@ -8,9 +8,9 @@ draft: false
 
 Bismillah,
 
-فَاِنَّ مَعَ الْعُسْرِ يُسْرًاۙ . اِنَّ مَعَ الْعُسْرِ يُسْرًاۗ
+> فَاِنَّ مَعَ الْعُسْرِ يُسْرًاۙ . اِنَّ مَعَ الْعُسْرِ يُسْرًاۗ
 
-"Maka, sesungguhnya beserta kesulitan ada kemudahan. Sesungguhnya beserta kesulitan ada kemudahan." (QS As-Syarh : 5-6)
+> "Maka, sesungguhnya beserta kesulitan ada kemudahan. Sesungguhnya beserta kesulitan ada kemudahan." (QS As-Syarh : 5-6)
 
 Kedua ayat itu jadi ayat favorit saya sekarang ini. Bermula dari konten di media sosial, aku menonton Indra Frimawan membicarakan ini. Mulanya hanya angin lalu, tapi ketika aku ditimpa masalah duniawi, aku langsung ingat dua ayat itu. Sekarang, aku selalu membaca ayat-ayat itu ketika pikiran lagi kalut atau ketika ada problem yang rasanya sulit diselesaikan.
 

@@ -9,8 +9,8 @@ tags: ["resensi"]
 
 _Novel Saman ditulis oleh Ayu Utami dan memenangkan Sayembara Roman pada tahun 1998_
 
-<div style="text-align:center; font-style:italic;">"Wanita dijajah pria sejak dulu" -Ismail Marzuki</div>
-<br>
+> "Wanita dijajah pria sejak dulu" -Ismail Marzuki
+
 Apa yang aku rasakan sekarang, di lingkungan sekitar di tempat aku hidup: Pria selalu dikaitkan
 dengan kekuatan dimana semua pekerjaan berat-berat harus menempel di kepribadian pria,
 termasuk pekerjaan memperkosa. Dimana si pria menggagahi wanita yang memang akan selalu
@@ -105,10 +105,11 @@ bagaimana wanita dapat mengambil alih peran pria dalam masalah kerjaan apa yang 
 diambil siapa dan tentang seks dimana siapa harus "di atas" siapa. Gitu aja sih.. yah pokoknya
 mah nilai-nilai patriarki bisa dipatahkan, menurut novel ini - menurut pikiran sintingku.
 
-<div style="text-align:center; font-style:italic;">"Namun ada kala pria tak berdaya. Bertekuk lutut di sudut kerling wanita" - Ismail Marzuki</div>
+> "Namun ada kala pria tak berdaya. Bertekuk lutut di sudut kerling wanita" - Ismail Marzuki
+
+---
+
 <br>
-<hr>
-***
 
 Tulisan ini pernah dimuat di :[Buku-buku yang terbaca secara Rock N Roll](https://drive.google.com/file/d/1K5qmSjbXZwjD5zHamTfu3JsQQPCCyDub/view?usp=drive_link) dan [Medium - Saman: Ketika Wanita di Atas Pria](https://medium.com/p/4b7405e07e40)
 
