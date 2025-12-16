@@ -79,8 +79,8 @@ copyright  = "This work is licensed under a Creative Commons Attribution-NonComm
   weight = 2
 
   [[menu.tulisan]]
-  name = "Olahraga"
-  url = "/catatan/olahraga/"
+  name = "Godot dan Masa Depan"
+  url = "/catatan/godot-dan-masa-depan/"
 
 
 # ===============

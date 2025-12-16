@@ -3,6 +3,7 @@ title: "Godot dan Masa Depan"
 tagline: "ilusi yang diyakini"
 image: "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*fCz9FVjkfd9RLLIFLEvcrQ.jpeg"
 date: 2013-10-16T19:39:14+07:00
+tags: ["resensi"]
 draft: false
 ---
 
