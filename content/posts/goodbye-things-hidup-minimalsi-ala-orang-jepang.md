@@ -57,6 +57,8 @@ Lebih keren kan itu terjemahannya dari pada judul versi Bahasa Indonesianya?
 
 ---
 
+<br>
+
 ![](https://miro.medium.com/v2/resize:fit:720/format:webp/0*-ZyB3pJvR-bBmGJ3)
 
 **Goodbye, Things: Hidup Minimalis ala Orang Jepang**  
