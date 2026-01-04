@@ -2,6 +2,7 @@
 title: "Goodbye, Things: Hidup Minimalis Ala Orang Jepang"
 tagline: "supaya jadi Tyler Durden"
 date: 2019-11-29T16:16:13+07:00
+image: "https://miro.medium.com/v2/resize:fit:720/format:webp/0*-ZyB3pJvR-bBmGJ3"
 draft: false
 tags: ["resensi"]
 ---
