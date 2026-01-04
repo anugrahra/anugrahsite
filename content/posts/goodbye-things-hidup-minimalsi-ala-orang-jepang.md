@@ -59,12 +59,12 @@ Lebih keren kan itu terjemahannya dari pada judul versi Bahasa Indonesianya?
 
 ![](https://miro.medium.com/v2/resize:fit:720/format:webp/0*-ZyB3pJvR-bBmGJ3)
 
-**Goodbye, Things: Hidup Minimalis ala Orang Jepang**
-Cetakan Keenam, Juni 2019
-Judul Asli: ぼくたちに、もうモノは必要ない。 断捨離からミニマリストへ
-Penulis: Fumio Sasaki
-Penerjemah: Annisa Cinantya Putri
-Penerbit: PT. Gramedia Pustaka Utama
-Halaman: 280 halaman
-Bahasa: Bahasa Indonesia
+**Goodbye, Things: Hidup Minimalis ala Orang Jepang**  
+Cetakan Keenam, Juni 2019  
+Judul Asli: ぼくたちに、もうモノは必要ない。 断捨離からミニマリストへ  
+Penulis: Fumio Sasaki  
+Penerjemah: Annisa Cinantya Putri  
+Penerbit: PT. Gramedia Pustaka Utama  
+Halaman: 280 halaman  
+Bahasa: Bahasa Indonesia  
 Rating: 8/10
