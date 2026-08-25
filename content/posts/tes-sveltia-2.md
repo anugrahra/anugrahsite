@@ -5,7 +5,7 @@ date: 2026-08-25T11:43:00+07:00
 image: https://64.media.tumblr.com/avatar_c0d819c87481_128.pnj
 tags:
   - tes
-draft: true
+draft: false
 ---
 
 jkashdlkaslkdjalsdkkkkkkkkkkkkkkkkkkkkkkkkkkjkhajkhsdjkhasjkdhjkahsdjkahsdjhajskdhjakhsdjkahsdjkahsdjkhasjkdhajkshdjkashdjkahsdjkhasjkdhajkshdjkashdjkashdkjanlgnamlskjdflkajfgklasjjdlkasmd
