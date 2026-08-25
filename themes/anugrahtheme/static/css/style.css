@@ -1,84 +1,5 @@
-/* =========================================================
-   GOOGLE FONTS
-   ========================================================= */
-
 @import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;0,700;1,400;1,700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Gochi+Hand&display=swap");
-
-/* =========================================================
-   CUSTOM SETTINGS
-   Edit everything you want to customize here.
-   ========================================================= */
-
-:root {
-	/* ---------- COLORS ---------- */
-
-	--color-background: #ffffff;
-	--color-text: #000000;
-	--color-link: #000000;
-	--color-link-hover: #000000;
-
-	--color-highlight: #ffff00;
-
-	--color-border: #808080;
-	--color-quote-border: #e6e6e6;
-	--color-quote-text: #555555;
-
-	/* ---------- FONTS ---------- */
-
-	--font-body: "Nunito", sans-serif;
-	--font-heading: "Gochi Hand", cursive;
-
-	/* ---------- FONT SIZES ---------- */
-
-	--font-size-body: 20px;
-	--font-size-introduction: 20px;
-	--font-size-links: 20px;
-	--font-size-reading: 20px;
-	--font-size-quote: 1.1rem;
-
-	--font-size-mobile: 16px;
-	--font-size-quote-mobile: 1.05rem;
-
-	/* ---------- LINE HEIGHT ---------- */
-
-	--line-height-body: normal;
-	--line-height-reading: 33px;
-	--line-height-mobile: 1.5;
-	--line-height-quote: 1.6;
-
-	/* ---------- LAYOUT ---------- */
-
-	--container-left: 20%;
-	--container-right: 20%;
-
-	--container-mobile-left: 5%;
-	--container-mobile-right: 5%;
-
-	/* ---------- SPACING ---------- */
-
-	--header-margin: 2% 0;
-	--main-margin-bottom: 2%;
-
-	--paragraph-margin-bottom: 2%;
-	--reading-paragraph-margin-bottom: 2%;
-
-	--parts-padding-top: 10px;
-
-	--blockquote-margin: 2.5rem 0;
-	--blockquote-padding-left: 1.5rem;
-
-	/* ---------- NAVIGATION ---------- */
-
-	--nav-background: #fdff00;
-	--nav-padding: 0.9rem 1.2rem;
-	--nav-radius: 10px;
-	--nav-margin-bottom: 0.8rem;
-}
-
-/* =========================================================
-   RESET
-   ========================================================= */
 
 * {
 	margin: 0;
@@ -86,85 +7,67 @@
 	text-align: left;
 }
 
-/* =========================================================
-   BODY
-   ========================================================= */
-
 body {
-	font-family: var(--font-body);
-	font-size: var(--font-size-body);
-	line-height: var(--line-height-body);
-
-	color: var(--color-text);
-	background-color: var(--color-background);
-
+	font-family: "Nunito", sans-serif;
 	text-align: justify;
 }
 
-/* =========================================================
-   HEADER
-   ========================================================= */
+body #podcastlogo {
+	width: 50%;
+	height: auto;
+}
 
 header {
-	margin: var(--header-margin);
+	margin: 2% 0 2% 0;
 }
 
 header h4#main-title {
-	font-family: var(--font-heading);
 	text-align: right;
+	font-family: "Gochi Hand", cursive;
 }
 
-header a:link,
-header a:hover,
+header a:link {
+	text-decoration: none;
+	color: black;
+}
+
+header a:hover {
+	text-decoration: none;
+	color: black;
+}
+
 header a:visited {
 	text-decoration: none;
-	color: var(--color-link);
+	color: black;
 }
 
-/* =========================================================
-   LAYOUT
-   ========================================================= */
-
 .container {
-	margin: 1% var(--container-right) 0 var(--container-left);
+	margin: 1% 20% 0 20%;
 }
 
 main {
-	margin-bottom: var(--main-margin-bottom);
+	margin-bottom: 2%;
 }
-
-/* =========================================================
-   TITLES & PARTS
-   ========================================================= */
 
 a.title:link,
 div#parts a:link {
 	text-decoration: none;
-	color: var(--color-link);
+	color: black;
 }
 
 a.title:hover,
 div#parts a:hover {
-	background-color: var(--color-highlight);
+	background-color: yellow;
 }
 
 a.title:visited,
 div#parts a {
-	color: var(--color-link);
+	color: black;
 }
 
-div#parts {
-	padding-top: var(--parts-padding-top);
-	border-top: 1px dashed var(--color-border);
+section#introduction p {
+	font-size: 20px;
 }
-
-h1#title-catatan {
-	text-align: left;
-}
-
-/* =========================================================
-   INTRODUCTION
-   ========================================================= */
 
 section#introduction {
 	margin-top: 1%;
@@ -174,18 +77,10 @@ section#introduction h1 {
 	text-align: left;
 }
 
-section#introduction p {
-	font-size: var(--font-size-introduction);
-}
-
 section#introduction p#halo {
 	margin-top: 1%;
 	text-align: left;
 }
-
-/* =========================================================
-   LINKS
-   ========================================================= */
 
 section#links {
 	margin-top: 1%;
@@ -201,47 +96,52 @@ section#tulisan-review ul li {
 section#links a:link,
 section#tulisan-pilihan a:link,
 section#tulisan-review a:link {
-	font-size: var(--font-size-links);
+	font-size: 20px;
 	text-decoration: none;
-	color: var(--color-link);
+	color: black;
 }
 
 section#links a:hover,
 section#tulisan-pilihan a:hover,
 section#tulisan-review a:hover {
 	text-decoration: underline;
-	color: var(--color-link-hover);
 }
 
 section#links a:visited,
 section#tulisan-pilihan a:visited,
 section#tulisan-review a:visited {
-	color: var(--color-link);
+	color: black;
 }
 
-/* =========================================================
-   NAVIGATION
-   ========================================================= */
+section#video-pilihan iframe {
+	width: 80%;
+}
 
 li.landing-nav {
 	margin-bottom: 1%;
 }
 
-/* =========================================================
-   PARAGRAPH
-   ========================================================= */
-
 p {
-	margin: 0 0 var(--paragraph-margin-bottom) 0;
+	margin: 0 0 2% 0;
 }
 
-/* =========================================================
-   CATATAN / READING
-   ========================================================= */
+div#parts {
+	padding-top: 10px;
+	border-top: 1px dashed grey;
+}
+
+div#parts a:link {
+	text-decoration: none;
+	color: black;
+}
+
+h1#title-catatan {
+	text-align: left;
+}
 
 div#catatan {
-	font-size: var(--font-size-reading);
-	line-height: var(--line-height-reading);
+	font-size: 20px;
+	line-height: 33px;
 	text-align: left;
 }
 
@@ -250,87 +150,62 @@ div#catatan img {
 	height: auto;
 }
 
-div#catatan p {
-	margin-bottom: var(--reading-paragraph-margin-bottom);
-}
-
-/* =========================================================
-   FOOTER
-   ========================================================= */
-
 footer a:link {
 	text-decoration: none;
-	color: var(--color-link);
+	color: black;
 }
 
 footer a:hover {
 	text-decoration: underline;
-	color: var(--color-link-hover);
 }
 
 footer a:visited {
-	color: var(--color-link);
+	color: black;
 }
 
 footer span#copy-kecil {
 	display: none;
 }
 
-/* =========================================================
-   BLOCKQUOTE
-   ========================================================= */
-
 blockquote {
-	max-width: 90%;
-
-	margin: var(--blockquote-margin);
-	padding-left: var(--blockquote-padding-left);
-
-	border-left: 4px solid var(--color-quote-border);
-
-	color: var(--color-quote-text);
-
+	margin: 2.5rem 0;
+	padding-left: 1.5rem;
+	border-left: 4px solid #e6e6e6;
+	color: #555;
 	font-style: italic;
-	font-size: var(--font-size-quote);
-	line-height: var(--line-height-quote);
+	font-size: 1.1rem;
+	line-height: 1.6;
+	max-width: 90%;
 }
 
 blockquote p {
 	margin: 0;
 }
 
-/* =========================================================
-   MOBILE
-   ========================================================= */
-
 @media screen and (max-width: 880px) {
 	.container {
-		margin: 1% var(--container-mobile-right) 0 var(--container-mobile-left);
+		margin: 1% 5% 0 5%;
 	}
 
 	.landing-nav a {
+		font-size: 16px !important;
+		line-height: 1.5 !important;
+
 		display: block;
-
-		padding: var(--nav-padding);
-		margin-bottom: var(--nav-margin-bottom);
-
-		border-radius: var(--nav-radius);
-
-		background: var(--nav-background);
-
-		font-size: var(--font-size-mobile) !important;
-		line-height: var(--line-height-mobile) !important;
-
+		padding: 0.9rem 1.2rem;
+		border-radius: 10px;
 		text-decoration: none;
-	}
-
-	div#catatan {
-		font-size: var(--font-size-mobile);
-		line-height: var(--line-height-mobile);
+		background: #fdff00; /* ganti sesuai tema */
+		margin-bottom: 0.8rem;
 	}
 
 	div#catatan p {
 		margin-bottom: 5%;
+	}
+
+	section#video-pilihan iframe {
+		width: 100%;
+		height: auto;
 	}
 
 	footer span#copy-besar {
@@ -341,11 +216,19 @@ blockquote p {
 		display: block;
 	}
 
+	body #podcastlogo {
+		width: 80%;
+		height: auto;
+	}
+
+	div#catatan {
+		font-size: 16px;
+		line-height: 1.5;
+	}
+
 	blockquote {
-		font-size: var(--font-size-quote-mobile);
+		font-size: 1.05rem;
 	}
 }
 
-/* =========================================================
-   END
-   ========================================================= */
+/* END OF KALAU KECIL */
