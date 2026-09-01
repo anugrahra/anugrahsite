@@ -5,7 +5,7 @@ date: 2022-11-02T17:00:00.000Z
 image: https://i.ibb.co/Ln02d4m/9df9c574dd573821ee7850a87cdeac43.jpg
 tags:
   - diary
-draft: false
+draft: true
 ---
 
 ![](https://i.ibb.co/Ln02d4m/9df9c574dd573821ee7850a87cdeac43.jpg)
