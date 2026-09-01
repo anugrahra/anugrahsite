@@ -23,19 +23,19 @@ copyright  = "This work is licensed under a Creative Commons Attribution-NonComm
   weight = 1
 
 [[menu.main]]
-  name   = "Dukung"
-  url    = "https://saweria.co/AnugrahRamadhan"
+  name   = "Kontak"
+  url    = "/kontak/"
   weight = 2
 
 [[menu.main]]
-  name   = "Kontak"
-  url    = "/kontak/"
+  name   = "Now"
+  url    = "/now/"
   weight = 3
 
 [[menu.main]]
   name   = "RSS"
   url    = "/catatan/index.xml"
-  weight = 5
+  weight = 4
 
 # ===========================
 # URL & TAXONOMIES

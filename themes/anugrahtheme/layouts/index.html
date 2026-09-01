@@ -1,6 +1,11 @@
 {{ define "main" }}
 <section id="introduction">
-  <h1>Halo, saya Anugrah,</h1>
+  <h1>
+    Halo, aku 
+    <mark>
+      <a href="{{ with .Site.GetPage "/me" }}{{ .RelPermalink }}{{ end }}" style="text-decoration: none;">Anugrah</a>
+    </mark>,
+  </h1>
   <p id="halo"><i>karyawan yang suka nulis</i></p>
 </section>
 <section id="links">

@@ -524,8 +524,18 @@
     <loc>http://localhost:1313/tagline/ilusi-yang-diyakini/</loc>
     <lastmod>2013-10-16T19:39:14+07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/me/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/codes/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tagline/karyawan-yang-suka-nulis/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tagline/koding-sederhana-yang-ngebantu-hidupku/</loc>
+  </url><url>
     <loc>http://localhost:1313/kontak/</loc>
+  </url><url>
+    <loc>http://localhost:1313/now/</loc>
   </url>
 </urlset>

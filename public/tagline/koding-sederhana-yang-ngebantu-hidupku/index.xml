@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Koding Sederhana Yang Ngebantu Hidupku on hey anugrah!</title>
+    <link>http://localhost:1313/tagline/koding-sederhana-yang-ngebantu-hidupku/</link>
+    <description>Recent content in Koding Sederhana Yang Ngebantu Hidupku on hey anugrah!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-ID</language>
+    <managingEditor>dialog.anugrah@gmail.com (Anugrah Ramadhan)</managingEditor>
+    <webMaster>dialog.anugrah@gmail.com (Anugrah Ramadhan)</webMaster>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</copyright><atom:link href="http://localhost:1313/tagline/koding-sederhana-yang-ngebantu-hidupku/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Codes</title>
+      <link>http://localhost:1313/codes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>dialog.anugrah@gmail.com (Anugrah Ramadhan)</author>
+      <guid>http://localhost:1313/codes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
