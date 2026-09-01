@@ -1,11 +1,13 @@
-+++
-date = 2022-04-29T17:00:00Z
-tagline = "terima kasih"
-tags = ["diary"]
-title = "JKT48 really saved my life"
-image = "https://jkt48.com/images/logo.svg"
+---
+title: JKT48 really saved my life
+tagline: terima kasih
+date: 2022-04-29T17:00:00.000Z
+image: https://jkt48.com/images/logo.svg
+tags:
+  - diary
+draft: false
+---
 
-+++
 Gak nyangka aja. Ternyata _idol group_ ini yang menyelamatkan hidup saya.
 
 ![](https://jkt48.com/images/logo.svg)
