@@ -1,11 +1,13 @@
-+++
-date = 2022-11-02T17:00:00Z
-image = "https://i.ibb.co/Ln02d4m/9df9c574dd573821ee7850a87cdeac43.jpg"
-tagline = "setidaknya sampai One Piece ditemukan"
-tags = ["diary"]
-title = "Aku hanya ingin bertahan"
+---
+title: Aku hanya ingin bertahan
+tagline: setidaknya sampai One Piece ditemukan
+date: 2022-11-02T17:00:00.000Z
+image: https://i.ibb.co/Ln02d4m/9df9c574dd573821ee7850a87cdeac43.jpg
+tags:
+  - diary
+draft: false
+---
 
-+++
 ![](https://i.ibb.co/Ln02d4m/9df9c574dd573821ee7850a87cdeac43.jpg)
 
 Banyak kisah haru dari manga super populer ini, aku ingin masuk dalam daftar kisah itu juga.
