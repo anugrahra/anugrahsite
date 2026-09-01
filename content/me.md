@@ -10,4 +10,4 @@ Aku memperlakukan situs maya ini sebagai kebun digital. Terinspirasi dari **[Hil
 
 Untuk tahu apa yang sedang kulakukan sekarang, kamu bisa mengunjungi halaman **[now](/now/)**.
 
-Kamu juga bisa menyapaku melalui email berikut : [dialog.anugrah@gmail.com](mailto:dialog.anugrah@gmail.com)
+Kamu juga bisa menyapaku melalui email berikut : **[dialog.anugrah@gmail.com](mailto:dialog.anugrah@gmail.com)**
