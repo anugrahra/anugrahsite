@@ -1,9 +1,11 @@
 ---
-title: "Tentang menghalau bosan"
-tagline: "yang kamu butuhkan"
-date: 2020-08-25T20:31:54+07:00
+title: Tentang menghalau bosan
+tagline: yang kamu butuhkan
+date: 2020-08-25T20:31:00+07:00
+image: ''
+tags:
+  - hack
 draft: false
-tags: ["hack"]
 ---
 
 Aku baru bikin kanal di telegram yang kujadikan platform untuk microblogging. Aku mencontek [Bang Fariz](https://faultable.dev) untuk hal itu, sayang dia udah nutup microbloggingnya itu.
@@ -20,12 +22,12 @@ Mungkin tulisan ini bisa membantumu wahai kawan. Tulisan ini tidak akan bikin hi
 
 Mari kita lihat dulu apa arti kata bosan menurut KBBI, dan anggap kita sepakat dengan itu:
 
----
+***
 
 **bo.san**  
-*a* sudah tidak suka lagi karena sudah terlalu sering atau banyak; jemu  
+_a_ sudah tidak suka lagi karena sudah terlalu sering atau banyak; jemu  
 
----
+***
 
 Pegel juga ngomong sok serius.. anjing lah
 
@@ -35,7 +37,7 @@ Jadi misal, kalau lo lagi bosen sama kerjaan lo nih. Lo biosa melipir bentar ke 
 
 Hobi itu kan gak harus satu. Bisa banyak. Lo bisa eksplorasi hobi lo. Bisa juga lo manfaatin hobi lo di kerjaan lo. Untungnya gue hobi nulis. Ya udah gue nulis artikel juga buat website kantor gue. Walaupun websitenya belum mengudara. Aduh nasib. Gapapa, yang penting gak bosen.
 
-Bisa juga lo kejar ambisi lo. Karena, kan gue ngoding ya. Gue gak berani bilang ngoding itu hobi. Soalnya susah banget anjis. Tapi ambisi gue itu jadi programmer jago, jadinya gue tetep belajar ngoding walaupun gak jago-jago. Jadi kalau gue lagi mandek nulis, gue bisa belajar ngoding ah. Atau kalau gue lagi kesel ngoding error mulu, gue bisa nulis dulu ah. Atau gue bisa juga tuh nulis tentang koding-kodingan, kayak di[dekadensiotak.id](https://dkdnstk.netlify.app)
+Bisa juga lo kejar ambisi lo. Karena, kan gue ngoding ya. Gue gak berani bilang ngoding itu hobi. Soalnya susah banget anjis. Tapi ambisi gue itu jadi programmer jago, jadinya gue tetep belajar ngoding walaupun gak jago-jago. Jadi kalau gue lagi mandek nulis, gue bisa belajar ngoding ah. Atau kalau gue lagi kesel ngoding error mulu, gue bisa nulis dulu ah. Atau gue bisa juga tuh nulis tentang koding-kodingan, kayak di [dekadensiotak.id](https://dkdnstk.netlify.app)
 
 Terus, gak perlu juga lo selalu ngelakuin hal yang serius nan bermanfaat. Gue kalau lagi suntuk nih, gue bisa maen game, atau nontonin youtube atau netflix. Manfaatnya apa? Ga ada. Gunanya apa? ga ada. Produktif? Engga. Bodo amat, yang penting gue gak bosen.
 
