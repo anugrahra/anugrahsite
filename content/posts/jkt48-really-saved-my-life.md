@@ -5,7 +5,7 @@ date: 2022-04-29T17:00:00.000Z
 image: https://jkt48.com/images/logo.svg
 tags:
   - diary
-draft: false
+draft: true
 ---
 
 Gak nyangka aja. Ternyata _idol group_ ini yang menyelamatkan hidup saya.
