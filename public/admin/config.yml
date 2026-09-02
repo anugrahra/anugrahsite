@@ -7,15 +7,24 @@ backend:
 media_folder: static/media
 public_folder: /media
 
+# =========================================================
+# COLLECTIONS
+# =========================================================
+
 collections:
+  # =======================================================
+  # POSTS
+  # =======================================================
+
   - name: posts
-    label: Posts
-    label_singular: Post
+    label: Catatan
+    label_singular: Catatan
     folder: content/posts
     create: true
+    format: toml-frontmatter
 
     fields:
-      - label: Title
+      - label: Judul
         name: title
         widget: string
 
@@ -24,16 +33,16 @@ collections:
         widget: string
         required: false
 
-      - label: Date
+      - label: Tanggal
         name: date
         widget: datetime
         format: "YYYY-MM-DDTHH:mm:ssZ"
 
-      - label: Image
+      - label: Gambar
         name: image
         widget: string
         required: false
-        hint: "URL gambar eksternal untuk thumbnail/card dan social sharing"
+        hint: "Masukkan URL gambar eksternal."
 
       - label: Tags
         name: tags
@@ -49,6 +58,238 @@ collections:
         widget: boolean
         default: true
 
-      - label: Body
+      - label: Isi Catatan
         name: body
         widget: richtext
+
+  # =======================================================
+  # SITE CONFIGURATION
+  # =======================================================
+
+  - name: site-config
+    label: ⚙️ Konfigurasi Situs
+    icon: settings
+
+    files:
+      - name: config
+        label: Pengaturan Situs
+        file: config.toml
+        format: toml
+
+        fields:
+          # -------------------------------------------------
+          # GENERAL
+          # -------------------------------------------------
+
+          - name: baseURL
+            label: Base URL
+            widget: string
+            hint: "Alamat utama website."
+
+          - name: title
+            label: Judul Website
+            widget: string
+
+          - name: description
+            label: Deskripsi
+            widget: text
+
+          - name: languageCode
+            label: Bahasa
+            widget: string
+            default: id-ID
+
+          - name: rssLimit
+            label: Jumlah RSS
+            widget: number
+            value_type: int
+            min: 1
+
+          - name: theme
+            label: Theme
+            widget: string
+            default: anugrahtheme
+
+          - name: copyright
+            label: Copyright
+            widget: text
+
+          # -------------------------------------------------
+          # AUTHOR
+          # -------------------------------------------------
+
+          - name: author
+            label: ✍️ Author
+            widget: object
+            fields:
+              - name: name
+                label: Nama
+                widget: string
+
+              - name: email
+                label: Email
+                widget: string
+
+          # -------------------------------------------------
+          # MARKUP
+          # -------------------------------------------------
+
+          - name: markup
+            label: Markup
+            widget: object
+            collapsed: true
+
+            fields:
+              - name: goldmark
+                label: Goldmark
+                widget: object
+                fields:
+                  - name: renderer
+                    label: Renderer
+                    widget: object
+                    fields:
+                      - name: unsafe
+                        label: Allow Unsafe HTML
+                        widget: boolean
+                        hint: "Izinkan HTML langsung di dalam Markdown."
+
+          # -------------------------------------------------
+          # PERMALINKS
+          # -------------------------------------------------
+
+          - name: permalinks
+            label: 🔗 Permalinks
+            widget: object
+
+            fields:
+              - name: posts
+                label: URL Catatan
+                widget: string
+                hint: "Contoh: /catatan/:title/"
+
+          # -------------------------------------------------
+          # TAXONOMIES
+          # -------------------------------------------------
+
+          - name: taxonomies
+            label: 🏷️ Taxonomies
+            widget: object
+            collapsed: true
+
+            fields:
+              - name: category
+                label: Category
+                widget: string
+
+              - name: tag
+                label: Tag
+                widget: string
+
+              - name: tagline
+                label: Tagline
+                widget: string
+
+              - name: image
+                label: Image
+                widget: string
+
+          # -------------------------------------------------
+          # MENUS
+          # -------------------------------------------------
+
+          - name: menu
+            label: 🧭 Menu
+            widget: object
+
+            fields:
+              # =============================================
+              # MAIN MENU
+              # =============================================
+
+              - name: main
+                label: Main Menu
+                label_singular: Menu
+                widget: list
+                allow_reorder: true
+                fields:
+                  - name: name
+                    label: Nama
+                    widget: string
+
+                  - name: url
+                    label: URL
+                    widget: string
+
+                  - name: weight
+                    label: Urutan
+                    widget: number
+                    value_type: int
+
+              # =============================================
+              # LANDING MENU
+              # =============================================
+
+              - name: landing
+                label: Landing Menu
+                label_singular: Item
+                widget: list
+                allow_reorder: true
+                fields:
+                  - name: name
+                    label: Nama
+                    widget: string
+
+                  - name: url
+                    label: URL
+                    widget: string
+
+                  - name: weight
+                    label: Urutan
+                    widget: number
+                    value_type: int
+
+              # =============================================
+              # TULISAN FOR YOU
+              # =============================================
+
+              - name: tulisan
+                label: Tulisan For You
+                label_singular: Tulisan
+                widget: list
+                allow_reorder: true
+                fields:
+                  - name: name
+                    label: Nama
+                    widget: string
+
+                  - name: url
+                    label: URL
+                    widget: string
+
+                  - name: weight
+                    label: Urutan
+                    widget: number
+                    value_type: int
+
+              # =============================================
+              # RESENSI
+              # =============================================
+
+              - name: resensi
+                label: Resensi
+                label_singular: Resensi
+                widget: list
+                allow_reorder: true
+                fields:
+                  - name: name
+                    label: Nama
+                    widget: string
+
+                  - name: url
+                    label: URL
+                    widget: string
+
+                  - name: weight
+                    label: Urutan
+                    widget: number
+                    value_type: int
