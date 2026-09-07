@@ -15,7 +15,7 @@ Aku juga lagi aktif membaca buku, sekarang aku lagi membaca buku **[Sapiens](htt
 
 Aku suka menulis **[resensi](/tags/resensi/)** untuk buku-buku yang meninggalkan kesan menarik.
 
-Selain menulis di sini aku juga kadang menulis di caption **[instagram](https://www.instagram.com/anugrahr____)**.
+Selain menulis di sini aku juga kadang menulis di caption **[instagram](https://www.instagram.com/anugrahr____)**. Sekarang aku mulai merambah ke **[substack](https://anugrahr.substack.com)**
 
 Untuk menulis dan menyuburkan kebun digitalku ini, aku masih memaksa menggunakan **[Asus Zenbook 13](https://www.asus.com/laptops/for-home/zenbook/zenbook-13-ux325/)** yang sudah mulai ngadat.
 
