@@ -64,6 +64,11 @@ copyright  = "This work is licensed under a Creative Commons Attribution-NonComm
     url = "/catatan/"
     weight = 2
 
+  [[menu.landing]]
+    name = "🛠️ Yang Aku Buat"
+    url = "/works/"
+    weight = 3
+
 # ===============
 # MENU TULISAN FOR YOU
 # ===============

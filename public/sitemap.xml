@@ -3,18 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/catatan/</loc>
-    <lastmod>2026-09-02T19:57:00+07:00</lastmod>
+    <lastmod>2026-09-07T23:25:38+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tagline/for-me.-its-ok-if-you-wanna-read/</loc>
+    <lastmod>2026-09-07T23:25:38+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-09-07T23:25:38+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tagline/</loc>
+    <lastmod>2026-09-07T23:25:38+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tagline/akhirnya-kubikin-juga/</loc>
+    <lastmod>2026-09-07T22:54:14+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/catatan/substack/</loc>
+    <lastmod>2026-09-07T22:54:14+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/catatan/40-hari-meludah-kata/</loc>
     <lastmod>2026-09-02T19:57:00+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/diary/</loc>
-    <lastmod>2026-09-02T19:57:00+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tagline/for-me.-its-ok-if-you-wanna-read/</loc>
-    <lastmod>2026-09-02T19:57:00+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2026-09-02T19:57:00+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/image/https/images.unsplash.com/photo-1500099817043-86d46000d58fq80w1974autoformatfitcropixlibrb-4.1.0ixidm3wxmja3fdb8mhxwag90by1wywdlfhx8fgvufdb8fhx8fa%3d%3d/</loc>
@@ -24,9 +33,6 @@
     <lastmod>2026-09-02T19:57:00+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tagline/setelah-membaca-atomic-habits/</loc>
-    <lastmod>2026-09-02T19:57:00+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tagline/</loc>
     <lastmod>2026-09-02T19:57:00+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
@@ -519,5 +525,9 @@
     <loc>http://localhost:1313/kontak/</loc>
   </url><url>
     <loc>http://localhost:1313/now/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tagline/things-i-write-/-create/</loc>
+  </url><url>
+    <loc>http://localhost:1313/works/</loc>
   </url>
 </urlset>
